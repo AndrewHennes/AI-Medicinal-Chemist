@@ -1,0 +1,156 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "component": "policy/optimizers.py",
+      "name": "actor_parameters",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "policy/optimizers.py",
+      "name": "flat_gradient",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "policy/optimizers.py",
+      "name": "conjugate_gradient",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "policy/optimizers.py",
+      "name": "pack",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "policy/optimizers.py",
+      "name": "ppo_update",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "policy/optimizers.py",
+      "name": "trpo_actor_update",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "policy/optimizers.py",
+      "name": "trpo_update",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "policy/optimizers.py",
+      "name": "dpo_loss",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/models.py",
+      "name": "mlp",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/models.py",
+      "name": "pair_attention",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/models.py",
+      "name": "subset_scorer",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/models.py",
+      "name": "batch_policy",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/models.py",
+      "name": "make_model",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/models.py",
+      "name": "score_subsets",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/models.py",
+      "name": "select_neural",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/models.py",
+      "name": "relaxed_slots",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/search.py",
+      "name": "collate_states",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/search.py",
+      "name": "stable_top",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/search.py",
+      "name": "posterior_samples",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/search.py",
+      "name": "subset_search",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/search.py",
+      "name": "select_classical",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/search.py",
+      "name": "batch_times",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "batch/search.py",
+      "name": "random_expectation",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "models/reference_ablations.py",
+      "name": "initial_reference_kernel_model.forward",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "models/reference_ablations.py",
+      "name": "averaged_reference_model.averaged_prior",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "models/reference_ablations.py",
+      "name": "average_mean_model.local_averaged_prior",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "models/reference_ablations.py",
+      "name": "average_mean_model.forward",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "models/reference_ablations.py",
+      "name": "weighted_reference_model.anchor_weights",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "models/reference_ablations.py",
+      "name": "weighted_reference_model.raw_baselines",
+      "identical_ast_after_renaming": true
+    },
+    {
+      "component": "models/reference_ablations.py",
+      "name": "weighted_reference_model.centered_baselines",
+      "identical_ast_after_renaming": true
+    }
+  ],
+  "scope": "Numerical AST comparison with historical source after snake_case substitutions."
+}

@@ -1,0 +1,28 @@
+{
+  "jobs": 60,
+  "source_and_checkpoint_hashes_verified": true,
+  "fixed_queries_verified": true,
+  "nested_reveals_verified": true,
+  "hidden_label_exclusion_verified": true,
+  "delta_outcome_rank_invariance_verified": true,
+  "matched_counterfactual_contexts_verified": true,
+  "curve_rows": 1473840,
+  "experiment_rows": 255216,
+  "transformation_rows": 66360,
+  "coverage": {
+    "large": {
+      "pools": 580,
+      "groups": 334
+    },
+    "medium": {
+      "pools": 880,
+      "groups": 495
+    },
+    "small": {
+      "pools": 1041,
+      "groups": 564
+    }
+  },
+  "undefined_curve_rows": 23412,
+  "bootstrap_draws": 2000
+}

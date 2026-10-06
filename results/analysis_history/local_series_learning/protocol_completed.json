@@ -1,0 +1,47 @@
+{
+  "pdf_pages": 24,
+  "summary_pages": 8,
+  "figures": 21,
+  "checks": {
+    "jobs": 60,
+    "source_and_checkpoint_hashes_verified": true,
+    "fixed_queries_verified": true,
+    "nested_reveals_verified": true,
+    "hidden_label_exclusion_verified": true,
+    "delta_outcome_rank_invariance_verified": true,
+    "matched_counterfactual_contexts_verified": true,
+    "curve_rows": 1473840,
+    "experiment_rows": 255216,
+    "transformation_rows": 66360,
+    "coverage": {
+      "large": {
+        "pools": 580,
+        "groups": 334
+      },
+      "medium": {
+        "pools": 880,
+        "groups": 495
+      },
+      "small": {
+        "pools": 1041,
+        "groups": 564
+      }
+    },
+    "undefined_curve_rows": 23412,
+    "bootstrap_draws": 2000
+  },
+  "statistical_checks": {
+    "ranking_ties": true,
+    "paired_constant_effect": true,
+    "shared_group_resampling": true,
+    "single_group_interval_unavailable": true,
+    "molecule_order_and_values_match_all_folds_and_pipelines": true,
+    "each_pool_tested_exactly_once_per_pipeline": true,
+    "transformation_pairs_disjoint": true
+  },
+  "sha256": {
+    "local_series_learning.pdf": "abcbbd21e7cd003a45746723d319147f25d9e07824ddf8b69f7f5ba59a008b58",
+    "results_summary.pdf": "38dc3c328197a845271d7afa8983966c96c06088a1c9236e1daa5a5cc2241b5c",
+    "findings.md": "6cd564cd56e3da520f5b3d5ef59007b641d9b534be1d1c120cbe32c0f95447dd"
+  }
+}

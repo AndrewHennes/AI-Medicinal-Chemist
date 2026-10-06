@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "jobs": 240,
+  "job_counts": {
+    "controller": 90,
+    "evaluate": 30,
+    "teacher": 120
+  },
+  "all_jobs_successful": true,
+  "training_source_hashes_verified": true,
+  "checkpoint_hashes_verified": true,
+  "unchanged_baselines": true,
+  "test_pools": 4625,
+  "large_pools": 580,
+  "pdf_pages": 23,
+  "other_features_retained": true,
+  "gaussian_ei_replaced": true,
+  "three_input_only_ablation_excluded": true,
+  "single_source_group_intervals_unavailable": true,
+  "sha256": {
+    "species_nap_ei_inputs.pdf": "c95844cb7e04d41f05ee696b80a12515f95e98b1f49a6b1de10a5b419a4c4d1c",
+    "results_summary.pdf": "dae5a4a8c26a189afe239f6befd96ab39047bad6b68fb26e3c59d157927924a3",
+    "paired_differences.csv": "7e2a9b010ace09580dd0211c3c25b0f2c243526236a82bac19472ec1f4637fb4",
+    "findings.md": "3b68ebb5530393f5ed7abd333e74630fe9fd15313ac90e3a95573c8814e04ba7"
+  }
+}

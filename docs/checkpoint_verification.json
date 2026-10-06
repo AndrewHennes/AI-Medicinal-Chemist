@@ -1,0 +1,786 @@
+{
+  "passed": true,
+  "scope": "Seed 11, one completed fold per endpoint and method; five measured molecules, five fixed hidden queries; exact location, scale, and predictive log density",
+  "comparisons": [
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "reference",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/microsomal_clearance/reference/final/seed_11/best.pt",
+      "sha256": "0d1fbf7bf05166915974308a2cdb02918bf15f34e0a13e8b0bb8d481090bc18e",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "transfer",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/microsomal_clearance/transfer/final/seed_11/best.pt",
+      "sha256": "23645453185f112d978c149d0f9f7f1093f70ada55f95f7fb6d74099cff1ebb1",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "finetune",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/microsomal_clearance/transfer/final/seed_11/best.pt",
+      "sha256": "23645453185f112d978c149d0f9f7f1093f70ada55f95f7fb6d74099cff1ebb1",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "neural_mean_gp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/microsomal_clearance/neural_mean_gp/final/seed_11/best.pt",
+      "sha256": "ef3021c0a8a92a702995a036d6b98e351ad1722d8baa353d9ebb333b29e928d5",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "alpaca",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/microsomal_clearance/alpaca/final/seed_11/best.pt",
+      "sha256": "283cdbaf9c0fcd694ea9b33cfc4cf40c17fc5c6b07293e88766422659316f193",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "maml",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/microsomal_clearance/maml/final/seed_11/best.pt",
+      "sha256": "36d5e013c39c4dd96de299c7eea5a1b36ce72c8fa14cee1989b6fa6639b46c9e",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "anil",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/microsomal_clearance/anil/final/seed_11/best.pt",
+      "sha256": "aeb1780833aaf4199fb56c15d92b9c9d7d88ff8686e6969f6c13b937d443d3c8",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "cnp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/microsomal_clearance/cnp/final/seed_11/best.pt",
+      "sha256": "4f236d88678295c3cefbe685c64f1689f179fa3c2f07037a8e1e269ccd17e86a",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "anp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/microsomal_clearance/anp/final/seed_11/best.pt",
+      "sha256": "d1f39698f9b9baf93bfa32c724c0ba58f9deb584a0de2dbce94ab336c8d8ba80",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "tnp_d",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/microsomal_clearance/tnp_d/final/seed_11/best.pt",
+      "sha256": "239541bf4ce2d4790d8c95aa66b477372ae1b911f96c5f92cc147c160477f0d8",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "dkt",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/microsomal_clearance/dkt/final/seed_11/best.pt",
+      "sha256": "87dcd6658c33e467c1c62f6c2aa1c46bf14f23ff69bee9ec499d56bdb1a69490",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "adkf_ift",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/microsomal_clearance/adkf_ift/final/seed_11/best.pt",
+      "sha256": "3cf41d1de67de403c5e82697e4c5455f93a81a10edef71790aa65a5ce57c0f18",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "alpaca_no_offset",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/alpaca_offset_ablation/runs/fold_0/microsomal_clearance/seed_11/best.pt",
+      "sha256": "07dcd556276b85e24585c97e08ae382eb1c03fd0e4899891ac98dcb21dd70174",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "reference",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/in_vivo_clearance/reference/final/seed_11/best.pt",
+      "sha256": "222975369097f157dd7d1d3a9e3be78f2f4afcaf6273ba48ae6c248b78e62e97",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "transfer",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/in_vivo_clearance/transfer/final/seed_11/best.pt",
+      "sha256": "40394a2da80f193e4e05ce0f6a3c5300f8ab603bcc75e35d7c749b3e4402272d",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "finetune",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/in_vivo_clearance/transfer/final/seed_11/best.pt",
+      "sha256": "40394a2da80f193e4e05ce0f6a3c5300f8ab603bcc75e35d7c749b3e4402272d",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "neural_mean_gp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/in_vivo_clearance/neural_mean_gp/final/seed_11/best.pt",
+      "sha256": "ed5e1a3388886247523e5db1d043c884df8ca047eeb770d30f1dfc9a4e5e7abb",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "alpaca",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/in_vivo_clearance/alpaca/final/seed_11/best.pt",
+      "sha256": "880764bab916dd73be9d2fdc58a679b3703c169796c41c26830a697d8d818e93",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "maml",
+      "fold": 1,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_1/in_vivo_clearance/maml/final/seed_11/best.pt",
+      "sha256": "f88de49d843a871dbf6bcafacad1cdab46fc3099fb2d9a82ade1bbba674ed3da",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "anil",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/in_vivo_clearance/anil/final/seed_11/best.pt",
+      "sha256": "129e4d0114e332352fc2bbdc248dac6dae3975ee83caf7fd2a6b4bca268c93a8",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "cnp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/in_vivo_clearance/cnp/final/seed_11/best.pt",
+      "sha256": "7c18db0b886109988622a385783f0de8d0441e7bcc3e4b9948c4fc6e69e7df3f",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "anp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/in_vivo_clearance/anp/final/seed_11/best.pt",
+      "sha256": "3d6024f93e2c66bcfae4bd1dffffb1b22b40c2a05e9191f371c236d3f65bd382",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "tnp_d",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/in_vivo_clearance/tnp_d/final/seed_11/best.pt",
+      "sha256": "dc9361098692e13cfd8fa30516bbc7a4523f935a58172267c3ad3081113362cc",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "dkt",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/in_vivo_clearance/dkt/final/seed_11/best.pt",
+      "sha256": "df24b949087089dd770acc253afe44b5e9088a03f71c7b9e4b11b0e5bf40cf41",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "adkf_ift",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/in_vivo_clearance/adkf_ift/final/seed_11/best.pt",
+      "sha256": "e832bf486165e0a7737cf464cd9b8c32a8a3341d34eec806a89278f31c74917c",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "alpaca_no_offset",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/alpaca_offset_ablation/runs/fold_0/in_vivo_clearance/seed_11/best.pt",
+      "sha256": "a5934b596262f29e9af966dd3e35bebd3fbd84e33058cae3b2a3d5d2f1f92b6c",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "reference",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/protein_binding/reference/final/seed_11/best.pt",
+      "sha256": "39c0540de2e5d0d84d225750cf8fc8cc7270a15136fc997192467c91a635bbed",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "transfer",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/protein_binding/transfer/final/seed_11/best.pt",
+      "sha256": "e57b6de809c285dcd3c1788406215afa01710a77b44b0412034492d755472e54",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "finetune",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/protein_binding/transfer/final/seed_11/best.pt",
+      "sha256": "e57b6de809c285dcd3c1788406215afa01710a77b44b0412034492d755472e54",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "neural_mean_gp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/protein_binding/neural_mean_gp/final/seed_11/best.pt",
+      "sha256": "9155f5fcb823249aab7d3db7fee53358e0f3c8ad1922084a61afc27158eec7e4",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "alpaca",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/protein_binding/alpaca/final/seed_11/best.pt",
+      "sha256": "be26c9d8497729fa8169dad9890087ce46f0921978e8a8f539929834177e005a",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "maml",
+      "fold": 3,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_3/protein_binding/maml/final/seed_11/best.pt",
+      "sha256": "4b89d6c35a77d52154e328bf18ae99ae43293180cf60f98ec34dafa78e2aba08",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "anil",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/protein_binding/anil/final/seed_11/best.pt",
+      "sha256": "caf526c5be6a822b5a6bfe9ffc665011700d1b2f5f9fb5e146307885d62f9b98",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "cnp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/protein_binding/cnp/final/seed_11/best.pt",
+      "sha256": "177250e0970248fdb0cbb1c6cee7dff8ba2e9f1690449606a9799112bb590926",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "anp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/protein_binding/anp/final/seed_11/best.pt",
+      "sha256": "a3a39f185ba22d2552b7302841edec42cf61f6a25f2f1bedb21950f24907bd39",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "tnp_d",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/protein_binding/tnp_d/final/seed_11/best.pt",
+      "sha256": "ad09465aba49e6fe1375f50b746366eb7786423c7116090b57b878d05d15a722",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "dkt",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/protein_binding/dkt/final/seed_11/best.pt",
+      "sha256": "87c4c81d46e5ce5388148841eb6e67c45fdfc9f7a010fc32a8bb82320fd4f936",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "adkf_ift",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/protein_binding/adkf_ift/final/seed_11/best.pt",
+      "sha256": "b28931338d05ee35862c35876f02522ba4d145904fbde565297e8a8b98f67dee",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "alpaca_no_offset",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/alpaca_offset_ablation/runs/fold_0/protein_binding/seed_11/best.pt",
+      "sha256": "630f315916cd68d1bd78867573d23d0b2abc0364a4a444a2f59f899e3da5a8e7",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "reference",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/cellular_clearance/reference/final/seed_11/best.pt",
+      "sha256": "cc8fa0e42af9ee43e8df5f15028e2a6237a07f346f9361026c8633ce46bba448",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "transfer",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/cellular_clearance/transfer/final/seed_11/best.pt",
+      "sha256": "f9c030af5dfd290ecb68de0401ec158bdac9a36c4c856c622ccd8c8a90c4e28f",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "finetune",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/cellular_clearance/transfer/final/seed_11/best.pt",
+      "sha256": "f9c030af5dfd290ecb68de0401ec158bdac9a36c4c856c622ccd8c8a90c4e28f",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "neural_mean_gp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/cellular_clearance/neural_mean_gp/final/seed_11/best.pt",
+      "sha256": "e1614550da1e917704308a4dcaf3ea11da4b818d2c430803b97b0f9d2fae5867",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "alpaca",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/cellular_clearance/alpaca/final/seed_11/best.pt",
+      "sha256": "624f59b384efc355142a2e933bbe753af72c5aaa37861755d4e2d5d03f9eb27c",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "maml",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/cellular_clearance/maml/final/seed_11/best.pt",
+      "sha256": "0342bdafbdc2ae07e659449d070f47d8b185f9358bfb097d67d4f91de420e1e8",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "anil",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/cellular_clearance/anil/final/seed_11/best.pt",
+      "sha256": "e1fb66d5b4c57bdce93d2a74840568766bc147cad0a5b43d46f488bb9865fd7c",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "cnp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/cellular_clearance/cnp/final/seed_11/best.pt",
+      "sha256": "95cf24d9fb05cfc9e33bdb6b781a26213894ad48bff24c681f8b0fb3eb4c35fa",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "anp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/cellular_clearance/anp/final/seed_11/best.pt",
+      "sha256": "318885e21c9ad9d3f7d4db457459449239ac21426cf368af23279c6f0e9746b9",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "tnp_d",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/cellular_clearance/tnp_d/final/seed_11/best.pt",
+      "sha256": "3ee4070b3ef918865d3d529c0ca55cdcd6877df10223bc166b579e6891dda359",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "dkt",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/cellular_clearance/dkt/final/seed_11/best.pt",
+      "sha256": "a300a33e3eecc5016fd6b24f389ef68921dfbbb85700e27aa6ed8a6f67e51a82",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "adkf_ift",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/cellular_clearance/adkf_ift/final/seed_11/best.pt",
+      "sha256": "7f68335c6fe049f3bc12ea2d8e94520a2a973f03ba4b1c6152babde216702360",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "alpaca_no_offset",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/alpaca_offset_ablation/runs/fold_0/cellular_clearance/seed_11/best.pt",
+      "sha256": "d9145a2c3e202dc23e6590b1bcb03f88ca569fedfa459b39a6532bbe9c434cda",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "permeability",
+      "method": "reference",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/permeability/reference/final/seed_11/best.pt",
+      "sha256": "a88bb9ae489dace3df444b60a0781889797c01e0e8484b06a154fc4f3c294bb9",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "permeability",
+      "method": "transfer",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/permeability/transfer/final/seed_11/best.pt",
+      "sha256": "147be5350c9b4e87022b5710ad88cd8e4768184f61614518227040dd25c77d81",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "permeability",
+      "method": "finetune",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/permeability/transfer/final/seed_11/best.pt",
+      "sha256": "147be5350c9b4e87022b5710ad88cd8e4768184f61614518227040dd25c77d81",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "permeability",
+      "method": "neural_mean_gp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/permeability/neural_mean_gp/final/seed_11/best.pt",
+      "sha256": "2916eab080a7bbb7f082ab6bc3699197a7d9022970a8bfdd0a3e9d4ef9b1c343",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "permeability",
+      "method": "alpaca",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/permeability/alpaca/final/seed_11/best.pt",
+      "sha256": "2a43f3fab82886f9653ecbdc5b75f7a304a3b19ee44b6a3787b4f6d2e1067d24",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "permeability",
+      "method": "maml",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/permeability/maml/final/seed_11/best.pt",
+      "sha256": "9cf7d8f325b9dbaedc278c3b1408e6c39aa5c798e6519313e86c80d2a855684b",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "permeability",
+      "method": "anil",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/permeability/anil/final/seed_11/best.pt",
+      "sha256": "328b982eb1672a0b3a191c2be7922ee2766438ae3ae8723500d7d615aff24fea",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "permeability",
+      "method": "cnp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/permeability/cnp/final/seed_11/best.pt",
+      "sha256": "1a0fe784b536f3a87f2a4270cdd3626408a50c8057fef46b5d8cb05e41c64cca",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "permeability",
+      "method": "anp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/permeability/anp/final/seed_11/best.pt",
+      "sha256": "ea4cc2acd0e1826c7aa9618e366430cd438bcf1c06cd83b0667e7a0feedbcc8c",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "permeability",
+      "method": "tnp_d",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/permeability/tnp_d/final/seed_11/best.pt",
+      "sha256": "8fc2bcaecb1587babad022bcea1fac86fb6274ec6601531bacd9ee2bfaab29cb",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "permeability",
+      "method": "dkt",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/permeability/dkt/final/seed_11/best.pt",
+      "sha256": "32ba262ae2313716941a91bb97d2d5b03d997d5ce9481b26a127452d44ee024e",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "permeability",
+      "method": "adkf_ift",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/permeability/adkf_ift/final/seed_11/best.pt",
+      "sha256": "4a065a7fbd1eb4e89625a0b665de15b0bdd24453e009f977b37947c864bf6c87",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "permeability",
+      "method": "alpaca_no_offset",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/alpaca_offset_ablation/runs/fold_0/permeability/seed_11/best.pt",
+      "sha256": "2fa2f76f8feeb75778b27dd75c7d470250b3218e1471a816860cb45f7fbe8dfa",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "efflux",
+      "method": "reference",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/efflux/reference/final/seed_11/best.pt",
+      "sha256": "12c3c71aac2f6bf4cba2aa77e977bd0966e0a2e8677fb91d6c340eaefd2f11e4",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "efflux",
+      "method": "transfer",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/efflux/transfer/final/seed_11/best.pt",
+      "sha256": "09e71427e843245ef944e3ee81155510afc2c3cd309a9cba3a1394fdb8fb6ee9",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "efflux",
+      "method": "finetune",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/efflux/transfer/final/seed_11/best.pt",
+      "sha256": "09e71427e843245ef944e3ee81155510afc2c3cd309a9cba3a1394fdb8fb6ee9",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "efflux",
+      "method": "neural_mean_gp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/efflux/neural_mean_gp/final/seed_11/best.pt",
+      "sha256": "ed5c88a04cd83c7417952282112b8b4f91afa9a08a02c1e7220110a37758f391",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "efflux",
+      "method": "alpaca",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/efflux/alpaca/final/seed_11/best.pt",
+      "sha256": "d96f6ec38830b5856181c6587d84e18405621a9c9feee3daaf374bb5e5a7e260",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "efflux",
+      "method": "maml",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/efflux/maml/final/seed_11/best.pt",
+      "sha256": "80732fff0408488b40753ecf4380dbae48550516a2298e2982d3392ae474a16a",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "efflux",
+      "method": "anil",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/efflux/anil/final/seed_11/best.pt",
+      "sha256": "ed88ecdd650ba825cb47b44d170eaad8d02f8b34e184b0f4b9542228541b0431",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "efflux",
+      "method": "cnp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/efflux/cnp/final/seed_11/best.pt",
+      "sha256": "1488338740c8fc851ac8cdd004bd7a08c72097e916c4d883a5cc3c06178e27f4",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "efflux",
+      "method": "anp",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/efflux/anp/final/seed_11/best.pt",
+      "sha256": "71cca3018311fc246247b78899596ad601ee67f1f9363f9ea04eca808f3b50a9",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "efflux",
+      "method": "tnp_d",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/efflux/tnp_d/final/seed_11/best.pt",
+      "sha256": "f1b8381d154fd2a623f11a04151ee55cffaa9b786557c99fdda899b93fb1f6d4",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "efflux",
+      "method": "dkt",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/efflux/dkt/final/seed_11/best.pt",
+      "sha256": "7d3640b19cb92726101c624e01ade5a1c55a0fe881a9ba0f6161fadc578dd4e7",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "efflux",
+      "method": "adkf_ift",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_0/efflux/adkf_ift/final/seed_11/best.pt",
+      "sha256": "c234a3c363c86c862e54fa12df4bb28dfd64f3c0de91a5399279f06d4874c22b",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    },
+    {
+      "endpoint": "efflux",
+      "method": "alpaca_no_offset",
+      "fold": 0,
+      "checkpoint": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/alpaca_offset_ablation/runs/fold_0/efflux/seed_11/best.pt",
+      "sha256": "3d71a3e7fc29366becedab8a7607243b44b62b116d22abc5da0fe49a22eff61d",
+      "context_size": 5,
+      "queries": 5,
+      "exact": true
+    }
+  ]
+}

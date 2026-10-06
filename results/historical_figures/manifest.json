@@ -1,0 +1,23 @@
+{
+  "reports": {
+    "policy_optimization": "results/historical_figures/policy_optimization/comparison.pdf",
+    "latent_features": "results/historical_figures/latent_features/comparison.pdf",
+    "mean_kernel_ablation": "results/historical_figures/mean_kernel_ablation/comparison.pdf",
+    "batch_selection": "results/historical_figures/batch_selection/comparison.pdf",
+    "ei_input_ppo": "results/historical_figures/ei_input_ppo/comparison.pdf"
+  },
+  "grpo_status": "Implementation tested; archived plots cover completed experiments",
+  "input_sha256": {
+    "results/historical/policy_optimization/summary.csv": "8b26fb5917066768dcb11cb91305738be15a507674c895eb8bf7f03ee0149c2b",
+    "results/historical/policy_optimization/training_costs.csv": "52b71369cea4bb1020daabee5fb80e7766ab7c7e57acc43a7602fc35070ae227",
+    "results/historical/policy_optimization/paired_comparisons.csv": "54afadf41e47509fee2538a602449876085ba04bf62a968c7df76603d44824c4",
+    "results/historical/mean_kernel_ablation/validation_selections.csv": "5bfaaca03c1eec22d9534c5dc6fdb1914576807c0a36f001ac32bf61159c5bd1",
+    "results/historical/mean_kernel_ablation/prediction_summary.csv": "07da2b8a7fc2b3e701cdfedba8676a265a5c10c5d431cba0c6e2f2809700b956",
+    "results/historical/mean_kernel_ablation/paired_comparisons.csv": "f53e3e8e7de573957c327e8586491a77745a6f498ad72cb836547433d7d14d4c",
+    "results/historical/ei_input_ppo/summary.csv": "4bb25ab4efb96bfad3b34fedc435dab48ebfcf99513c71a09330ef3842dffb60",
+    "results/historical/batch_selection/summary.csv": "9d87f4c03728d5731b4d41901de1189ca88fc454361deb99c100f54fb223911e",
+    "results/historical/latent_features/paired_comparisons.csv": "2dfc6efd39ba6daa69d885ed904507c5023c4efc3e83735cdedb15c78b3427de",
+    "results/historical/latent_features/training_validation.csv": "e6bd4c1da421efee81ef58c34a10837bc83b4fd3f1bfb24b8886687eaf96e917",
+    "results/historical/latent_features/acquisition_summary.csv": "fdac461785863aa2afe3c519a79ad5cbc9fe0e3a366a01c07d0fbb8a382bf452"
+  }
+}

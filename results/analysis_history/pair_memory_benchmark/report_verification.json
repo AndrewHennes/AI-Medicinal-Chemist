@@ -1,0 +1,23 @@
+{
+  "outer_folds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "test_pools": 4625,
+  "large_test_pools": 580,
+  "selected_configs": 90,
+  "final_checkpoints": 270,
+  "selection_at_last_checkpoint_fraction": 0.044444444444444446,
+  "selection_in_last_400_steps_fraction": 0.1037037037037037,
+  "fnn_last_checkpoint_fraction": 0.1,
+  "memory_last_checkpoint_fraction": 0.03333333333333333,
+  "residual_memory_last_checkpoint_fraction": 0.0
+}

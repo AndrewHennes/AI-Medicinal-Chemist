@@ -1,0 +1,52 @@
+[
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/multitask_mean_kernel_search/data/fold_0/dataset.json",
+    "sha256": "3c235e701b28611b017de95ef6b90501569c39ae29c2f60e77613733a55d1d0e",
+    "bytes": 8843988
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/multitask_mean_kernel_search/data/fold_0/features.npz",
+    "sha256": "8b82e6896e406116838061c96d931f9b78dfd5da6d4302bc9ba47a95fba15833",
+    "bytes": 10688910
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/multitask_mean_kernel_search/data/fold_1/dataset.json",
+    "sha256": "b4a5fa3014699a6f63aff3c451840053701b9a4b4c5fb0d2c8eb259a2ddaf8d7",
+    "bytes": 8844003
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/multitask_mean_kernel_search/data/fold_1/features.npz",
+    "sha256": "f56b915f9ea736a1b95679dce8158032e44f9536c0369f0a6c89c2c2c8decd18",
+    "bytes": 10688980
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/multitask_mean_kernel_search/data/fold_2/dataset.json",
+    "sha256": "2622b3eeab8c2df465519ac256e14ed0566b4d596047d4c59bd8c72a83c2607f",
+    "bytes": 8843988
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/multitask_mean_kernel_search/data/fold_2/features.npz",
+    "sha256": "466a807565d36c6dd47882ba6cbee962e622a485a0e5133bf6bf9db32712cd4c",
+    "bytes": 10689850
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/multitask_mean_kernel_search/data/fold_3/dataset.json",
+    "sha256": "852e1f5ebc9c4e576420246c2bc6168266f35222384f295f48395bbd78923b63",
+    "bytes": 8844019
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/multitask_mean_kernel_search/data/fold_3/features.npz",
+    "sha256": "1d209051adf148f9ea3905ee3dec35e9367552c3f34224af85825dad27b56972",
+    "bytes": 10689160
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/multitask_mean_kernel_search/data/fold_4/dataset.json",
+    "sha256": "44a9e6b655bec8d0d722487a362a1706add3d5df63889c30cb386f15f466170a",
+    "bytes": 8844113
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/multitask_mean_kernel_search/data/fold_4/features.npz",
+    "sha256": "2cb06825efd2ac1136c6e2e1b9f111f685b56b30c23b30493d446cf6d92132be",
+    "bytes": 10688464
+  }
+]

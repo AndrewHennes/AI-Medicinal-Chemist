@@ -1,0 +1,36 @@
+{
+  "report": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/batch_transformer_relations/reports/transformer_relational_features_report.pdf",
+  "status": "complete",
+  "significant_primary_comparisons": 0,
+  "audit": {
+    "status": "passed",
+    "pools": 4625,
+    "large_pools": 580,
+    "large_groups": 334,
+    "folds": 5,
+    "seeds": [
+      11,
+      29,
+      47
+    ],
+    "starts_per_pool": 4,
+    "methods": [
+      "summary",
+      "distance",
+      "covariance",
+      "both",
+      "coordinates_both",
+      "pair_transformer",
+      "qei",
+      "fantasy_ei",
+      "random"
+    ],
+    "checks": [
+      "matched starts",
+      "complete method/seed coverage",
+      "no duplicate outer test pools",
+      "nested top-k times",
+      "source and checkpoint hashes unchanged"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "source_files_unchanged": true,
+  "curated_labels_and_order_preserved": true,
+  "global_subsets_disjoint": true,
+  "matched_single_and_multitask_test_starts": true,
+  "gp_task_covariance_positive_definite": true,
+  "independent_large_test_groups": {
+    "cellular_clearance": 13,
+    "efflux": 8,
+    "in_vivo_clearance": 5,
+    "permeability": 12,
+    "protein_binding": 9
+  },
+  "runs": [
+    {
+      "mode": "single_task",
+      "endpoint": "in_vivo_clearance",
+      "test_pools": 99,
+      "trajectory_records": 2376,
+      "full_training_budgets": true,
+      "frozen_predictions_match": true,
+      "all_trajectories_valid": true
+    },
+    {
+      "mode": "single_task",
+      "endpoint": "protein_binding",
+      "test_pools": 143,
+      "trajectory_records": 3432,
+      "full_training_budgets": true,
+      "frozen_predictions_match": true,
+      "all_trajectories_valid": true
+    },
+    {
+      "mode": "single_task",
+      "endpoint": "cellular_clearance",
+      "test_pools": 93,
+      "trajectory_records": 2232,
+      "full_training_budgets": true,
+      "frozen_predictions_match": true,
+      "all_trajectories_valid": true
+    },
+    {
+      "mode": "single_task",
+      "endpoint": "permeability",
+      "test_pools": 104,
+      "trajectory_records": 2496,
+      "full_training_budgets": true,
+      "frozen_predictions_match": true,
+      "all_trajectories_valid": true
+    },
+    {
+      "mode": "single_task",
+      "endpoint": "efflux",
+      "test_pools": 68,
+      "trajectory_records": 1632,
+      "full_training_budgets": true,
+      "frozen_predictions_match": true,
+      "all_trajectories_valid": true
+    },
+    {
+      "mode": "multitask",
+      "endpoint": null,
+      "test_pools": 507,
+      "trajectory_records": 12168,
+      "full_training_budgets": true,
+      "frozen_predictions_match": true,
+      "all_trajectories_valid": true
+    }
+  ]
+}

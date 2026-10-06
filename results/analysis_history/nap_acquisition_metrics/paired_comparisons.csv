@@ -1,0 +1,481 @@
+cohort,scope,metric,candidate,comparator,improvement,ci_low,ci_high,pools,groups,exploratory
+acquisition_test,All ≥3,efficiency,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.013137180553314642,-0.058385673354403075,0.08185433655963019,499,231,True
+acquisition_test,All ≥3,efficiency,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.0023480782958923974,-0.03525446664813375,0.0403060557945679,499,231,True
+acquisition_test,All ≥3,efficiency,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.00047386603077065326,-0.01069964830655727,0.009358204560626578,499,231,True
+acquisition_test,All ≥3,efficiency,Cross-fitted multitask NAP,single_task_NAP,0.08284586259554358,-0.0011130191394066015,0.16557399247819757,499,231,True
+acquisition_test,All ≥3,efficiency,Cross-fitted multitask NAP,multitask_NAP,0.16368434579280475,0.05627730062930522,0.27304081517229734,499,231,True
+acquisition_test,All ≥3,efficiency,Cross-fitted multitask NAP,single_task_GP + EI,0.09761488703892016,0.010565859259599873,0.17769838762271228,499,231,True
+acquisition_test,All ≥3,efficiency,Cross-fitted multitask NAP,multitask_GP + EI,0.061323333718462214,-0.005421258254513449,0.12834495308744906,499,231,True
+acquisition_test,All ≥3,efficiency,Cross-fitted multitask NAP,single_task_Delta greedy,0.03355268853463739,-0.04411879257981873,0.10830201350934318,499,231,True
+acquisition_test,All ≥3,efficiency,Cross-fitted multitask NAP,multitask_Delta greedy,0.06750695561442616,0.0030936172126675224,0.1300321422140175,499,231,True
+acquisition_test,All ≥3,efficiency,Cross-fitted multitask NAP,Random,0.23239124878537115,0.165211429196259,0.2954425029208761,499,231,True
+acquisition_test,All ≥3,regret_area,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.006107238409092608,-0.012581463287370153,0.025163276731350274,507,233,True
+acquisition_test,All ≥3,regret_area,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.0011036587434935796,-0.013879682698927923,0.012692437206456828,507,233,True
+acquisition_test,All ≥3,regret_area,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.00039739030646704365,-0.0012329346381035188,0.0026739254397035402,507,233,True
+acquisition_test,All ≥3,regret_area,Cross-fitted multitask NAP,single_task_NAP,0.025823497463204476,0.0045762906238454104,0.04805783860034714,507,233,True
+acquisition_test,All ≥3,regret_area,Cross-fitted multitask NAP,multitask_NAP,0.041614961554571145,0.016643554174346695,0.0664520515633267,507,233,True
+acquisition_test,All ≥3,regret_area,Cross-fitted multitask NAP,single_task_GP + EI,0.02617609181228614,0.005315592536330338,0.04614351831329651,507,233,True
+acquisition_test,All ≥3,regret_area,Cross-fitted multitask NAP,multitask_GP + EI,0.019413886958022625,0.0008171772045095069,0.03660424259768999,507,233,True
+acquisition_test,All ≥3,regret_area,Cross-fitted multitask NAP,single_task_Delta greedy,0.005801166655140133,-0.015404333186160132,0.02846373333460368,507,233,True
+acquisition_test,All ≥3,regret_area,Cross-fitted multitask NAP,multitask_Delta greedy,0.013716872774725497,-0.004089334487225186,0.03319948448557322,507,233,True
+acquisition_test,All ≥3,regret_area,Cross-fitted multitask NAP,Random,0.06189291987307738,0.045615086402092206,0.07926722516773418,507,233,True
+acquisition_test,All ≥3,success_1,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.013632462044316174,-0.023770821260029357,0.050634888321902764,499,231,True
+acquisition_test,All ≥3,success_1,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.0029350135961078716,-0.021196057287850997,0.016347014276459394,499,231,True
+acquisition_test,All ≥3,success_1,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.0011415432198106923,-0.00826552124015672,0.0040064912382206065,499,231,True
+acquisition_test,All ≥3,success_1,Cross-fitted multitask NAP,single_task_NAP,0.033630041578369796,-0.012721208944519372,0.07973837137113624,499,231,True
+acquisition_test,All ≥3,success_1,Cross-fitted multitask NAP,multitask_NAP,0.050918720618568614,-0.0010185396634362013,0.10101162390629365,499,231,True
+acquisition_test,All ≥3,success_1,Cross-fitted multitask NAP,single_task_GP + EI,0.06643347674502686,0.019743035714543472,0.11071164131887726,499,231,True
+acquisition_test,All ≥3,success_1,Cross-fitted multitask NAP,multitask_GP + EI,0.036442600937281744,-0.006372858179292225,0.07634919154104101,499,231,True
+acquisition_test,All ≥3,success_1,Cross-fitted multitask NAP,single_task_Delta greedy,0.005680735312194318,-0.034742355671648815,0.04563675471148778,499,231,True
+acquisition_test,All ≥3,success_1,Cross-fitted multitask NAP,multitask_Delta greedy,0.02588985623180151,-0.0114651718062198,0.06172883335938083,499,231,True
+acquisition_test,All ≥3,success_1,Cross-fitted multitask NAP,Random,0.09339056267273615,0.0589012356228626,0.12852363012393914,499,231,True
+acquisition_test,All ≥3,success_2,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.056810718513482183,0.014634639759933343,0.09927958108265358,370,184,True
+acquisition_test,All ≥3,success_2,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.0020250067922304993,-0.016801585851847323,0.022326630201765466,370,184,True
+acquisition_test,All ≥3,success_2,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.0029667744651633576,-0.01582137164651786,0.004260093985477036,370,184,True
+acquisition_test,All ≥3,success_2,Cross-fitted multitask NAP,single_task_NAP,0.06431032293915961,0.0034518570506394644,0.12164390118922118,370,184,True
+acquisition_test,All ≥3,success_2,Cross-fitted multitask NAP,multitask_NAP,0.09617306169300921,0.04039547170835961,0.15053884267490567,370,184,True
+acquisition_test,All ≥3,success_2,Cross-fitted multitask NAP,single_task_GP + EI,0.10873390656019205,0.05402817947170119,0.1641612693113288,370,184,True
+acquisition_test,All ≥3,success_2,Cross-fitted multitask NAP,multitask_GP + EI,0.05400534220666087,0.010930956943371324,0.09786434314310462,370,184,True
+acquisition_test,All ≥3,success_2,Cross-fitted multitask NAP,single_task_Delta greedy,0.048253814386222005,-0.0031202941483261717,0.09983845474291966,370,184,True
+acquisition_test,All ≥3,success_2,Cross-fitted multitask NAP,multitask_Delta greedy,0.030054416454894817,-0.011300655667818918,0.069664235321641,370,184,True
+acquisition_test,All ≥3,success_2,Cross-fitted multitask NAP,Random,0.1574197904035451,0.11427141201357487,0.19888061032319626,370,184,True
+acquisition_test,3–5,efficiency,Cross-fitted multitask NAP,Cross-fitted single-task NAP,-0.03192373013696542,-0.14443494390631487,0.08057880425718665,288,155,True
+acquisition_test,3–5,efficiency,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.009839326523150033,-0.042282242502070126,0.06405598190455002,288,155,True
+acquisition_test,3–5,efficiency,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.0003649589789295471,-0.01536911769342278,0.01641624759555895,288,155,True
+acquisition_test,3–5,efficiency,Cross-fitted multitask NAP,single_task_NAP,0.056363149785943895,-0.08823010269361721,0.19832698596359008,288,155,True
+acquisition_test,3–5,efficiency,Cross-fitted multitask NAP,multitask_NAP,0.08736918106403402,-0.07562971652564303,0.23497864744270483,288,155,True
+acquisition_test,3–5,efficiency,Cross-fitted multitask NAP,single_task_GP + EI,0.03838200348126819,-0.09332529310344062,0.15693950139096988,288,155,True
+acquisition_test,3–5,efficiency,Cross-fitted multitask NAP,multitask_GP + EI,0.04631340173987232,-0.06238785959968874,0.14850700427265362,288,155,True
+acquisition_test,3–5,efficiency,Cross-fitted multitask NAP,single_task_Delta greedy,-0.009231889978213503,-0.12534739990907742,0.10422086493352498,288,155,True
+acquisition_test,3–5,efficiency,Cross-fitted multitask NAP,multitask_Delta greedy,0.09376621322577205,-0.0018577992523366538,0.18816777214424493,288,155,True
+acquisition_test,3–5,efficiency,Cross-fitted multitask NAP,Random,0.17115534778402425,0.0603655853465606,0.2708300821620503,288,155,True
+acquisition_test,3–5,regret_area,Cross-fitted multitask NAP,Cross-fitted single-task NAP,-0.005051508670216559,-0.03493835874376983,0.026903775397396273,296,157,True
+acquisition_test,3–5,regret_area,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,6.436914840371455e-05,-0.01809432166772713,0.020260826910021318,296,157,True
+acquisition_test,3–5,regret_area,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.0005391295722776968,-0.0018966866001512614,0.0038426205799064303,296,157,True
+acquisition_test,3–5,regret_area,Cross-fitted multitask NAP,single_task_NAP,0.024048990156536915,-0.012296538858797397,0.06020463524446192,296,157,True
+acquisition_test,3–5,regret_area,Cross-fitted multitask NAP,multitask_NAP,0.03718989602709,-0.003802708733208965,0.07747029610007436,296,157,True
+acquisition_test,3–5,regret_area,Cross-fitted multitask NAP,single_task_GP + EI,0.016941989464940188,-0.01558716113547118,0.048976962142390675,296,157,True
+acquisition_test,3–5,regret_area,Cross-fitted multitask NAP,multitask_GP + EI,0.017297459662449804,-0.013503375569390113,0.0468407856482204,296,157,True
+acquisition_test,3–5,regret_area,Cross-fitted multitask NAP,single_task_Delta greedy,-0.011270196985644187,-0.042676495106616634,0.022659404515992833,296,157,True
+acquisition_test,3–5,regret_area,Cross-fitted multitask NAP,multitask_Delta greedy,0.009230142569005784,-0.0191849114020341,0.04051179884275769,296,157,True
+acquisition_test,3–5,regret_area,Cross-fitted multitask NAP,Random,0.05312978704084978,0.024783607387375298,0.08246835620529103,296,157,True
+acquisition_test,3–5,success_1,Cross-fitted multitask NAP,Cross-fitted single-task NAP,-0.02078606483385892,-0.07723240564514085,0.034476053186915386,288,155,True
+acquisition_test,3–5,success_1,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.002112907925407914,-0.026953062894536025,0.032148420730483886,288,155,True
+acquisition_test,3–5,success_1,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.0006796642899584149,-0.005571181699410324,0.00829853882335227,288,155,True
+acquisition_test,3–5,success_1,Cross-fitted multitask NAP,single_task_NAP,0.03060524932583758,-0.05235836479460766,0.1099293123037899,288,155,True
+acquisition_test,3–5,success_1,Cross-fitted multitask NAP,multitask_NAP,0.03818736859545685,-0.04439554057514725,0.11552056370353772,288,155,True
+acquisition_test,3–5,success_1,Cross-fitted multitask NAP,single_task_GP + EI,0.0190582436354495,-0.051047848889644094,0.08181076808777869,288,155,True
+acquisition_test,3–5,success_1,Cross-fitted multitask NAP,multitask_GP + EI,0.02104136957813424,-0.041633240725428546,0.07756670949286396,288,155,True
+acquisition_test,3–5,success_1,Cross-fitted multitask NAP,single_task_Delta greedy,-0.012389917272270234,-0.07410883242014298,0.049299716129012766,288,155,True
+acquisition_test,3–5,success_1,Cross-fitted multitask NAP,multitask_Delta greedy,0.03996672608437318,-0.013181023093365272,0.09198299308328321,288,155,True
+acquisition_test,3–5,success_1,Cross-fitted multitask NAP,Random,0.07967671340097815,0.022258016934678992,0.1340228178972349,288,155,True
+acquisition_test,3–5,success_2,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.03037861386258467,-0.035464742450274166,0.09874632636040741,159,100,True
+acquisition_test,3–5,success_2,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.01082775724890972,-0.021592945823878367,0.045990554913166275,159,100,True
+acquisition_test,3–5,success_2,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.0024598930481284365,-0.0219808795139678,0.013145339764599726,159,100,True
+acquisition_test,3–5,success_2,Cross-fitted multitask NAP,single_task_NAP,0.04774802605098227,-0.0424315843526501,0.12981428613523802,159,100,True
+acquisition_test,3–5,success_2,Cross-fitted multitask NAP,multitask_NAP,0.06431049484155438,-0.023566970917154664,0.15627606936074664,159,100,True
+acquisition_test,3–5,success_2,Cross-fitted multitask NAP,single_task_GP + EI,0.06984666902723424,-0.021999817039440435,0.16237742555039217,159,100,True
+acquisition_test,3–5,success_2,Cross-fitted multitask NAP,multitask_GP + EI,0.03586273450574862,-0.03652887417185838,0.105830892706545,159,100,True
+acquisition_test,3–5,success_2,Cross-fitted multitask NAP,single_task_Delta greedy,0.027542232975919068,-0.04488326494684912,0.09904430802685249,159,100,True
+acquisition_test,3–5,success_2,Cross-fitted multitask NAP,multitask_Delta greedy,0.022665504541066195,-0.03260981734715081,0.08019907313994469,159,100,True
+acquisition_test,3–5,success_2,Cross-fitted multitask NAP,Random,0.13188696361396857,0.06809335229175992,0.19500919913419917,159,100,True
+acquisition_test,6–9,efficiency,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.11295391829696344,-0.007692368881031961,0.23201254165359936,92,64,True
+acquisition_test,6–9,efficiency,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.033885469549943203,-0.07042563828702551,0.00699455491723073,92,64,True
+acquisition_test,6–9,efficiency,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.0011650566434401322,-0.02188278126600495,0.0250839264016981,92,64,True
+acquisition_test,6–9,efficiency,Cross-fitted multitask NAP,single_task_NAP,0.11008765580006186,-0.040918689892623705,0.266803083000877,92,64,True
+acquisition_test,6–9,efficiency,Cross-fitted multitask NAP,multitask_NAP,0.19609381474137116,0.033643124108155245,0.3747259386238444,92,64,True
+acquisition_test,6–9,efficiency,Cross-fitted multitask NAP,single_task_GP + EI,0.22777155916347652,0.08485866264687694,0.36574760840152243,92,64,True
+acquisition_test,6–9,efficiency,Cross-fitted multitask NAP,multitask_GP + EI,0.10168040866819067,0.003932477992348328,0.20525736554589907,92,64,True
+acquisition_test,6–9,efficiency,Cross-fitted multitask NAP,single_task_Delta greedy,0.1428448903853039,-0.002620626881356836,0.2780514405390012,92,64,True
+acquisition_test,6–9,efficiency,Cross-fitted multitask NAP,multitask_Delta greedy,0.038995373048004656,-0.05765000985901607,0.13220632018904765,92,64,True
+acquisition_test,6–9,efficiency,Cross-fitted multitask NAP,Random,0.28717350266692376,0.17828036928465346,0.39821114860271595,92,64,True
+acquisition_test,6–9,regret_area,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.037333198466685535,0.005053911838763127,0.07326947235020953,92,64,True
+acquisition_test,6–9,regret_area,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.011145777207596436,-0.01995432685558241,-0.0024054815988491206,92,64,True
+acquisition_test,6–9,regret_area,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.00017288491632361236,-0.005459829191759494,0.004639396651925748,92,64,True
+acquisition_test,6–9,regret_area,Cross-fitted multitask NAP,single_task_NAP,0.02426260789209156,-0.013061830487857246,0.06035158431015741,92,64,True
+acquisition_test,6–9,regret_area,Cross-fitted multitask NAP,multitask_NAP,0.04837111974394309,0.008106804553840925,0.09260023181428025,92,64,True
+acquisition_test,6–9,regret_area,Cross-fitted multitask NAP,single_task_GP + EI,0.053243899207867956,0.01574762061448917,0.09483255143428827,92,64,True
+acquisition_test,6–9,regret_area,Cross-fitted multitask NAP,multitask_GP + EI,0.027903280038319822,-0.0016820864490622364,0.05935021346988515,92,64,True
+acquisition_test,6–9,regret_area,Cross-fitted multitask NAP,single_task_Delta greedy,0.043733891969788496,0.006562255076276905,0.07952535206557362,92,64,True
+acquisition_test,6–9,regret_area,Cross-fitted multitask NAP,multitask_Delta greedy,0.025961228416879478,0.00016241791750332222,0.05249830534056624,92,64,True
+acquisition_test,6–9,regret_area,Cross-fitted multitask NAP,Random,0.08259958885663102,0.05470017302391244,0.11124938013134565,92,64,True
+acquisition_test,6–9,success_1,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.0752768941584731,-0.0040555895969498785,0.15641039781297125,92,64,True
+acquisition_test,6–9,success_1,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.01840498682603947,-0.04915625242191734,0.010309466298596753,92,64,True
+acquisition_test,6–9,success_1,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.0003219587430113857,-0.01623332677552624,0.014144955121203185,92,64,True
+acquisition_test,6–9,success_1,Cross-fitted multitask NAP,single_task_NAP,0.01909429021271128,-0.10191529069736305,0.1398737665842929,92,64,True
+acquisition_test,6–9,success_1,Cross-fitted multitask NAP,multitask_NAP,0.060102098194203424,-0.03515028659611993,0.1572049141440201,92,64,True
+acquisition_test,6–9,success_1,Cross-fitted multitask NAP,single_task_GP + EI,0.14123015873015873,0.056886420573383334,0.23273469749742004,92,64,True
+acquisition_test,6–9,success_1,Cross-fitted multitask NAP,multitask_GP + EI,0.042183262643788966,-0.049770522262395284,0.13872950619641797,92,64,True
+acquisition_test,6–9,success_1,Cross-fitted multitask NAP,single_task_Delta greedy,0.053499775078722445,-0.02411457007045242,0.13533543475031637,92,64,True
+acquisition_test,6–9,success_1,Cross-fitted multitask NAP,multitask_Delta greedy,0.03455674442516546,-0.04515548262800417,0.11962287538850039,92,64,True
+acquisition_test,6–9,success_1,Cross-fitted multitask NAP,Random,0.09629141535156574,0.016871411711236243,0.18656532189434125,92,64,True
+acquisition_test,6–9,success_2,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.11056029496818987,0.021081494261346485,0.20097619720965304,92,64,True
+acquisition_test,6–9,success_2,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.013099013559539796,-0.04710257651705009,0.022463643790849683,92,64,True
+acquisition_test,6–9,success_2,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.0039003759398498206,-0.009305767779664222,0.02525318979266341,92,64,True
+acquisition_test,6–9,success_2,Cross-fitted multitask NAP,single_task_NAP,0.0856107415975838,-0.02325077492706568,0.19787326761555576,92,64,True
+acquisition_test,6–9,success_2,Cross-fitted multitask NAP,multitask_NAP,0.1209738288027763,0.020620266659295266,0.23255444625588476,92,64,True
+acquisition_test,6–9,success_2,Cross-fitted multitask NAP,single_task_GP + EI,0.16382326007326015,0.05835053334553823,0.2691713769924793,92,64,True
+acquisition_test,6–9,success_2,Cross-fitted multitask NAP,multitask_GP + EI,0.07519688644688649,-0.003004558010072793,0.15952838731793237,92,64,True
+acquisition_test,6–9,success_2,Cross-fitted multitask NAP,single_task_Delta greedy,0.11245782726045894,0.0030361507229154498,0.2157651974645009,92,64,True
+acquisition_test,6–9,success_2,Cross-fitted multitask NAP,multitask_Delta greedy,0.06501759205706581,-0.015477465589965642,0.15385135006901304,92,64,True
+acquisition_test,6–9,success_2,Cross-fitted multitask NAP,Random,0.2053842252150524,0.11461498926687999,0.30142401460584234,92,64,True
+acquisition_test,10–14,efficiency,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.005525771679960656,-0.14701909437188793,0.15754767260199454,63,38,True
+acquisition_test,10–14,efficiency,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.00456048238089235,-0.03496142100569182,0.0483472924382015,63,38,True
+acquisition_test,10–14,efficiency,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.005168076836897406,-0.034634715792181046,0.017013660790605397,63,38,True
+acquisition_test,10–14,efficiency,Cross-fitted multitask NAP,single_task_NAP,0.02488117687642344,-0.197011042761454,0.2702948870808143,63,38,True
+acquisition_test,10–14,efficiency,Cross-fitted multitask NAP,multitask_NAP,0.23543554107695522,-0.011127133466596098,0.5109902166354502,63,38,True
+acquisition_test,10–14,efficiency,Cross-fitted multitask NAP,single_task_GP + EI,0.22810325712776697,0.0294939771472915,0.4243335915344784,63,38,True
+acquisition_test,10–14,efficiency,Cross-fitted multitask NAP,multitask_GP + EI,0.09865538812709046,-0.0671977058798137,0.27954508891111257,63,38,True
+acquisition_test,10–14,efficiency,Cross-fitted multitask NAP,single_task_Delta greedy,-0.09925753524550318,-0.27135146887104117,0.08921696968785964,63,38,True
+acquisition_test,10–14,efficiency,Cross-fitted multitask NAP,multitask_Delta greedy,-0.05060340535050878,-0.2169984775073043,0.12763238935101726,63,38,True
+acquisition_test,10–14,efficiency,Cross-fitted multitask NAP,Random,0.28352316390284305,0.118738629485024,0.45499795389795367,63,38,True
+acquisition_test,10–14,regret_area,Cross-fitted multitask NAP,Cross-fitted single-task NAP,-0.008224346656308931,-0.04441367541365938,0.02574356640644949,63,38,True
+acquisition_test,10–14,regret_area,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.0033188835751907786,-0.00873806693326951,0.0013865321512148815,63,38,True
+acquisition_test,10–14,regret_area,Cross-fitted multitask NAP,Cross-fitted multitask warm start,5.9491360455382614e-05,-0.0028929302470731967,0.003514072400915403,63,38,True
+acquisition_test,10–14,regret_area,Cross-fitted multitask NAP,single_task_NAP,0.004915551839514226,-0.04052769497798542,0.05069767439601498,63,38,True
+acquisition_test,10–14,regret_area,Cross-fitted multitask NAP,multitask_NAP,0.03575143569545669,-0.004657066839026497,0.07677780212115026,63,38,True
+acquisition_test,10–14,regret_area,Cross-fitted multitask NAP,single_task_GP + EI,0.025263860354330647,-0.02054869142813676,0.06450407909968683,63,38,True
+acquisition_test,10–14,regret_area,Cross-fitted multitask NAP,multitask_GP + EI,0.004183631093600926,-0.04893021823898843,0.05519041119912033,63,38,True
+acquisition_test,10–14,regret_area,Cross-fitted multitask NAP,single_task_Delta greedy,-0.010889576245087393,-0.04881841629346125,0.02603940547929694,63,38,True
+acquisition_test,10–14,regret_area,Cross-fitted multitask NAP,multitask_Delta greedy,-0.001892962340359322,-0.03006568916271642,0.032033361533090526,63,38,True
+acquisition_test,10–14,regret_area,Cross-fitted multitask NAP,Random,0.05484358745274592,0.022018970579732552,0.08894452763655916,63,38,True
+acquisition_test,10–14,success_1,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.07794414735591201,-0.033099439775910386,0.19463120672219927,63,38,True
+acquisition_test,10–14,success_1,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.012474747474747472,-0.048969474969475,0.01467438271604934,63,38,True
+acquisition_test,10–14,success_1,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.0008462071697366569,-0.022222222222222254,0.022918244949494956,63,38,True
+acquisition_test,10–14,success_1,Cross-fitted multitask NAP,single_task_NAP,0.03157407407407403,-0.10211111920844886,0.17212373737373737,63,38,True
+acquisition_test,10–14,success_1,Cross-fitted multitask NAP,multitask_NAP,0.07686274509803917,-0.030212379908103625,0.187729860213316,63,38,True
+acquisition_test,10–14,success_1,Cross-fitted multitask NAP,single_task_GP + EI,0.11093582887700532,-0.00818181818181822,0.23829717032824144,63,38,True
+acquisition_test,10–14,success_1,Cross-fitted multitask NAP,multitask_GP + EI,0.09232471776589421,-0.01121302308802311,0.199947672667245,63,38,True
+acquisition_test,10–14,success_1,Cross-fitted multitask NAP,single_task_Delta greedy,0.011394830659536503,-0.08601381056808695,0.12485189636752135,63,38,True
+acquisition_test,10–14,success_1,Cross-fitted multitask NAP,multitask_Delta greedy,-0.025650623885918045,-0.12894303620571038,0.09317727743271222,63,38,True
+acquisition_test,10–14,success_1,Cross-fitted multitask NAP,Random,0.1422523885964171,0.04916579045954045,0.25043396859376227,63,38,True
+acquisition_test,10–14,success_2,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.06043374925727868,-0.06387585550414494,0.1813842147435897,63,38,True
+acquisition_test,10–14,success_2,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.0021662705486235057,-0.03579499898249901,0.03328388047138037,63,38,True
+acquisition_test,10–14,success_2,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.002121212121212135,-0.016573809523809522,0.03056186868686865,63,38,True
+acquisition_test,10–14,success_2,Cross-fitted multitask NAP,single_task_NAP,0.043514557338086735,-0.08693731962481958,0.17577513227513222,63,38,True
+acquisition_test,10–14,success_2,Cross-fitted multitask NAP,multitask_NAP,0.1002129134482076,-0.03537113617376777,0.23477178030303023,63,38,True
+acquisition_test,10–14,success_2,Cross-fitted multitask NAP,single_task_GP + EI,0.15788770053475937,-0.006829286758563093,0.31110369318181813,63,38,True
+acquisition_test,10–14,success_2,Cross-fitted multitask NAP,multitask_GP + EI,0.038611111111111096,-0.11389726621417806,0.18979164977394475,63,38,True
+acquisition_test,10–14,success_2,Cross-fitted multitask NAP,single_task_Delta greedy,0.05925579322638147,-0.049750195924764845,0.17718515512265504,63,38,True
+acquisition_test,10–14,success_2,Cross-fitted multitask NAP,multitask_Delta greedy,-0.01316844919786092,-0.14009650072150065,0.11873742340590164,63,38,True
+acquisition_test,10–14,success_2,Cross-fitted multitask NAP,Random,0.17360940844987194,0.07630590020067882,0.28338291662041665,63,38,True
+acquisition_test,≥15,efficiency,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.015535891033070792,-0.09940577941596117,0.10557877445920434,56,38,True
+acquisition_test,≥15,efficiency,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.010790564690949245,-0.03180768556900245,0.057714283720850613,56,38,True
+acquisition_test,≥15,efficiency,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.010872216532176293,-0.002793068048957152,0.04857744647166884,56,38,True
+acquisition_test,≥15,efficiency,Cross-fitted multitask NAP,single_task_NAP,0.24162274309695495,0.03388238869488798,0.4524171301407295,56,38,True
+acquisition_test,≥15,efficiency,Cross-fitted multitask NAP,multitask_NAP,0.35276196311889574,0.19146895305066283,0.5260549934021138,56,38,True
+acquisition_test,≥15,efficiency,Cross-fitted multitask NAP,single_task_GP + EI,0.08125248241509403,-0.0951032208430144,0.2304006850264483,56,38,True
+acquisition_test,≥15,efficiency,Cross-fitted multitask NAP,multitask_GP + EI,0.0036641356311633566,-0.09542839015622159,0.09808191894660959,56,38,True
+acquisition_test,≥15,efficiency,Cross-fitted multitask NAP,single_task_Delta greedy,0.1085665351470183,-0.04022679666305982,0.2292980064304439,56,38,True
+acquisition_test,≥15,efficiency,Cross-fitted multitask NAP,multitask_Delta greedy,0.11147584309230602,0.034854227797503044,0.19264894054822193,56,38,True
+acquisition_test,≥15,efficiency,Cross-fitted multitask NAP,Random,0.304180406385882,0.12987263879605995,0.43828033072797773,56,38,True
+acquisition_test,≥15,regret_area,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.014804084097202602,-0.00520484709557808,0.03912230010586679,56,38,True
+acquisition_test,≥15,regret_area,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.0030882314159154517,-0.004784684756455507,0.013546735239962101,56,38,True
+acquisition_test,≥15,regret_area,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.0013259806794563567,-0.001174134540229021,0.0071843686679076936,56,38,True
+acquisition_test,≥15,regret_area,Cross-fitted multitask NAP,single_task_NAP,0.0564109046546222,0.01197100493271231,0.1054640602412674,56,38,True
+acquisition_test,≥15,regret_area,Cross-fitted multitask NAP,multitask_NAP,0.048610329903563565,0.017336491177297058,0.08851944499057353,56,38,True
+acquisition_test,≥15,regret_area,Cross-fitted multitask NAP,single_task_GP + EI,0.021578168857915747,-0.0037607597733252582,0.0485443153413455,56,38,True
+acquisition_test,≥15,regret_area,Cross-fitted multitask NAP,multitask_GP + EI,0.015447972889349265,-0.012446175604544805,0.041423995230986076,56,38,True
+acquisition_test,≥15,regret_area,Cross-fitted multitask NAP,single_task_Delta greedy,0.025062923620702088,-0.00976178931407974,0.06123753702885225,56,38,True
+acquisition_test,≥15,regret_area,Cross-fitted multitask NAP,multitask_Delta greedy,0.01962032347672686,0.001209896703142835,0.03929321604179519,56,38,True
+acquisition_test,≥15,regret_area,Cross-fitted multitask NAP,Random,0.06252137137381927,0.031117769941932216,0.09320075011829705,56,38,True
+acquisition_test,≥15,success_1,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.02720959595959599,-0.022598746229260964,0.07839464134936265,56,38,True
+acquisition_test,≥15,success_1,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.004882154882154849,-0.024284197012138194,0.01190575396825394,56,38,True
+acquisition_test,≥15,success_1,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.00580808080808079,-0.024448340874811455,0.0005965909090908867,56,38,True
+acquisition_test,≥15,success_1,Cross-fitted multitask NAP,single_task_NAP,0.05101010101010105,-0.04799699374699373,0.13899536727569806,56,38,True
+acquisition_test,≥15,success_1,Cross-fitted multitask NAP,multitask_NAP,0.0430555555555556,-0.044977678571428564,0.1308645706145706,56,38,True
+acquisition_test,≥15,success_1,Cross-fitted multitask NAP,single_task_GP + EI,0.10894360269360273,0.04583311766735679,0.17791483764558452,56,38,True
+acquisition_test,≥15,success_1,Cross-fitted multitask NAP,multitask_GP + EI,0.019360269360269397,-0.0659539403396311,0.10584014724310768,56,38,True
+acquisition_test,≥15,success_1,Cross-fitted multitask NAP,single_task_Delta greedy,-0.030892255892255888,-0.12929333398083398,0.06648369621971588,56,38,True
+acquisition_test,≥15,success_1,Cross-fitted multitask NAP,multitask_Delta greedy,-0.02110690235690235,-0.10391285030151717,0.04886907679738562,56,38,True
+acquisition_test,≥15,success_1,Cross-fitted multitask NAP,Random,0.0710997162718931,0.006235213783737368,0.13921827580245183,56,38,True
+acquisition_test,≥15,success_2,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.03579545454545452,-0.04394350459482039,0.11970868235853853,56,38,True
+acquisition_test,≥15,success_2,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.009764309764309753,-0.02356342364532015,0.049596139971139985,56,38,True
+acquisition_test,≥15,success_2,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.010816498316498335,-0.04569726874003191,0.003232775054466242,56,38,True
+acquisition_test,≥15,success_2,Cross-fitted multitask NAP,single_task_NAP,0.07731481481481484,-0.047125,0.19330641985329483,56,38,True
+acquisition_test,≥15,success_2,Cross-fitted multitask NAP,multitask_NAP,0.088236531986532,-0.01810484307359311,0.18700802087697246,56,38,True
+acquisition_test,≥15,success_2,Cross-fitted multitask NAP,single_task_GP + EI,0.10831228956228955,0.03404197191697195,0.18184760551948034,56,38,True
+acquisition_test,≥15,success_2,Cross-fitted multitask NAP,multitask_GP + EI,0.059232202982203,-0.036597817113442115,0.14408080365984774,56,38,True
+acquisition_test,≥15,success_2,Cross-fitted multitask NAP,single_task_Delta greedy,-0.016245791245791258,-0.15595328282828283,0.12315192099567102,56,38,True
+acquisition_test,≥15,success_2,Cross-fitted multitask NAP,multitask_Delta greedy,-0.009175084175084197,-0.126105891994479,0.09515668590668583,56,38,True
+acquisition_test,≥15,success_2,Cross-fitted multitask NAP,Random,0.09661525692240724,0.0022906409586668274,0.1879036506999648,56,38,True
+acquisition_test,Size-balanced,efficiency,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.02552296271825738,-0.04417410862913646,0.08735529618197929,499,231,True
+acquisition_test,Size-balanced,efficiency,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.0021737739887378593,-0.02828519276971312,0.02489102295286451,499,231,True
+acquisition_test,Size-balanced,efficiency,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.0018085388294121763,-0.007231776739024295,0.015692368032892434,499,231,True
+acquisition_test,Size-balanced,efficiency,Cross-fitted multitask NAP,single_task_NAP,0.10823868138984605,0.01291193909790376,0.19983649047346652,499,231,True
+acquisition_test,Size-balanced,efficiency,Cross-fitted multitask NAP,multitask_NAP,0.21791512500031407,0.11084036449497382,0.3363934521131133,499,231,True
+acquisition_test,Size-balanced,efficiency,Cross-fitted multitask NAP,single_task_GP + EI,0.14387732554690144,0.054927926478966854,0.22615073883383802,499,231,True
+acquisition_test,Size-balanced,efficiency,Cross-fitted multitask NAP,multitask_GP + EI,0.06257833354157921,0.001049117519758429,0.12439338111556761,499,231,True
+acquisition_test,Size-balanced,efficiency,Cross-fitted multitask NAP,single_task_Delta greedy,0.03573050007715145,-0.04052115896503772,0.10668436920771279,499,231,True
+acquisition_test,Size-balanced,efficiency,Cross-fitted multitask NAP,multitask_Delta greedy,0.04840850600389357,-0.007084439733297675,0.10698496754521765,499,231,True
+acquisition_test,Size-balanced,efficiency,Cross-fitted multitask NAP,Random,0.2615081051849183,0.18728428583832119,0.3328679046501396,499,231,True
+acquisition_test,Size-balanced,regret_area,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.00971535680934063,-0.0062633063710448005,0.02515319182153631,507,233,True
+acquisition_test,Size-balanced,regret_area,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.0028280150546169947,-0.009279939322477402,0.003874794153257059,507,233,True
+acquisition_test,Size-balanced,regret_area,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.0004379291739664559,-0.0011731073149880034,0.002853121640992998,507,233,True
+acquisition_test,Size-balanced,regret_area,Cross-fitted multitask NAP,single_task_NAP,0.027409513635691246,0.006571325728189357,0.047832809403188375,507,233,True
+acquisition_test,Size-balanced,regret_area,Cross-fitted multitask NAP,multitask_NAP,0.042480695342513364,0.022754030068132293,0.06443485773000203,507,233,True
+acquisition_test,Size-balanced,regret_area,Cross-fitted multitask NAP,single_task_GP + EI,0.029256979471263628,0.009323095253450793,0.04804446581268208,507,233,True
+acquisition_test,Size-balanced,regret_area,Cross-fitted multitask NAP,multitask_GP + EI,0.016208085920929954,-0.0027586930125384603,0.03353891777471352,507,233,True
+acquisition_test,Size-balanced,regret_area,Cross-fitted multitask NAP,single_task_Delta greedy,0.01165926058993974,-0.00809186997162281,0.029645670836461066,507,233,True
+acquisition_test,Size-balanced,regret_area,Cross-fitted multitask NAP,multitask_Delta greedy,0.013229683030563183,-0.0003266462849671603,0.027208411947719918,507,233,True
+acquisition_test,Size-balanced,regret_area,Cross-fitted multitask NAP,Random,0.06327358368101149,0.04739285245803635,0.07862114787462243,507,233,True
+acquisition_test,Size-balanced,success_1,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.03991114316003058,-0.0006181455681362036,0.08328518273850774,499,231,True
+acquisition_test,Size-balanced,success_1,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.008412245314383393,-0.022205066921445894,0.005102449942214294,499,231,True
+acquisition_test,Size-balanced,success_1,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.0015741456077175697,-0.010924146096486455,0.005015835815486294,499,231,True
+acquisition_test,Size-balanced,success_1,Cross-fitted multitask NAP,single_task_NAP,0.03307092865568101,-0.01880453009884453,0.08837384731411671,499,231,True
+acquisition_test,Size-balanced,success_1,Cross-fitted multitask NAP,multitask_NAP,0.05455194186081383,0.004037583774178114,0.10411971124990087,499,231,True
+acquisition_test,Size-balanced,success_1,Cross-fitted multitask NAP,single_task_GP + EI,0.09504195848405414,0.04880376696543844,0.14548345271837848,499,231,True
+acquisition_test,Size-balanced,success_1,Cross-fitted multitask NAP,multitask_GP + EI,0.04372740483702173,-0.0008460875264285025,0.09166359128565353,499,231,True
+acquisition_test,Size-balanced,success_1,Cross-fitted multitask NAP,single_task_Delta greedy,0.005403108143433255,-0.03679197129086524,0.04899023714407834,499,231,True
+acquisition_test,Size-balanced,success_1,Cross-fitted multitask NAP,multitask_Delta greedy,0.0069414860666795475,-0.030018639571584564,0.045435878926040264,499,231,True
+acquisition_test,Size-balanced,success_1,Cross-fitted multitask NAP,Random,0.09733005840521355,0.061939966517868504,0.13813598849221112,499,231,True
+acquisition_test,Size-balanced,success_2,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.059292028158376864,0.012205370415565011,0.10710933154310347,370,184,True
+acquisition_test,Size-balanced,success_2,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.0013316957262640705,-0.017160967192274695,0.021520009044393756,370,184,True
+acquisition_test,Size-balanced,success_2,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.0018137008258912735,-0.01357989766446068,0.00710539438936175,370,184,True
+acquisition_test,Size-balanced,success_2,Cross-fitted multitask NAP,single_task_NAP,0.06354703495036684,0.0018587194504224244,0.12385310583606976,370,184,True
+acquisition_test,Size-balanced,success_2,Cross-fitted multitask NAP,multitask_NAP,0.09343344226976763,0.033823394370218966,0.14925305738793737,370,184,True
+acquisition_test,Size-balanced,success_2,Cross-fitted multitask NAP,single_task_GP + EI,0.12496747979938583,0.06455013090347121,0.18414650684045872,370,184,True
+acquisition_test,Size-balanced,success_2,Cross-fitted multitask NAP,multitask_GP + EI,0.052225733761487314,0.0011445391789804767,0.10546102471555892,370,184,True
+acquisition_test,Size-balanced,success_2,Cross-fitted multitask NAP,single_task_Delta greedy,0.04575251555424209,-0.015044145547027127,0.10615991809457044,370,184,True
+acquisition_test,Size-balanced,success_2,Cross-fitted multitask NAP,multitask_Delta greedy,0.016334890806296687,-0.03204131465876477,0.06708948283002598,370,184,True
+acquisition_test,Size-balanced,success_2,Cross-fitted multitask NAP,Random,0.15187396355032512,0.10583768846554617,0.19736797299020262,370,184,True
+reserved_delta_test,All ≥3,efficiency,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.07069089611675858,-0.08784195040121932,0.2309111843577565,103,54,True
+reserved_delta_test,All ≥3,efficiency,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.028922304012298394,-0.0757410890338365,0.01715747401443978,103,54,True
+reserved_delta_test,All ≥3,efficiency,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.002545524328891491,-0.031876155140819616,0.023091119039122143,103,54,True
+reserved_delta_test,All ≥3,efficiency,Cross-fitted multitask NAP,single_task_NAP,0.0543439710568947,-0.14606660168503055,0.26091710028638854,103,54,True
+reserved_delta_test,All ≥3,efficiency,Cross-fitted multitask NAP,multitask_NAP,0.19510096822975778,-0.013969487504971343,0.39690781774969913,103,54,True
+reserved_delta_test,All ≥3,efficiency,Cross-fitted multitask NAP,single_task_GP + EI,0.1325635970558018,-0.04161651146749809,0.31710308320977965,103,54,True
+reserved_delta_test,All ≥3,efficiency,Cross-fitted multitask NAP,multitask_GP + EI,0.16035475845517158,0.026572037765668775,0.2836124508653148,103,54,True
+reserved_delta_test,All ≥3,efficiency,Cross-fitted multitask NAP,single_task_Delta greedy,0.014921876459063343,-0.11782711206271419,0.1518997190974752,103,54,True
+reserved_delta_test,All ≥3,efficiency,Cross-fitted multitask NAP,multitask_Delta greedy,-0.023718598311387118,-0.12717008488012324,0.08176908728099139,103,54,True
+reserved_delta_test,All ≥3,efficiency,Cross-fitted multitask NAP,Random,0.2657567978340665,0.10189763009558435,0.41870666688909247,103,54,True
+reserved_delta_test,All ≥3,regret_area,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.020295313766675538,-0.014167912327319489,0.059942355976134766,105,54,True
+reserved_delta_test,All ≥3,regret_area,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.00988846794132403,-0.021669630726936735,0.001966428158450712,105,54,True
+reserved_delta_test,All ≥3,regret_area,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.0012855691479775888,-0.007961775595324721,0.0020271394945539224,105,54,True
+reserved_delta_test,All ≥3,regret_area,Cross-fitted multitask NAP,single_task_NAP,0.02094621662337054,-0.022458933863531486,0.07928141434187778,105,54,True
+reserved_delta_test,All ≥3,regret_area,Cross-fitted multitask NAP,multitask_NAP,0.0544032810099771,0.007443117815320906,0.10512495442295496,105,54,True
+reserved_delta_test,All ≥3,regret_area,Cross-fitted multitask NAP,single_task_GP + EI,0.05682862452634965,0.01337772652155094,0.10524377108696058,105,54,True
+reserved_delta_test,All ≥3,regret_area,Cross-fitted multitask NAP,multitask_GP + EI,0.04309222443379401,0.0025926201153845126,0.08064209318717361,105,54,True
+reserved_delta_test,All ≥3,regret_area,Cross-fitted multitask NAP,single_task_Delta greedy,0.01988198169110872,-0.010740806596539795,0.05642885941287359,105,54,True
+reserved_delta_test,All ≥3,regret_area,Cross-fitted multitask NAP,multitask_Delta greedy,0.001847927353364559,-0.023094981988235886,0.03225630356099345,105,54,True
+reserved_delta_test,All ≥3,regret_area,Cross-fitted multitask NAP,Random,0.08185307390446514,0.04217788700288768,0.12379971440102716,105,54,True
+reserved_delta_test,All ≥3,success_1,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.026610644257703098,-0.05583640104413121,0.11338077985807143,103,54,True
+reserved_delta_test,All ≥3,success_1,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.013381716322892812,-0.045631372374346946,0.021713587740761642,103,54,True
+reserved_delta_test,All ≥3,success_1,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.00482238349885411,-0.006489803779899519,0.030356216412897406,103,54,True
+reserved_delta_test,All ≥3,success_1,Cross-fitted multitask NAP,single_task_NAP,-0.027314107461166304,-0.13469465365592007,0.09317222295223705,103,54,True
+reserved_delta_test,All ≥3,success_1,Cross-fitted multitask NAP,multitask_NAP,0.04441685765215175,-0.051542970771325684,0.13959203095182093,103,54,True
+reserved_delta_test,All ≥3,success_1,Cross-fitted multitask NAP,single_task_GP + EI,0.09520626432391138,0.004512957078462968,0.19664855564001424,103,54,True
+reserved_delta_test,All ≥3,success_1,Cross-fitted multitask NAP,multitask_GP + EI,0.0546600458365164,-0.02970566846828857,0.12999446459972727,103,54,True
+reserved_delta_test,All ≥3,success_1,Cross-fitted multitask NAP,single_task_Delta greedy,-0.05330404889228424,-0.13054379699248117,0.03437204279638492,103,54,True
+reserved_delta_test,All ≥3,success_1,Cross-fitted multitask NAP,multitask_Delta greedy,-0.03928571428571431,-0.10867946981424144,0.03430782977442172,103,54,True
+reserved_delta_test,All ≥3,success_1,Cross-fitted multitask NAP,Random,0.0943775285146759,0.004567230856205257,0.1854061608698495,103,54,True
+reserved_delta_test,All ≥3,success_2,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.0630303030303031,-0.031723304473304466,0.16516037062973313,78,42,True
+reserved_delta_test,All ≥3,success_2,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.012288961038961044,-0.06625894597605123,0.03501187116260645,78,42,True
+reserved_delta_test,All ≥3,success_2,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.0003111471861473314,-0.03247595704948648,0.028997390493278524,78,42,True
+reserved_delta_test,All ≥3,success_2,Cross-fitted multitask NAP,single_task_NAP,0.10159090909090907,-0.01934438661828363,0.22219877807377814,78,42,True
+reserved_delta_test,All ≥3,success_2,Cross-fitted multitask NAP,multitask_NAP,0.1652435064935065,0.03990915217631676,0.27800838424701413,78,42,True
+reserved_delta_test,All ≥3,success_2,Cross-fitted multitask NAP,single_task_GP + EI,0.11099837662337664,-0.003083993212669695,0.22123264929514913,78,42,True
+reserved_delta_test,All ≥3,success_2,Cross-fitted multitask NAP,multitask_GP + EI,0.1697808441558441,0.045381229881229806,0.2991248898160661,78,42,True
+reserved_delta_test,All ≥3,success_2,Cross-fitted multitask NAP,single_task_Delta greedy,0.005811688311688323,-0.07313144841269849,0.09142197712418308,78,42,True
+reserved_delta_test,All ≥3,success_2,Cross-fitted multitask NAP,multitask_Delta greedy,0.02478084415584414,-0.055816592006849367,0.11058695745044413,78,42,True
+reserved_delta_test,All ≥3,success_2,Cross-fitted multitask NAP,Random,0.1733790152786458,0.06884285647310918,0.26691645958773585,78,42,True
+reserved_delta_test,3–5,efficiency,Cross-fitted multitask NAP,Cross-fitted single-task NAP,-0.01668300653594773,-0.3157487450820784,0.24485718163147832,61,39,True
+reserved_delta_test,3–5,efficiency,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.06348856209150319,-0.14676758320923078,0.00992125120250116,61,39,True
+reserved_delta_test,3–5,efficiency,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.007761437908496677,-0.0592433254145211,0.039303253119429456,61,39,True
+reserved_delta_test,3–5,efficiency,Cross-fitted multitask NAP,single_task_NAP,-0.02718273420479303,-0.3299587044219399,0.2554455433969322,61,39,True
+reserved_delta_test,3–5,efficiency,Cross-fitted multitask NAP,multitask_NAP,0.08581018518518518,-0.22969425905884244,0.3922870985110568,61,39,True
+reserved_delta_test,3–5,efficiency,Cross-fitted multitask NAP,single_task_GP + EI,0.044101307189542444,-0.26246351555973274,0.3364794755987186,61,39,True
+reserved_delta_test,3–5,efficiency,Cross-fitted multitask NAP,multitask_GP + EI,0.159718137254902,-0.054387323240699816,0.33736350108225105,61,39,True
+reserved_delta_test,3–5,efficiency,Cross-fitted multitask NAP,single_task_Delta greedy,-0.04922385620915026,-0.2971200798094664,0.19104661786817587,61,39,True
+reserved_delta_test,3–5,efficiency,Cross-fitted multitask NAP,multitask_Delta greedy,-0.06865604575163395,-0.24439548826777086,0.14096543870073264,61,39,True
+reserved_delta_test,3–5,efficiency,Cross-fitted multitask NAP,Random,0.19953839869281045,-0.08965725859108216,0.44427371818292494,61,39,True
+reserved_delta_test,3–5,regret_area,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.013948241804207978,-0.046861246123634855,0.07105748394794505,63,39,True
+reserved_delta_test,3–5,regret_area,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.018652421896823812,-0.03740430680800394,-0.00119633460064329,63,39,True
+reserved_delta_test,3–5,regret_area,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.00289765130325631,-0.013234114101240937,0.0011243001883456199,63,39,True
+reserved_delta_test,3–5,regret_area,Cross-fitted multitask NAP,single_task_NAP,0.008464707524376724,-0.06122055478909608,0.08912632561271741,63,39,True
+reserved_delta_test,3–5,regret_area,Cross-fitted multitask NAP,multitask_NAP,0.04052253914417975,-0.02987263943516572,0.11859387549717042,63,39,True
+reserved_delta_test,3–5,regret_area,Cross-fitted multitask NAP,single_task_GP + EI,0.03350238303983952,-0.03392365542715264,0.10086389409993243,63,39,True
+reserved_delta_test,3–5,regret_area,Cross-fitted multitask NAP,multitask_GP + EI,0.037217572388178244,-0.027908043669760223,0.08667040493529797,63,39,True
+reserved_delta_test,3–5,regret_area,Cross-fitted multitask NAP,single_task_Delta greedy,0.019176796057325945,-0.033281375779291786,0.07826439234694307,63,39,True
+reserved_delta_test,3–5,regret_area,Cross-fitted multitask NAP,multitask_Delta greedy,-0.0046477416325900744,-0.045601095774914335,0.054897046959500054,63,39,True
+reserved_delta_test,3–5,regret_area,Cross-fitted multitask NAP,Random,0.07998613944421962,0.012345321660679559,0.14387270704134078,63,39,True
+reserved_delta_test,3–5,success_1,Cross-fitted multitask NAP,Cross-fitted single-task NAP,-0.003619281045751488,-0.1670001526251527,0.13636631016042786,61,39,True
+reserved_delta_test,3–5,success_1,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.027185457516339828,-0.08759505541346975,0.020639880952380917,61,39,True
+reserved_delta_test,3–5,success_1,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.004677287581699385,-0.011111519607843153,0.0444444444444444,61,39,True
+reserved_delta_test,3–5,success_1,Cross-fitted multitask NAP,single_task_NAP,-0.005424836601307104,-0.16169744632302674,0.14737545212462977,61,39,True
+reserved_delta_test,3–5,success_1,Cross-fitted multitask NAP,multitask_NAP,0.04138071895424844,-0.10034548611111117,0.1822786025893611,61,39,True
+reserved_delta_test,3–5,success_1,Cross-fitted multitask NAP,single_task_GP + EI,0.08059640522875827,-0.06272300110235486,0.23106901605339106,61,39,True
+reserved_delta_test,3–5,success_1,Cross-fitted multitask NAP,multitask_GP + EI,0.054003267973856295,-0.05655409663865548,0.14838733766233753,61,39,True
+reserved_delta_test,3–5,success_1,Cross-fitted multitask NAP,single_task_Delta greedy,-0.045947712418300535,-0.17561995877896613,0.07868186745852182,61,39,True
+reserved_delta_test,3–5,success_1,Cross-fitted multitask NAP,multitask_Delta greedy,-0.029268790849673154,-0.11497640091390088,0.08437547348484846,61,39,True
+reserved_delta_test,3–5,success_1,Cross-fitted multitask NAP,Random,0.11996323529411773,-0.02438443256090312,0.2517393202861953,61,39,True
+reserved_delta_test,3–5,success_2,Cross-fitted multitask NAP,Cross-fitted single-task NAP,-0.05712121212121213,-0.20716842532467525,0.08888961038961028,36,25,True
+reserved_delta_test,3–5,success_2,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.0546464646464645,-0.18202913943355115,0.0707858345358347,36,25,True
+reserved_delta_test,3–5,success_2,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.0,-0.10303030303030303,0.10333333333333328,36,25,True
+reserved_delta_test,3–5,success_2,Cross-fitted multitask NAP,single_task_NAP,0.11115440115440123,-0.043139835858585746,0.24496789321789317,36,25,True
+reserved_delta_test,3–5,success_2,Cross-fitted multitask NAP,multitask_NAP,0.14756132756132767,-0.03334027777777777,0.2979185363247864,36,25,True
+reserved_delta_test,3–5,success_2,Cross-fitted multitask NAP,single_task_GP + EI,-0.02439393939393919,-0.17249007936507935,0.12588654401154412,36,25,True
+reserved_delta_test,3–5,success_2,Cross-fitted multitask NAP,multitask_GP + EI,0.20727272727272728,0.015316468253968114,0.37114393939393897,36,25,True
+reserved_delta_test,3–5,success_2,Cross-fitted multitask NAP,single_task_Delta greedy,-0.07924242424242411,-0.20856498015873026,0.03673616946778682,36,25,True
+reserved_delta_test,3–5,success_2,Cross-fitted multitask NAP,multitask_Delta greedy,-0.1206060606060605,-0.25,-0.0062673611111109485,36,25,True
+reserved_delta_test,3–5,success_2,Cross-fitted multitask NAP,Random,0.1446392496392498,-0.060423611111111115,0.31779222860472855,36,25,True
+reserved_delta_test,6–9,efficiency,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.31265873015873025,0.05261904761904765,0.5375785714285714,17,15,True
+reserved_delta_test,6–9,efficiency,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.045023809523809605,-0.03142857142857142,0.1544484126984127,17,15,True
+reserved_delta_test,6–9,efficiency,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.01581746031746037,-0.048906746031745954,0.1223015873015873,17,15,True
+reserved_delta_test,6–9,efficiency,Cross-fitted multitask NAP,single_task_NAP,0.3333412698412699,0.05409528061224486,0.61270376984127,17,15,True
+reserved_delta_test,6–9,efficiency,Cross-fitted multitask NAP,multitask_NAP,0.22259523809523818,-0.1863571428571429,0.6291159722222222,17,15,True
+reserved_delta_test,6–9,efficiency,Cross-fitted multitask NAP,single_task_GP + EI,0.2877857142857143,-0.033913492063492076,0.6006651785714285,17,15,True
+reserved_delta_test,6–9,efficiency,Cross-fitted multitask NAP,multitask_GP + EI,0.15907142857142864,-0.13441527777777784,0.4115666666666665,17,15,True
+reserved_delta_test,6–9,efficiency,Cross-fitted multitask NAP,single_task_Delta greedy,0.13276190476190486,-0.04493273809523798,0.33858581349206335,17,15,True
+reserved_delta_test,6–9,efficiency,Cross-fitted multitask NAP,multitask_Delta greedy,-0.04485714285714282,-0.27643055555555557,0.16730714285714285,17,15,True
+reserved_delta_test,6–9,efficiency,Cross-fitted multitask NAP,Random,0.24214285714285722,0.006325396825396829,0.456440362811791,17,15,True
+reserved_delta_test,6–9,regret_area,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.04497960566707694,-0.008692061634544503,0.09799255075796122,17,15,True
+reserved_delta_test,6–9,regret_area,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.007527224388181167,-0.0064612806669113254,0.027809207554526254,17,15,True
+reserved_delta_test,6–9,regret_area,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.002501534979474987,-0.007777726628474644,0.01742678013932489,17,15,True
+reserved_delta_test,6–9,regret_area,Cross-fitted multitask NAP,single_task_NAP,0.06431564660614943,0.007290772976188311,0.13857392644431063,17,15,True
+reserved_delta_test,6–9,regret_area,Cross-fitted multitask NAP,multitask_NAP,0.06770116985896597,0.004292210073948569,0.13904205243908782,17,15,True
+reserved_delta_test,6–9,regret_area,Cross-fitted multitask NAP,single_task_GP + EI,0.10649697530108755,0.013169872701274864,0.22669578166550822,17,15,True
+reserved_delta_test,6–9,regret_area,Cross-fitted multitask NAP,multitask_GP + EI,0.06302289463767445,-0.007875247062835595,0.14446373278363636,17,15,True
+reserved_delta_test,6–9,regret_area,Cross-fitted multitask NAP,single_task_Delta greedy,0.0559629464947133,0.00856887826347978,0.12237336191806135,17,15,True
+reserved_delta_test,6–9,regret_area,Cross-fitted multitask NAP,multitask_Delta greedy,0.029411814595705646,-0.047926471638319736,0.10901495181206951,17,15,True
+reserved_delta_test,6–9,regret_area,Cross-fitted multitask NAP,Random,0.09914078664267649,0.050545754197640416,0.14555525334681674,17,15,True
+reserved_delta_test,6–9,success_1,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.058611111111111114,-0.1541875000000001,0.23749999999999993,17,15,True
+reserved_delta_test,6–9,success_1,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.015833333333333338,-0.06666666666666665,0.10833333333333334,17,15,True
+reserved_delta_test,6–9,success_1,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.026944444444444465,0.0,0.1111111111111111,17,15,True
+reserved_delta_test,6–9,success_1,Cross-fitted multitask NAP,single_task_NAP,0.06444444444444444,-0.07699007936507932,0.20416666666666666,17,15,True
+reserved_delta_test,6–9,success_1,Cross-fitted multitask NAP,multitask_NAP,-0.009999999999999981,-0.22500992063492062,0.17833333333333334,17,15,True
+reserved_delta_test,6–9,success_1,Cross-fitted multitask NAP,single_task_GP + EI,0.1166666666666667,-0.13255952380952385,0.3125,17,15,True
+reserved_delta_test,6–9,success_1,Cross-fitted multitask NAP,multitask_GP + EI,0.10833333333333336,-0.12083333333333329,0.28888888888888886,17,15,True
+reserved_delta_test,6–9,success_1,Cross-fitted multitask NAP,single_task_Delta greedy,-0.029999999999999943,-0.18890625000000003,0.12666666666666665,17,15,True
+reserved_delta_test,6–9,success_1,Cross-fitted multitask NAP,multitask_Delta greedy,-0.12583333333333327,-0.30833333333333335,0.030555555555555558,17,15,True
+reserved_delta_test,6–9,success_1,Cross-fitted multitask NAP,Random,0.05997222222222229,-0.08583749999999998,0.18817579365079368,17,15,True
+reserved_delta_test,6–9,success_2,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.20472222222222236,0.056329365079365055,0.39102777777777775,17,15,True
+reserved_delta_test,6–9,success_2,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.009722222222222299,-0.06944444444444448,0.09250694444444436,17,15,True
+reserved_delta_test,6–9,success_2,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.001388888888888884,-0.07777777777777778,0.07333333333333336,17,15,True
+reserved_delta_test,6–9,success_2,Cross-fitted multitask NAP,single_task_NAP,0.2611111111111112,0.07915972222222227,0.47638888888888886,17,15,True
+reserved_delta_test,6–9,success_2,Cross-fitted multitask NAP,multitask_NAP,0.15000000000000013,-0.08750000000000002,0.40126578282828274,17,15,True
+reserved_delta_test,6–9,success_2,Cross-fitted multitask NAP,single_task_GP + EI,0.19500000000000006,-0.030565476190476296,0.44166666666666665,17,15,True
+reserved_delta_test,6–9,success_2,Cross-fitted multitask NAP,multitask_GP + EI,0.2583333333333334,0.02915277777777768,0.461672619047619,17,15,True
+reserved_delta_test,6–9,success_2,Cross-fitted multitask NAP,single_task_Delta greedy,0.1200000000000001,-0.05416666666666664,0.31999999999999995,17,15,True
+reserved_delta_test,6–9,success_2,Cross-fitted multitask NAP,multitask_Delta greedy,-0.008333333333333304,-0.1708333333333334,0.175,17,15,True
+reserved_delta_test,6–9,success_2,Cross-fitted multitask NAP,Random,0.17161111111111116,-0.011872222222222199,0.3383333333333333,17,15,True
+reserved_delta_test,10–14,efficiency,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.05301388888888886,-0.10406268939393946,0.20556597222222206,14,11,True
+reserved_delta_test,10–14,efficiency,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.027640993265993286,-0.08125231481481486,0.03513897907647913,14,11,True
+reserved_delta_test,10–14,efficiency,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.009827020202020142,-0.04070504148629147,0.003912847222222193,14,11,True
+reserved_delta_test,10–14,efficiency,Cross-fitted multitask NAP,single_task_NAP,0.2102596801346802,0.03652517185746349,0.3806485058922557,14,11,True
+reserved_delta_test,10–14,efficiency,Cross-fitted multitask NAP,multitask_NAP,0.13131776094276099,-0.053535458754208745,0.3214854647667147,14,11,True
+reserved_delta_test,10–14,efficiency,Cross-fitted multitask NAP,single_task_GP + EI,0.34516666666666673,0.16022506313131313,0.5312881944444439,14,11,True
+reserved_delta_test,10–14,efficiency,Cross-fitted multitask NAP,multitask_GP + EI,0.23692045454545463,0.07610333243145746,0.3937514204545455,14,11,True
+reserved_delta_test,10–14,efficiency,Cross-fitted multitask NAP,single_task_Delta greedy,0.14575883838383846,-0.06325512941919191,0.37054905303030294,14,11,True
+reserved_delta_test,10–14,efficiency,Cross-fitted multitask NAP,multitask_Delta greedy,0.1639116161616162,-0.07877619949494946,0.3556665614478114,14,11,True
+reserved_delta_test,10–14,efficiency,Cross-fitted multitask NAP,Random,0.433189393939394,0.2957998211279461,0.5626440972222222,14,11,True
+reserved_delta_test,10–14,regret_area,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.017296744124953536,-0.016570209768591682,0.0519029030823118,14,11,True
+reserved_delta_test,10–14,regret_area,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.008334359670473065,-0.02113645211012909,0.003602587228170201,14,11,True
+reserved_delta_test,10–14,regret_area,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.0013490549094287985,-0.0071140015488011955,0.001807707379702418,14,11,True
+reserved_delta_test,10–14,regret_area,Cross-fitted multitask NAP,single_task_NAP,0.038177795070996196,0.01573112671145321,0.0623964128987818,14,11,True
+reserved_delta_test,10–14,regret_area,Cross-fitted multitask NAP,multitask_NAP,0.05144641771018123,0.015257419354138772,0.0924822848687011,14,11,True
+reserved_delta_test,10–14,regret_area,Cross-fitted multitask NAP,single_task_GP + EI,0.09027921712536434,0.061813765270208654,0.1232477697806284,14,11,True
+reserved_delta_test,10–14,regret_area,Cross-fitted multitask NAP,multitask_GP + EI,0.06952214407565847,0.034603303095887994,0.1022635165561519,14,11,True
+reserved_delta_test,10–14,regret_area,Cross-fitted multitask NAP,single_task_Delta greedy,0.013400262333333524,-0.014470313917721246,0.05143684118660398,14,11,True
+reserved_delta_test,10–14,regret_area,Cross-fitted multitask NAP,multitask_Delta greedy,0.031921953264942085,0.007707438917701942,0.0628063427629866,14,11,True
+reserved_delta_test,10–14,regret_area,Cross-fitted multitask NAP,Random,0.10011045087029231,0.07777516795758299,0.12141845250400463,14,11,True
+reserved_delta_test,10–14,success_1,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.011666666666666659,-0.08000000000000002,0.12083333333333332,14,11,True
+reserved_delta_test,10–14,success_1,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.008333333333333331,-0.10000000000000003,0.07333333333333332,14,11,True
+reserved_delta_test,10–14,success_1,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.0025000000000000022,-0.04999999999999999,0.05555555555555555,14,11,True
+reserved_delta_test,10–14,success_1,Cross-fitted multitask NAP,single_task_NAP,-0.10833333333333334,-0.2650119047619048,0.04444444444444445,14,11,True
+reserved_delta_test,10–14,success_1,Cross-fitted multitask NAP,multitask_NAP,-0.15388888888888888,-0.3375,0.05833333333333335,14,11,True
+reserved_delta_test,10–14,success_1,Cross-fitted multitask NAP,single_task_GP + EI,0.0325,-0.08166666666666667,0.18333333333333332,14,11,True
+reserved_delta_test,10–14,success_1,Cross-fitted multitask NAP,multitask_GP + EI,-0.061666666666666675,-0.17916666666666667,0.07835416666666634,14,11,True
+reserved_delta_test,10–14,success_1,Cross-fitted multitask NAP,single_task_Delta greedy,-0.11166666666666666,-0.2708333333333333,0.03749999999999998,14,11,True
+reserved_delta_test,10–14,success_1,Cross-fitted multitask NAP,multitask_Delta greedy,-0.021666666666666667,-0.18055555555555547,0.14166666666666666,14,11,True
+reserved_delta_test,10–14,success_1,Cross-fitted multitask NAP,Random,-0.02572753172753174,-0.10886202686202687,0.09443546037296027,14,11,True
+reserved_delta_test,10–14,success_2,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.16000000000000003,-2.083333333338083e-05,0.33753472222222175,14,11,True
+reserved_delta_test,10–14,success_2,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.023333333333333317,-0.11112500000000004,0.07500000000000001,14,11,True
+reserved_delta_test,10–14,success_2,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.0016666666666667052,-0.033333333333333326,0.024999999999999967,14,11,True
+reserved_delta_test,10–14,success_2,Cross-fitted multitask NAP,single_task_NAP,0.16333333333333333,-0.04585416666666672,0.3428621031746031,14,11,True
+reserved_delta_test,10–14,success_2,Cross-fitted multitask NAP,multitask_NAP,-0.006666666666666599,-0.14750694444444443,0.15999999999999998,14,11,True
+reserved_delta_test,10–14,success_2,Cross-fitted multitask NAP,single_task_GP + EI,0.20583333333333334,0.014791666666666642,0.38888888888888884,14,11,True
+reserved_delta_test,10–14,success_2,Cross-fitted multitask NAP,multitask_GP + EI,0.13666666666666671,-0.04837499999999994,0.2966666666666667,14,11,True
+reserved_delta_test,10–14,success_2,Cross-fitted multitask NAP,single_task_Delta greedy,-0.043333333333333335,-0.16875744047619054,0.10170833333333275,14,11,True
+reserved_delta_test,10–14,success_2,Cross-fitted multitask NAP,multitask_Delta greedy,0.26333333333333336,0.09441666666666668,0.43891666666666634,14,11,True
+reserved_delta_test,10–14,success_2,Cross-fitted multitask NAP,Random,0.1885734265734266,0.050731837606837624,0.327940365190365,14,11,True
+reserved_delta_test,≥15,efficiency,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.1643227834543624,-0.0711887651821862,0.39204062506694093,11,7,True
+reserved_delta_test,≥15,efficiency,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.014806653385600721,-0.026509607351712594,0.04984204099993578,11,7,True
+reserved_delta_test,≥15,efficiency,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.0029495105284580436,-0.02863659147869657,0.02380791401580868,11,7,True
+reserved_delta_test,≥15,efficiency,Cross-fitted multitask NAP,single_task_NAP,0.21845129918814132,0.05638846073517118,0.3359020467836259,11,7,True
+reserved_delta_test,≥15,efficiency,Cross-fitted multitask NAP,multitask_NAP,0.7519424951267057,0.5969081678555364,0.8591216502795451,11,7,True
+reserved_delta_test,≥15,efficiency,Cross-fitted multitask NAP,single_task_GP + EI,0.311040260908682,0.04348687423687431,0.6017408906882592,11,7,True
+reserved_delta_test,≥15,efficiency,Cross-fitted multitask NAP,multitask_GP + EI,0.2770129490392649,0.2096829734592893,0.3940428957007905,11,7,True
+reserved_delta_test,≥15,efficiency,Cross-fitted multitask NAP,single_task_Delta greedy,0.1980209819420346,0.01766608829766725,0.2916672289698605,11,7,True
+reserved_delta_test,≥15,efficiency,Cross-fitted multitask NAP,multitask_Delta greedy,0.22029458261037216,0.1378365143628303,0.275138294454084,11,7,True
+reserved_delta_test,≥15,efficiency,Cross-fitted multitask NAP,Random,0.6032419188998137,0.4025307361811122,0.8237262386736072,11,7,True
+reserved_delta_test,≥15,regret_area,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.008470338439412327,-0.009077108500460493,0.02790158952541308,11,7,True
+reserved_delta_test,≥15,regret_area,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.004345493885706375,0.0007986377852594526,0.007089138963903653,11,7,True
+reserved_delta_test,≥15,regret_area,Cross-fitted multitask NAP,Cross-fitted multitask warm start,2.3967721722993607e-05,-0.002656273049394399,0.0015225129409180554,11,7,True
+reserved_delta_test,≥15,regret_area,Cross-fitted multitask NAP,single_task_NAP,0.022921744062601036,-0.002637726872880622,0.047062026212185824,11,7,True
+reserved_delta_test,≥15,regret_area,Cross-fitted multitask NAP,multitask_NAP,0.09684092937615062,0.06862319939982928,0.1371003104933597,11,7,True
+reserved_delta_test,≥15,regret_area,Cross-fitted multitask NAP,single_task_GP + EI,0.05885368055580119,0.04125137400455461,0.07564522510496499,11,7,True
+reserved_delta_test,≥15,regret_area,Cross-fitted multitask NAP,multitask_GP + EI,0.01663279075800897,0.004537974718107365,0.037629945206672344,11,7,True
+reserved_delta_test,≥15,regret_area,Cross-fitted multitask NAP,single_task_Delta greedy,0.00711178598349424,-0.004730691691591311,0.017040501121247283,11,7,True
+reserved_delta_test,≥15,regret_area,Cross-fitted multitask NAP,multitask_Delta greedy,0.008165239571034252,0.002815574332753132,0.015767376950963728,11,7,True
+reserved_delta_test,≥15,regret_area,Cross-fitted multitask NAP,Random,0.08155426803036783,0.06830013856735642,0.1063053445416876,11,7,True
+reserved_delta_test,≥15,success_1,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.14722222222222225,0.008333333333333331,0.31666666666666665,11,7,True
+reserved_delta_test,≥15,success_1,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.011111111111111072,-0.0625,0.050000000000000044,11,7,True
+reserved_delta_test,≥15,success_1,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.03888888888888886,-0.10000000000000003,0.0,11,7,True
+reserved_delta_test,≥15,success_1,Cross-fitted multitask NAP,single_task_NAP,-0.055555555555555525,-0.2833333333333334,0.14999999999999997,11,7,True
+reserved_delta_test,≥15,success_1,Cross-fitted multitask NAP,multitask_NAP,0.2666666666666667,0.15,0.45,11,7,True
+reserved_delta_test,≥15,success_1,Cross-fitted multitask NAP,single_task_GP + EI,0.2888888888888889,0.15,0.48333333333333334,11,7,True
+reserved_delta_test,≥15,success_1,Cross-fitted multitask NAP,multitask_GP + EI,0.2888888888888889,0.15,0.48333333333333334,11,7,True
+reserved_delta_test,≥15,success_1,Cross-fitted multitask NAP,single_task_Delta greedy,0.03888888888888892,-0.09166666666666667,0.12,11,7,True
+reserved_delta_test,≥15,success_1,Cross-fitted multitask NAP,multitask_Delta greedy,0.17222222222222225,0.05833333333333335,0.25416666666666665,11,7,True
+reserved_delta_test,≥15,success_1,Cross-fitted multitask NAP,Random,0.23990072762486558,0.10050959959580649,0.4331734931734932,11,7,True
+reserved_delta_test,≥15,success_2,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.16666666666666669,0.09999999999999998,0.27222222222222225,11,7,True
+reserved_delta_test,≥15,success_2,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.10833333333333334,0.07499999999999996,0.15000000000000002,11,7,True
+reserved_delta_test,≥15,success_2,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.0027777777777777124,-0.016666666666666607,0.016666666666666663,11,7,True
+reserved_delta_test,≥15,success_2,Cross-fitted multitask NAP,single_task_NAP,0.05277777777777776,-0.1611111111111111,0.23333333333333334,11,7,True
+reserved_delta_test,≥15,success_2,Cross-fitted multitask NAP,multitask_NAP,0.41944444444444445,0.33333333333333337,0.6000000000000001,11,7,True
+reserved_delta_test,≥15,success_2,Cross-fitted multitask NAP,single_task_GP + EI,0.4222222222222222,0.30833333333333335,0.5861111111111111,11,7,True
+reserved_delta_test,≥15,success_2,Cross-fitted multitask NAP,multitask_GP + EI,0.22222222222222224,0.13333333333333336,0.36111111111111116,11,7,True
+reserved_delta_test,≥15,success_2,Cross-fitted multitask NAP,single_task_Delta greedy,0.04722222222222222,-0.041666666666666796,0.10840277777777682,11,7,True
+reserved_delta_test,≥15,success_2,Cross-fitted multitask NAP,multitask_Delta greedy,0.3138888888888889,0.21483333333333338,0.3666666666666667,11,7,True
+reserved_delta_test,≥15,success_2,Cross-fitted multitask NAP,Random,0.3492458996941756,0.23614740431981812,0.5117238317238317,11,7,True
+reserved_delta_test,Size-balanced,efficiency,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.1283280989915085,-0.003617214236786597,0.2329519914819466,103,54,True
+reserved_delta_test,Size-balanced,efficiency,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.007824773112021566,-0.04353764395294674,0.0286462195806071,103,54,True
+reserved_delta_test,Size-balanced,efficiency,Cross-fitted multitask NAP,Cross-fitted multitask warm start,0.00029462818385039835,-0.023332472298960783,0.02856343545941357,103,54,True
+reserved_delta_test,Size-balanced,efficiency,Cross-fitted multitask NAP,single_task_NAP,0.18371737873982463,0.046482160242818565,0.27106398926011044,103,54,True
+reserved_delta_test,Size-balanced,efficiency,Cross-fitted multitask NAP,multitask_NAP,0.2979164198374726,0.13579986380772519,0.42626176015687517,103,54,True
+reserved_delta_test,Size-balanced,efficiency,Cross-fitted multitask NAP,single_task_GP + EI,0.24702348726265144,0.09832088387954813,0.3656438117957816,103,54,True
+reserved_delta_test,Size-balanced,efficiency,Cross-fitted multitask NAP,multitask_GP + EI,0.20818074235276257,0.11929786903003183,0.2865998726534074,103,54,True
+reserved_delta_test,Size-balanced,efficiency,Cross-fitted multitask NAP,single_task_Delta greedy,0.10682946721965692,0.006030130111421241,0.1979356936055538,103,54,True
+reserved_delta_test,Size-balanced,efficiency,Cross-fitted multitask NAP,multitask_Delta greedy,0.06767325254080298,-0.025947949362084447,0.15167846405000837,103,54,True
+reserved_delta_test,Size-balanced,efficiency,Cross-fitted multitask NAP,Random,0.3695281421687189,0.24740914395483588,0.46682073641469685,103,54,True
+reserved_delta_test,Size-balanced,regret_area,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.02117373250891269,-0.001690867099893653,0.039999842745188974,105,54,True
+reserved_delta_test,Size-balanced,regret_area,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.003778515823352341,-0.011256942610560908,0.0028413334366332033,105,54,True
+reserved_delta_test,Size-balanced,regret_area,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.0004303008778717837,-0.004827216588278028,0.0032368732346964276,105,54,True
+reserved_delta_test,Size-balanced,regret_area,Cross-fitted multitask NAP,single_task_NAP,0.03346997331603081,0.007222986947083483,0.05861690003855669,105,54,True
+reserved_delta_test,Size-balanced,regret_area,Cross-fitted multitask NAP,multitask_NAP,0.06412776402236937,0.03589597424137944,0.09027586413225233,105,54,True
+reserved_delta_test,Size-balanced,regret_area,Cross-fitted multitask NAP,single_task_GP + EI,0.07228306400552316,0.039400931677423895,0.10437503786170337,105,54,True
+reserved_delta_test,Size-balanced,regret_area,Cross-fitted multitask NAP,multitask_GP + EI,0.046598850464880034,0.021836095722969573,0.06956173421995218,105,54,True
+reserved_delta_test,Size-balanced,regret_area,Cross-fitted multitask NAP,single_task_Delta greedy,0.023912947717216734,0.0033211463916912407,0.047794235613951214,105,54,True
+reserved_delta_test,Size-balanced,regret_area,Cross-fitted multitask NAP,multitask_Delta greedy,0.016212816449772974,-0.009142834377030817,0.04381077223991245,105,54,True
+reserved_delta_test,Size-balanced,regret_area,Cross-fitted multitask NAP,Random,0.09019791124688904,0.06864855831811574,0.10906887991712279,105,54,True
+reserved_delta_test,Size-balanced,success_1,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.05347017973856211,-0.013234623015873028,0.12404502610339009,103,54,True
+reserved_delta_test,Size-balanced,success_1,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,-0.0021435866013072014,-0.03531258024042948,0.027858776640026645,103,54,True
+reserved_delta_test,Size-balanced,success_1,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-0.0011917892156862453,-0.01980400910364147,0.018335937499999996,103,54,True
+reserved_delta_test,Size-balanced,success_1,Cross-fitted multitask NAP,single_task_NAP,-0.026217320261437915,-0.11861818057028971,0.05590085088522576,103,54,True
+reserved_delta_test,Size-balanced,success_1,Cross-fitted multitask NAP,multitask_NAP,0.0360396241830066,-0.050723761047979835,0.13601382688492059,103,54,True
+reserved_delta_test,Size-balanced,success_1,Cross-fitted multitask NAP,single_task_GP + EI,0.12966299019607846,0.05776762820512819,0.20955605852480838,103,54,True
+reserved_delta_test,Size-balanced,success_1,Cross-fitted multitask NAP,multitask_GP + EI,0.09738970588235296,0.031979296311327544,0.16950524986709198,103,54,True
+reserved_delta_test,Size-balanced,success_1,Cross-fitted multitask NAP,single_task_Delta greedy,-0.03718137254901954,-0.10866308867296923,0.029186104214413013,103,54,True
+reserved_delta_test,Size-balanced,success_1,Cross-fitted multitask NAP,multitask_Delta greedy,-0.0011366421568627105,-0.0728892994972112,0.06431614342346247,103,54,True
+reserved_delta_test,Size-balanced,success_1,Cross-fitted multitask NAP,Random,0.09852716335341843,0.03877987364846201,0.1628859738948815,103,54,True
+reserved_delta_test,Size-balanced,success_2,Cross-fitted multitask NAP,Cross-fitted single-task NAP,0.1185669191919193,0.051020461309523944,0.19167679586038924,78,42,True
+reserved_delta_test,Size-balanced,success_2,Cross-fitted multitask NAP,Cross-fitted NAP with private adaptation,0.010018939393939497,-0.03859953703703712,0.05014496527777776,78,42,True
+reserved_delta_test,Size-balanced,success_2,Cross-fitted multitask NAP,Cross-fitted multitask warm start,-6.94444444444553e-05,-0.03262657828282843,0.03616586538461535,78,42,True
+reserved_delta_test,Size-balanced,success_2,Cross-fitted multitask NAP,single_task_NAP,0.14709415584415597,0.052340811387686405,0.23706685155122645,78,42,True
+reserved_delta_test,Size-balanced,success_2,Cross-fitted multitask NAP,multitask_NAP,0.17758477633477637,0.08935980685980686,0.26989648719336223,78,42,True
+reserved_delta_test,Size-balanced,success_2,Cross-fitted multitask NAP,single_task_GP + EI,0.19966540404040412,0.11979173430735933,0.2937542162698412,78,42,True
+reserved_delta_test,Size-balanced,success_2,Cross-fitted multitask NAP,multitask_GP + EI,0.20612373737373746,0.12505282738095239,0.28687276785714283,78,42,True
+reserved_delta_test,Size-balanced,success_2,Cross-fitted multitask NAP,single_task_Delta greedy,0.011161616161616261,-0.057833446067821065,0.0837782738095237,78,42,True
+reserved_delta_test,Size-balanced,success_2,Cross-fitted multitask NAP,multitask_Delta greedy,0.1120707070707071,0.03618055555555555,0.1771160342763961,78,42,True
+reserved_delta_test,Size-balanced,success_2,Cross-fitted multitask NAP,Random,0.21351742175449084,0.12676037810369703,0.30213251139425706,78,42,True

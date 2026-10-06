@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "pools": 4625,
+  "methods": [
+    "Random",
+    "single_task_Delta greedy",
+    "single_task_GP + EI",
+    "single_task_NAP",
+    "Cross-fitted single-task NAP"
+  ],
+  "condition_pairs": 9,
+  "sampling_independent_controls_identical": true,
+  "summary_pages": 15,
+  "detailed_pages": 36
+}

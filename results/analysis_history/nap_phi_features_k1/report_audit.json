@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "pools": 4625,
+  "large_pools": 580,
+  "large_groups": 334,
+  "starts": 18500,
+  "folds": 5,
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "K": 1,
+  "checks": [
+    "complete matched pool coverage",
+    "matched starting hits",
+    "three new model seeds",
+    "no duplicate outer test pools",
+    "nested target counts",
+    "frozen source/checkpoint/reference hashes"
+  ]
+}

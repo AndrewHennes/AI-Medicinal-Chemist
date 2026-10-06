@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "test_pools": 4625,
+  "large_pools": 580,
+  "methods": 9,
+  "identical_reference_draws": true,
+  "random_expectations_match_controls": true,
+  "all_orders_complete": true
+}

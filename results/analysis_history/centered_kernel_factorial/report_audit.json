@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "methods": 5,
+  "folds": 5,
+  "endpoints": 6,
+  "test_pools": 4625,
+  "linked_groups": 2011,
+  "large_pools": 580,
+  "large_groups": 334,
+  "checks": [
+    "Input, checkpoint, source and validation SHA256 locks unchanged",
+    "Original checkpoint_1 snapshot unmodified",
+    "Disjoint linked-group folds",
+    "Same fixed hidden queries as preceding benchmark",
+    "Reused neural predictions and calibration exactly reproduced",
+    "GP predictions reproduced from frozen established backbone",
+    "Centered covariance agrees with explicit linear transformation",
+    "Centered noise and null-coordinate solve agree with reduced contrast-basis solve",
+    "One-hit equivalence, perfect-delta alignment, finite gradients, hidden-target isolation and padding/order invariance"
+  ]
+}

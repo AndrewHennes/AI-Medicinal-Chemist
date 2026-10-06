@@ -1,0 +1,38 @@
+[
+  {
+    "study": "acquisition_fivefold_initial_hit_sensitivity",
+    "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/work/analysis_history_repository/results/analysis_history/acquisition_fivefold_initial_hit_sensitivity/performance_by_minimum_pool_size.csv",
+    "source_sha256": "08f34fc67badabc617c795e49e2c1f30d72d150722ce3fca0019eff6ffac6c5c",
+    "rows": 18360,
+    "original_overall_present": true,
+    "pdf_pages": 14,
+    "output": "/Users/asselism/Documents/Codex/2026-09-23/i-h/work/analysis_history_repository/results/analysis_history_figures/acquisition_fivefold_initial_hit_sensitivity/historical_comparison.pdf"
+  },
+  {
+    "study": "acquisition_fivefold_lower_half_multihit_augmentation",
+    "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/work/analysis_history_repository/results/analysis_history/acquisition_fivefold_lower_half_multihit_augmentation/performance_by_minimum_pool_size.csv",
+    "source_sha256": "0d06b024bb0dda7490cdaebad9ac18be8d09f89b44a947e8df878b07b8771f1e",
+    "rows": 2856,
+    "original_overall_present": true,
+    "pdf_pages": 7,
+    "output": "/Users/asselism/Documents/Codex/2026-09-23/i-h/work/analysis_history_repository/results/analysis_history_figures/acquisition_fivefold_lower_half_multihit_augmentation/historical_comparison.pdf"
+  },
+  {
+    "study": "top_removal_augmentation",
+    "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/work/analysis_history_repository/results/analysis_history/top_removal_augmentation/performance_by_minimum_pool_size.csv",
+    "source_sha256": "1ae34fbdf6f567e98426fbc33e9ac2eda39d376678502a4b75fe79053970e2b5",
+    "rows": 2324,
+    "original_overall_present": false,
+    "pdf_pages": 6,
+    "output": "/Users/asselism/Documents/Codex/2026-09-23/i-h/work/analysis_history_repository/results/analysis_history_figures/top_removal_augmentation/historical_comparison.pdf"
+  },
+  {
+    "study": "nap_topk_auxiliary",
+    "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/work/analysis_history_repository/results/analysis_history/nap_topk_auxiliary/performance_by_minimum_pool_size.csv",
+    "source_sha256": "949af3fe0c6504d1cb0cf21a5e6f07176496700f4ef2e799d9d4eff5210d41ca",
+    "rows": 2324,
+    "original_overall_present": false,
+    "pdf_pages": 6,
+    "output": "/Users/asselism/Documents/Codex/2026-09-23/i-h/work/analysis_history_repository/results/analysis_history_figures/nap_topk_auxiliary/historical_comparison.pdf"
+  }
+]

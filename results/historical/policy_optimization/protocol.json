@@ -1,0 +1,128 @@
+{
+  "status": "Policy design fixed before outer evaluation",
+  "design": "2 GP backbones x 3 optimizers; six endpoints, five grouped folds, three policy seeds.",
+  "algorithms": [
+    {
+      "algorithm": "ppo",
+      "id": "ppo_00",
+      "lr_factor": 0.1,
+      "clip": 0.1,
+      "entropy": 0.01
+    },
+    {
+      "algorithm": "ppo",
+      "id": "ppo_01",
+      "lr_factor": 0.3,
+      "clip": 0.2,
+      "entropy": 0.01
+    },
+    {
+      "algorithm": "ppo",
+      "id": "ppo_02",
+      "lr_factor": 1.0,
+      "clip": 0.2,
+      "entropy": 0.01
+    },
+    {
+      "algorithm": "ppo",
+      "id": "ppo_03",
+      "lr_factor": 0.3,
+      "clip": 0.3,
+      "entropy": 0.01
+    },
+    {
+      "algorithm": "trpo",
+      "id": "trpo_00",
+      "max_kl": 0.003,
+      "damping": 0.1,
+      "cg_steps": 10,
+      "line_search_steps": 10,
+      "backtrack": 0.5,
+      "acceptance_ratio": 0.1,
+      "critic_lr_factor": 0.3
+    },
+    {
+      "algorithm": "trpo",
+      "id": "trpo_01",
+      "max_kl": 0.01,
+      "damping": 0.1,
+      "cg_steps": 10,
+      "line_search_steps": 10,
+      "backtrack": 0.5,
+      "acceptance_ratio": 0.1,
+      "critic_lr_factor": 0.3
+    },
+    {
+      "algorithm": "trpo",
+      "id": "trpo_02",
+      "max_kl": 0.03,
+      "damping": 0.1,
+      "cg_steps": 10,
+      "line_search_steps": 10,
+      "backtrack": 0.5,
+      "acceptance_ratio": 0.1,
+      "critic_lr_factor": 0.3
+    },
+    {
+      "algorithm": "trpo",
+      "id": "trpo_03",
+      "max_kl": 0.01,
+      "damping": 0.01,
+      "cg_steps": 10,
+      "line_search_steps": 10,
+      "backtrack": 0.5,
+      "acceptance_ratio": 0.1,
+      "critic_lr_factor": 0.3
+    },
+    {
+      "algorithm": "dpo",
+      "id": "dpo_00",
+      "beta": 0.1,
+      "lr_factor": 0.3,
+      "preference_batch": 8
+    },
+    {
+      "algorithm": "dpo",
+      "id": "dpo_01",
+      "beta": 0.3,
+      "lr_factor": 0.3,
+      "preference_batch": 8
+    },
+    {
+      "algorithm": "dpo",
+      "id": "dpo_02",
+      "beta": 1.0,
+      "lr_factor": 0.3,
+      "preference_batch": 8
+    },
+    {
+      "algorithm": "dpo",
+      "id": "dpo_03",
+      "beta": 0.3,
+      "lr_factor": 1.0,
+      "preference_batch": 8
+    }
+  ],
+  "gp_seed": 11,
+  "policy_seeds": [
+    11,
+    29,
+    47
+  ],
+  "actor": "Same GP mean/SD actor architecture selected in the previous benchmark, held fixed within endpoint/fold.",
+  "warm_start": "One shared 1000-step supervised warm start per endpoint/fold/GP/seed; validation selects among checkpoints, including the GP-greedy initialization.",
+  "critic": "Same critic forward map for PPO and TRPO. Both detach actor features for critic loss, ensuring critic steps cannot invalidate a TRPO trust region. Historical PPO remains a separate reference.",
+  "trpo": "Natural-gradient actor update using conjugate-gradient KL Hessian-vector products, damping, and backtracking. Accepted steps require empirical average KL <= target and positive sufficient surrogate improvement.",
+  "dpo": "Offline trajectory preference adaptation: two frozen-warm rollouts at the same initial hit; prefer fewer purchases until optimum, discard ties. Sum log action probabilities without length normalization. Standard reference-relative logistic DPO loss.",
+  "dpo_behavior": "Frozen warm policy at temperature1.5 for preference diversity; DPO reference probabilities use its original temperature. Preferences never use validation or test outcomes.",
+  "budget": "60 screening or 400 final training iterations, with eight generated rollouts per iteration. DPO caches paired frozen-policy rollouts and executes two minibatch updates per iteration. State-transition counts, optimizer steps, and wall time quantify the respective compute budgets.",
+  "policy_selection": "Four HP configurations per algorithm/backbone, two finalists per endpoint/fold/arm, validation selects one, repeated at seeds29/47.",
+  "metrics": "Purchases to any top1/2/3/4. Primary minimum pool size15; include all pools >=3 and larger-cutoff curves.",
+  "inference": "Paired bootstrap over linked series groups, averaging starts/seeds first. Holm correction over seven primary optimizer/GP contrasts.",
+  "gp_auxiliary": "Separate GP training with independent random within-series pair likelihood, sampled with total series weight proportional to compound count. Predictor-role training data remain isolated from RL-role training data.",
+  "limitations": "Exploratory development-fold evaluation with fixed GP seed and inherited architecture. DPO is adapted to acquisition sequences.",
+  "references": [
+    "https://proceedings.mlr.press/v37/schulman15.html",
+    "https://arxiv.org/abs/2305.18290"
+  ]
+}

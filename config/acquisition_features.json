@@ -1,0 +1,102 @@
+{
+  "folds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "endpoints": [
+    "microsomal_clearance",
+    "in_vivo_clearance",
+    "protein_binding",
+    "cellular_clearance",
+    "permeability",
+    "efflux"
+  ],
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "predictor_seeds": [
+    11,
+    29,
+    47
+  ],
+  "predictor_updates": 4000,
+  "predictor_batch_size": 8,
+  "predictor_validate_every": 200,
+  "updates": 400,
+  "validate_every": 25,
+  "validation_draws": 2,
+  "validation_pool_limit": 40,
+  "test_draws": 4,
+  "width": 64,
+  "groups": 2,
+  "group_size": 4,
+  "preference_groups": 128,
+  "preference_batch": 8,
+  "title": "Acquisition feature comparison",
+  "output_directory": "acquisition_feature_comparison",
+  "predictor_method": "reference",
+  "trials": {
+    "ppo": [
+      {
+        "learning_rate": 0.0003,
+        "clip": 0.2,
+        "entropy": 0.01
+      }
+    ]
+  },
+  "arms": [
+    {
+      "name": "mean_sd",
+      "algorithm": "ppo",
+      "feature_set": "mean_sd",
+      "latent_dimension": 0
+    },
+    {
+      "name": "latent_2",
+      "algorithm": "ppo",
+      "feature_set": "mean_sd",
+      "latent_dimension": 2
+    },
+    {
+      "name": "latent_4",
+      "algorithm": "ppo",
+      "feature_set": "mean_sd",
+      "latent_dimension": 4
+    },
+    {
+      "name": "latent_8",
+      "algorithm": "ppo",
+      "feature_set": "mean_sd",
+      "latent_dimension": 8
+    },
+    {
+      "name": "latent_16",
+      "algorithm": "ppo",
+      "feature_set": "mean_sd",
+      "latent_dimension": 16
+    },
+    {
+      "name": "mean_sd_best",
+      "algorithm": "ppo",
+      "feature_set": "mean_sd_best",
+      "latent_dimension": 0
+    },
+    {
+      "name": "mean_sd_phi",
+      "algorithm": "ppo",
+      "feature_set": "mean_sd_phi",
+      "latent_dimension": 0
+    },
+    {
+      "name": "mean_sd_ei",
+      "algorithm": "ppo",
+      "feature_set": "mean_sd_ei",
+      "latent_dimension": 0
+    }
+  ]
+}

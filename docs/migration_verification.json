@@ -1,0 +1,188 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "reference",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "transfer",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "finetune",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": false
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "neural_mean_gp",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "alpaca",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "maml",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "anil",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "cnp",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "anp",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "tnp_d",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "dkt",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "adkf_ift",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "microsomal_clearance",
+      "method": "alpaca_no_offset",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "reference",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "transfer",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "finetune",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": false
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "neural_mean_gp",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "alpaca",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "maml",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "anil",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "cnp",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "anp",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "tnp_d",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "dkt",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "adkf_ift",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "alpaca_no_offset",
+      "initialization_exact": true,
+      "predictions_exact": true,
+      "loss_and_gradients_exact": true
+    }
+  ],
+  "scope": "Seeded initialization, singleton and four-observation inference, training loss and gradients. Fine-tune is inference adaptation only."
+}

@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "pools": 4625,
+  "large_pools": 580,
+  "large_groups": 334,
+  "starts": 18500,
+  "folds": 5,
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "K": 1,
+  "ppo_models": 360,
+  "selected_steps": [
+    100,
+    200,
+    400
+  ],
+  "total_final_fit_episodes": 1152000,
+  "total_final_fit_transitions": 5657831,
+  "checks": [
+    "complete matched pool coverage",
+    "identical four starting hits",
+    "three seeds for all PPO and matched initial policies",
+    "no duplicate outer test pools",
+    "nested top-k acquisition counts",
+    "frozen sources, references, and weights",
+    "all reported PPO checkpoints received trajectory-based PPO gradients",
+    "initial checkpoints excluded from PPO validation selection"
+  ]
+}

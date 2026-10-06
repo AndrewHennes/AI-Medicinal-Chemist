@@ -1,0 +1,16 @@
+{
+  "results/published/realized_modern_splits.csv": "7650d0d187f7446163e9514d91b2e7f1d7ad6e0dba8b16f59cbc2e4d92dcdae7",
+  "results/published/offset/learned_noise.csv": "c6682ef198141563aca73b4407a7c012391f2da0325341bfbebfb526e13ea036",
+  "results/published/offset/paired_differences.csv": "84f43898f3278c7bef9e7d5a0e60bbe432dd0e5bf980bcdf1661cd08e2d6db0c",
+  "results/published/offset/prediction_summary.csv": "306946b31aa12ef581b8fdf204065eeeb8e19b474acd4b67591cf064505c9209",
+  "results/published/offset/all_assays_acquisition.csv": "387202032d31a84e03e7f7b1b5050c8114d7de26b816ef5832c7e414f34fafc2",
+  "results/published/offset/acquisition_summary.csv": "a807aff0667257feb36c3702ce17f5a82640de0600d9adeadc7ab9e76317999c",
+  "results/published/offset/all_assays_prediction.csv": "c539c5f834a70da93e9deaade6c8c041a81cdb5ff8f21e79c06fc1eacb10ee29",
+  "results/published/main/coverage.csv": "27232e26beffa8b04a11ad3e2b1d206e32429e0bd8bc7f83db18eaa85a82715d",
+  "results/published/main/overall_summary.csv": "4043a0d95752bd0836d4e9dca74810d5f605cc9052602adf1d339d510575b2a3",
+  "results/published/main/all_assays_prediction_curves.csv": "ea65052689610b436922e4e658981851337f970fb65f51a12a065c7c917ab888",
+  "results/published/main/prediction_summary.csv": "f8bccdd9dd483c3cfed590b3cae5a5452f161dea189522e2bc77ed924d8c7332",
+  "results/published/main/all_assays_acquisition_curves.csv": "605c70e5d1d1efd7eda15db1f3c74371eb65cf3f7184321091739bea321761ab",
+  "results/published/main/acquisition_summary.csv": "34c45f1bdf447254ae82f64f06210e1074f57dbe20af3feb4fb41c5a87ff49fe",
+  "results/published/main/paired_acquisition_intervals.csv": "d66979d4c9198397088bede0bad3ace1da455fabdee9c596bb355c098ffae083"
+}

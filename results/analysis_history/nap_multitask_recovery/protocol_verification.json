@@ -1,0 +1,7 @@
+{
+  "checkpoint_hashes_verified": 81,
+  "training_code_unchanged_since_lock": true,
+  "trajectories_verified": 120904,
+  "global_split_groups_disjoint": true,
+  "primary_success": false
+}

@@ -1,0 +1,17 @@
+{
+  "final_checkpoints": 630,
+  "outer_folds": 5,
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "test_pools": 4625,
+  "large_test_pools": 580,
+  "test_draws_per_pool": 10,
+  "all_methods_use_identical_hidden_queries": true,
+  "primary_means_identical": true,
+  "source_and_checkpoint_hashes_unchanged": true,
+  "last_step_fraction": 0.015873015873015872,
+  "last_400_steps_fraction": 0.0380952380952381
+}

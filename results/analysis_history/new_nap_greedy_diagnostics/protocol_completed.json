@@ -1,0 +1,19 @@
+{
+  "complete": true,
+  "pools": 4625,
+  "large_pools": 580,
+  "episodes": 55500,
+  "replayed_decisions": 148476,
+  "folds": 5,
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "checkpoints_unchanged": true,
+  "all_scores_reconstructed": true,
+  "replayed_actions_match": true,
+  "full_case_bank_choices_verified": 1157280,
+  "continuation_checks": 90,
+  "examples": 506
+}

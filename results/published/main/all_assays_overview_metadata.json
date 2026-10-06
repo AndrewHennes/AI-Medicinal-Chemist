@@ -1,0 +1,48 @@
+{
+  "assays": [
+    "microsomal_clearance",
+    "in_vivo_clearance",
+    "protein_binding",
+    "cellular_clearance",
+    "permeability",
+    "efflux"
+  ],
+  "methods": [
+    "reference",
+    "transfer",
+    "finetune",
+    "neural_mean_gp",
+    "alpaca",
+    "anil",
+    "cnp",
+    "anp",
+    "tnp_d",
+    "dkt",
+    "adkf_ift"
+  ],
+  "weighting": "Arithmetic mean of the six assay-level metrics; each assay contributes 1/6",
+  "prediction_pool_cutoff": 15,
+  "prediction_contexts": [
+    1,
+    2,
+    3,
+    5,
+    10
+  ],
+  "acquisition_cutoffs": [
+    3,
+    15,
+    20,
+    25,
+    30
+  ],
+  "excluded": {
+    "maml": "Incomplete five-fold coverage for three assays"
+  },
+  "undefined_spearman": "Single-observation constant means from DKT and ADKF-IFT have undefined Spearman correlation.",
+  "sources": {
+    "prediction_summary.csv": "f8bccdd9dd483c3cfed590b3cae5a5452f161dea189522e2bc77ed924d8c7332",
+    "acquisition_summary.csv": "34c45f1bdf447254ae82f64f06210e1074f57dbe20af3feb4fb41c5a87ff49fe",
+    "coverage.json": "f50e5f60a47cbf15e2d632416e639a8eee5f3df00c6219c44c0f554b45461b6b"
+  }
+}

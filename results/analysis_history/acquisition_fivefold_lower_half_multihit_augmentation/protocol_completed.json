@@ -1,0 +1,17 @@
+{
+  "complete": true,
+  "folds": 5,
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "endpoints": [
+    "in_vivo_clearance",
+    "protein_binding",
+    "cellular_clearance",
+    "permeability",
+    "efflux",
+    "microsomal_clearance"
+  ]
+}

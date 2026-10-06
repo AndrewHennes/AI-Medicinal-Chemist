@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "folds": 5,
+  "endpoints": 6,
+  "test_pools": 4625,
+  "linked_groups": 2011,
+  "large_pools": 580,
+  "large_groups": 334,
+  "starts": 18500,
+  "new_trajectories": 37000,
+  "checks": [
+    "Input/checkpoint/source/validation hashes unchanged",
+    "Linked-group disjoint train/validation/test",
+    "Matched fixed hidden queries and historical starts",
+    "All trajectory counts independently recomputed",
+    "Correct optimum stopping, ties, no repeated purchases, nested top-k counts",
+    "Exact kernel conditional variance and monotonicity tests",
+    "Student variance/scale conversion",
+    "Mean transfer equivalence, finite gradients, order invariance, padding and hidden-label isolation"
+  ]
+}

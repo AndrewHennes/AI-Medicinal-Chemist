@@ -1,0 +1,13 @@
+{
+  "folds": 5,
+  "endpoints": 6,
+  "seeds": 3,
+  "conditions": 30,
+  "fresh_members": 90,
+  "matched_queries_and_starts": true,
+  "matched_training_provenance": true,
+  "paired_bootstrap_replicates": 4000,
+  "reporting_source_sha256": "81e868c46b22c63ef2274fc44b09fe8247b89657939c1d9fd80db34291109a6b",
+  "prediction_cases_per_method": 42819,
+  "acquisition_cases_per_method": 18500
+}

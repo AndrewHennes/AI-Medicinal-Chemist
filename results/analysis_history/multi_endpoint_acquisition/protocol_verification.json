@@ -1,0 +1,57 @@
+[
+  {
+    "endpoint": "in_vivo_clearance",
+    "test_pools": 101,
+    "trajectory_records": 2424,
+    "source_unchanged": true,
+    "full_training_budgets_completed": true,
+    "same_test_cases_for_all_methods": true,
+    "all_scored_trajectories_valid": true,
+    "random_expectations_verified": true,
+    "frozen_cache_matches_checkpoint": true
+  },
+  {
+    "endpoint": "protein_binding",
+    "test_pools": 169,
+    "trajectory_records": 4056,
+    "source_unchanged": true,
+    "full_training_budgets_completed": true,
+    "same_test_cases_for_all_methods": true,
+    "all_scored_trajectories_valid": true,
+    "random_expectations_verified": true,
+    "frozen_cache_matches_checkpoint": true
+  },
+  {
+    "endpoint": "cellular_clearance",
+    "test_pools": 92,
+    "trajectory_records": 2208,
+    "source_unchanged": true,
+    "full_training_budgets_completed": true,
+    "same_test_cases_for_all_methods": true,
+    "all_scored_trajectories_valid": true,
+    "random_expectations_verified": true,
+    "frozen_cache_matches_checkpoint": true
+  },
+  {
+    "endpoint": "permeability",
+    "test_pools": 100,
+    "trajectory_records": 2400,
+    "source_unchanged": true,
+    "full_training_budgets_completed": true,
+    "same_test_cases_for_all_methods": true,
+    "all_scored_trajectories_valid": true,
+    "random_expectations_verified": true,
+    "frozen_cache_matches_checkpoint": true
+  },
+  {
+    "endpoint": "efflux",
+    "test_pools": 64,
+    "trajectory_records": 1536,
+    "source_unchanged": true,
+    "full_training_budgets_completed": true,
+    "same_test_cases_for_all_methods": true,
+    "all_scored_trajectories_valid": true,
+    "random_expectations_verified": true,
+    "frozen_cache_matches_checkpoint": true
+  }
+]

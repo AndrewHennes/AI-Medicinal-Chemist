@@ -1,0 +1,1513 @@
+endpoint,axis,pool_size,k,method,population,purchases,pools,groups,endpoints,min_endpoint_groups,full_endpoint_coverage
+microsomal_clearance,minimum_size,3,1,Cross-fitted single-task NAP,all_starts,2.5980660463419087,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,Original NAP + top-k auxiliary tasks,all_starts,2.7551541689472727,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,Random,all_starts,3.525929535252195,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,Revised NAP + top-k auxiliary tasks,all_starts,2.6021711366538955,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,single_task_Delta greedy,all_starts,2.7193486590038316,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,single_task_GP + EI,all_starts,2.6981390257252325,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,single_task_NAP,all_starts,2.753375296478745,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,Cross-fitted single-task NAP,all_starts,1.8462415617588033,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,Original NAP + top-k auxiliary tasks,all_starts,1.9115124977193945,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,Random,all_starts,2.4799707686037737,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,Revised NAP + top-k auxiliary tasks,all_starts,1.8515781791643864,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,single_task_Delta greedy,all_starts,1.8950465243568693,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,single_task_GP + EI,all_starts,1.920224411603722,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,single_task_NAP,all_starts,1.9104634190841083,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,Cross-fitted single-task NAP,all_starts,1.171820835613939,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,Original NAP + top-k auxiliary tasks,all_starts,1.2141032658274036,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,Random,all_starts,1.6440577246447527,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,Revised NAP + top-k auxiliary tasks,all_starts,1.1751961320926838,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,single_task_Delta greedy,all_starts,1.2163382594417078,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,single_task_GP + EI,all_starts,1.234263820470717,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,single_task_NAP,all_starts,1.2129173508483853,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,Cross-fitted single-task NAP,all_starts,0.8739281153074256,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,Original NAP + top-k auxiliary tasks,all_starts,0.8964148877941981,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,Random,all_starts,1.23264022710246,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,Revised NAP + top-k auxiliary tasks,all_starts,0.8775314723590586,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,single_task_Delta greedy,all_starts,0.8820470717022442,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,single_task_GP + EI,all_starts,0.921455938697318,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,single_task_NAP,all_starts,0.9018427294289364,1827,897,1,897,True
+in_vivo_clearance,minimum_size,3,1,Cross-fitted single-task NAP,all_starts,2.5926443202979517,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,1,Original NAP + top-k auxiliary tasks,all_starts,2.542054624456859,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,1,Random,all_starts,2.7454996896337676,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,1,Revised NAP + top-k auxiliary tasks,all_starts,2.594972067039106,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,1,single_task_Delta greedy,all_starts,2.6145251396648046,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,1,single_task_GP + EI,all_starts,2.626163873370577,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,1,single_task_NAP,all_starts,2.5434512725015517,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,2,Cross-fitted single-task NAP,all_starts,1.653941651148355,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,2,Original NAP + top-k auxiliary tasks,all_starts,1.7358783364369956,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,2,Random,all_starts,1.809124767225326,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,2,Revised NAP + top-k auxiliary tasks,all_starts,1.6564245810055866,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,2,single_task_Delta greedy,all_starts,1.734171322160149,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,2,single_task_GP + EI,all_starts,1.7420856610800746,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,2,single_task_NAP,all_starts,1.7385164494103045,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,3,Cross-fitted single-task NAP,all_starts,0.8876474239602732,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,3,Original NAP + top-k auxiliary tasks,all_starts,0.9557728119180632,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,3,Random,all_starts,0.9858472998137802,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,3,Revised NAP + top-k auxiliary tasks,all_starts,0.8896648044692738,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,3,single_task_Delta greedy,all_starts,0.9134078212290504,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,3,single_task_GP + EI,all_starts,0.9511173184357542,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,3,single_task_NAP,all_starts,0.9514276846679082,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,4,Cross-fitted single-task NAP,all_starts,0.537243947858473,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,4,Original NAP + top-k auxiliary tasks,all_starts,0.5986964618249534,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,4,Random,all_starts,0.6104127870887648,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,4,Revised NAP + top-k auxiliary tasks,all_starts,0.5386405959031657,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,4,single_task_Delta greedy,all_starts,0.5488826815642458,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,4,single_task_GP + EI,all_starts,0.5977653631284916,537,399,1,399,True
+in_vivo_clearance,minimum_size,3,4,single_task_NAP,all_starts,0.5923339540657976,537,399,1,399,True
+protein_binding,minimum_size,3,1,Cross-fitted single-task NAP,all_starts,2.2600378787878785,880,355,1,355,True
+protein_binding,minimum_size,3,1,Original NAP + top-k auxiliary tasks,all_starts,2.3074810606060607,880,355,1,355,True
+protein_binding,minimum_size,3,1,Random,all_starts,2.980804924242424,880,355,1,355,True
+protein_binding,minimum_size,3,1,Revised NAP + top-k auxiliary tasks,all_starts,2.262784090909091,880,355,1,355,True
+protein_binding,minimum_size,3,1,single_task_Delta greedy,all_starts,2.2019886363636365,880,355,1,355,True
+protein_binding,minimum_size,3,1,single_task_GP + EI,all_starts,2.431534090909091,880,355,1,355,True
+protein_binding,minimum_size,3,1,single_task_NAP,all_starts,2.289772727272727,880,355,1,355,True
+protein_binding,minimum_size,3,2,Cross-fitted single-task NAP,all_starts,1.477840909090909,880,355,1,355,True
+protein_binding,minimum_size,3,2,Original NAP + top-k auxiliary tasks,all_starts,1.5296401515151514,880,355,1,355,True
+protein_binding,minimum_size,3,2,Random,all_starts,1.9203314393939397,880,355,1,355,True
+protein_binding,minimum_size,3,2,Revised NAP + top-k auxiliary tasks,all_starts,1.478503787878788,880,355,1,355,True
+protein_binding,minimum_size,3,2,single_task_Delta greedy,all_starts,1.428409090909091,880,355,1,355,True
+protein_binding,minimum_size,3,2,single_task_GP + EI,all_starts,1.6613636363636364,880,355,1,355,True
+protein_binding,minimum_size,3,2,single_task_NAP,all_starts,1.521496212121212,880,355,1,355,True
+protein_binding,minimum_size,3,3,Cross-fitted single-task NAP,all_starts,0.8133522727272727,880,355,1,355,True
+protein_binding,minimum_size,3,3,Original NAP + top-k auxiliary tasks,all_starts,0.8382575757575758,880,355,1,355,True
+protein_binding,minimum_size,3,3,Random,all_starts,1.090094696969697,880,355,1,355,True
+protein_binding,minimum_size,3,3,Revised NAP + top-k auxiliary tasks,all_starts,0.8136363636363636,880,355,1,355,True
+protein_binding,minimum_size,3,3,single_task_Delta greedy,all_starts,0.7622159090909091,880,355,1,355,True
+protein_binding,minimum_size,3,3,single_task_GP + EI,all_starts,0.9392045454545456,880,355,1,355,True
+protein_binding,minimum_size,3,3,single_task_NAP,all_starts,0.8446022727272727,880,355,1,355,True
+protein_binding,minimum_size,3,4,Cross-fitted single-task NAP,all_starts,0.5102272727272728,880,355,1,355,True
+protein_binding,minimum_size,3,4,Original NAP + top-k auxiliary tasks,all_starts,0.5495265151515152,880,355,1,355,True
+protein_binding,minimum_size,3,4,Random,all_starts,0.7140560741341991,880,355,1,355,True
+protein_binding,minimum_size,3,4,Revised NAP + top-k auxiliary tasks,all_starts,0.5107007575757576,880,355,1,355,True
+protein_binding,minimum_size,3,4,single_task_Delta greedy,all_starts,0.4667613636363636,880,355,1,355,True
+protein_binding,minimum_size,3,4,single_task_GP + EI,all_starts,0.6164772727272727,880,355,1,355,True
+protein_binding,minimum_size,3,4,single_task_NAP,all_starts,0.5644886363636363,880,355,1,355,True
+cellular_clearance,minimum_size,3,1,Cross-fitted single-task NAP,all_starts,2.778466921119593,524,222,1,222,True
+cellular_clearance,minimum_size,3,1,Original NAP + top-k auxiliary tasks,all_starts,3.07029262086514,524,222,1,222,True
+cellular_clearance,minimum_size,3,1,Random,all_starts,3.5760072240630447,524,222,1,222,True
+cellular_clearance,minimum_size,3,1,Revised NAP + top-k auxiliary tasks,all_starts,2.7665394402035624,524,222,1,222,True
+cellular_clearance,minimum_size,3,1,single_task_Delta greedy,all_starts,2.895038167938931,524,222,1,222,True
+cellular_clearance,minimum_size,3,1,single_task_GP + EI,all_starts,2.950381679389313,524,222,1,222,True
+cellular_clearance,minimum_size,3,1,single_task_NAP,all_starts,3.0306933842239183,524,222,1,222,True
+cellular_clearance,minimum_size,3,2,Cross-fitted single-task NAP,all_starts,1.8689567430025449,524,222,1,222,True
+cellular_clearance,minimum_size,3,2,Original NAP + top-k auxiliary tasks,all_starts,2.151240458015267,524,222,1,222,True
+cellular_clearance,minimum_size,3,2,Random,all_starts,2.4829410663022307,524,222,1,222,True
+cellular_clearance,minimum_size,3,2,Revised NAP + top-k auxiliary tasks,all_starts,1.862595419847328,524,222,1,222,True
+cellular_clearance,minimum_size,3,2,single_task_Delta greedy,all_starts,2.0419847328244276,524,222,1,222,True
+cellular_clearance,minimum_size,3,2,single_task_GP + EI,all_starts,1.9923664122137408,524,222,1,222,True
+cellular_clearance,minimum_size,3,2,single_task_NAP,all_starts,2.123409669211196,524,222,1,222,True
+cellular_clearance,minimum_size,3,3,Cross-fitted single-task NAP,all_starts,1.2495229007633588,524,222,1,222,True
+cellular_clearance,minimum_size,3,3,Original NAP + top-k auxiliary tasks,all_starts,1.4287531806615776,524,222,1,222,True
+cellular_clearance,minimum_size,3,3,Random,all_starts,1.6470632037068107,524,222,1,222,True
+cellular_clearance,minimum_size,3,3,Revised NAP + top-k auxiliary tasks,all_starts,1.251590330788804,524,222,1,222,True
+cellular_clearance,minimum_size,3,3,single_task_Delta greedy,all_starts,1.2514312977099236,524,222,1,222,True
+cellular_clearance,minimum_size,3,3,single_task_GP + EI,all_starts,1.3511450381679388,524,222,1,222,True
+cellular_clearance,minimum_size,3,3,single_task_NAP,all_starts,1.4058524173027989,524,222,1,222,True
+cellular_clearance,minimum_size,3,4,Cross-fitted single-task NAP,all_starts,0.9497455470737912,524,222,1,222,True
+cellular_clearance,minimum_size,3,4,Original NAP + top-k auxiliary tasks,all_starts,1.068702290076336,524,222,1,222,True
+cellular_clearance,minimum_size,3,4,Random,all_starts,1.2210363043974684,524,222,1,222,True
+cellular_clearance,minimum_size,3,4,Revised NAP + top-k auxiliary tasks,all_starts,0.9478371501272264,524,222,1,222,True
+cellular_clearance,minimum_size,3,4,single_task_Delta greedy,all_starts,0.916030534351145,524,222,1,222,True
+cellular_clearance,minimum_size,3,4,single_task_GP + EI,all_starts,1.0481870229007633,524,222,1,222,True
+cellular_clearance,minimum_size,3,4,single_task_NAP,all_starts,1.059001272264631,524,222,1,222,True
+permeability,minimum_size,3,1,Cross-fitted single-task NAP,all_starts,3.325419896640827,516,376,1,376,True
+permeability,minimum_size,3,1,Original NAP + top-k auxiliary tasks,all_starts,3.510981912144703,516,376,1,376,True
+permeability,minimum_size,3,1,Random,all_starts,4.265503875968992,516,376,1,376,True
+permeability,minimum_size,3,1,Revised NAP + top-k auxiliary tasks,all_starts,3.314922480620155,516,376,1,376,True
+permeability,minimum_size,3,1,single_task_Delta greedy,all_starts,3.494186046511628,516,376,1,376,True
+permeability,minimum_size,3,1,single_task_GP + EI,all_starts,3.3536821705426356,516,376,1,376,True
+permeability,minimum_size,3,1,single_task_NAP,all_starts,3.561369509043928,516,376,1,376,True
+permeability,minimum_size,3,2,Cross-fitted single-task NAP,all_starts,2.1361434108527133,516,376,1,376,True
+permeability,minimum_size,3,2,Original NAP + top-k auxiliary tasks,all_starts,2.311692506459948,516,376,1,376,True
+permeability,minimum_size,3,2,Random,all_starts,2.8035206718346255,516,376,1,376,True
+permeability,minimum_size,3,2,Revised NAP + top-k auxiliary tasks,all_starts,2.1333979328165373,516,376,1,376,True
+permeability,minimum_size,3,2,single_task_Delta greedy,all_starts,2.321220930232558,516,376,1,376,True
+permeability,minimum_size,3,2,single_task_GP + EI,all_starts,2.321220930232558,516,376,1,376,True
+permeability,minimum_size,3,2,single_task_NAP,all_starts,2.3963178294573644,516,376,1,376,True
+permeability,minimum_size,3,3,Cross-fitted single-task NAP,all_starts,1.378391472868217,516,376,1,376,True
+permeability,minimum_size,3,3,Original NAP + top-k auxiliary tasks,all_starts,1.525032299741602,516,376,1,376,True
+permeability,minimum_size,3,3,Random,all_starts,1.8529715762273904,516,376,1,376,True
+permeability,minimum_size,3,3,Revised NAP + top-k auxiliary tasks,all_starts,1.380167958656331,516,376,1,376,True
+permeability,minimum_size,3,3,single_task_Delta greedy,all_starts,1.559108527131783,516,376,1,376,True
+permeability,minimum_size,3,3,single_task_GP + EI,all_starts,1.5125968992248062,516,376,1,376,True
+permeability,minimum_size,3,3,single_task_NAP,all_starts,1.5843023255813953,516,376,1,376,True
+permeability,minimum_size,3,4,Cross-fitted single-task NAP,all_starts,0.9746447028423773,516,376,1,376,True
+permeability,minimum_size,3,4,Original NAP + top-k auxiliary tasks,all_starts,1.092377260981912,516,376,1,376,True
+permeability,minimum_size,3,4,Random,all_starts,1.3334117755629382,516,376,1,376,True
+permeability,minimum_size,3,4,Revised NAP + top-k auxiliary tasks,all_starts,0.9754521963824287,516,376,1,376,True
+permeability,minimum_size,3,4,single_task_Delta greedy,all_starts,1.1477713178294573,516,376,1,376,True
+permeability,minimum_size,3,4,single_task_GP + EI,all_starts,1.0750968992248062,516,376,1,376,True
+permeability,minimum_size,3,4,single_task_NAP,all_starts,1.1241925064599485,516,376,1,376,True
+efflux,minimum_size,3,1,Cross-fitted single-task NAP,all_starts,3.1478494623655915,341,251,1,251,True
+efflux,minimum_size,3,1,Original NAP + top-k auxiliary tasks,all_starts,3.5361681329423265,341,251,1,251,True
+efflux,minimum_size,3,1,Random,all_starts,4.125122189638319,341,251,1,251,True
+efflux,minimum_size,3,1,Revised NAP + top-k auxiliary tasks,all_starts,3.1336754643206253,341,251,1,251,True
+efflux,minimum_size,3,1,single_task_Delta greedy,all_starts,3.146627565982405,341,251,1,251,True
+efflux,minimum_size,3,1,single_task_GP + EI,all_starts,3.2719941348973607,341,251,1,251,True
+efflux,minimum_size,3,1,single_task_NAP,all_starts,3.5625610948191593,341,251,1,251,True
+efflux,minimum_size,3,2,Cross-fitted single-task NAP,all_starts,2.1632453567937437,341,251,1,251,True
+efflux,minimum_size,3,2,Original NAP + top-k auxiliary tasks,all_starts,2.3980938416422286,341,251,1,251,True
+efflux,minimum_size,3,2,Random,all_starts,2.7075967043708977,341,251,1,251,True
+efflux,minimum_size,3,2,Revised NAP + top-k auxiliary tasks,all_starts,2.167155425219941,341,251,1,251,True
+efflux,minimum_size,3,2,single_task_Delta greedy,all_starts,2.269794721407625,341,251,1,251,True
+efflux,minimum_size,3,2,single_task_GP + EI,all_starts,2.186217008797654,341,251,1,251,True
+efflux,minimum_size,3,2,single_task_NAP,all_starts,2.4254643206256112,341,251,1,251,True
+efflux,minimum_size,3,3,Cross-fitted single-task NAP,all_starts,1.417644183773216,341,251,1,251,True
+efflux,minimum_size,3,3,Original NAP + top-k auxiliary tasks,all_starts,1.640518084066471,341,251,1,251,True
+efflux,minimum_size,3,3,Random,all_starts,1.8601574500768048,341,251,1,251,True
+efflux,minimum_size,3,3,Revised NAP + top-k auxiliary tasks,all_starts,1.4230205278592376,341,251,1,251,True
+efflux,minimum_size,3,3,single_task_Delta greedy,all_starts,1.5894428152492668,341,251,1,251,True
+efflux,minimum_size,3,3,single_task_GP + EI,all_starts,1.478005865102639,341,251,1,251,True
+efflux,minimum_size,3,3,single_task_NAP,all_starts,1.6634897360703813,341,251,1,251,True
+efflux,minimum_size,3,4,Cross-fitted single-task NAP,all_starts,1.0376344086021505,341,251,1,251,True
+efflux,minimum_size,3,4,Original NAP + top-k auxiliary tasks,all_starts,1.1893939393939394,341,251,1,251,True
+efflux,minimum_size,3,4,Random,all_starts,1.3556224689289205,341,251,1,251,True
+efflux,minimum_size,3,4,Revised NAP + top-k auxiliary tasks,all_starts,1.033724340175953,341,251,1,251,True
+efflux,minimum_size,3,4,single_task_Delta greedy,all_starts,1.1041055718475072,341,251,1,251,True
+efflux,minimum_size,3,4,single_task_GP + EI,all_starts,1.1114369501466277,341,251,1,251,True
+efflux,minimum_size,3,4,single_task_NAP,all_starts,1.2165200391006843,341,251,1,251,True
+microsomal_clearance,minimum_size,5,1,Cross-fitted single-task NAP,all_starts,3.58571898650872,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,Original NAP + top-k auxiliary tasks,all_starts,3.826505429417572,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,Random,all_starts,5.088390846567056,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,Revised NAP + top-k auxiliary tasks,all_starts,3.5933695294504773,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,single_task_Delta greedy,all_starts,3.76431391905232,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,single_task_GP + EI,all_starts,3.748519249753208,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,single_task_NAP,all_starts,3.821651859164199,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,Cross-fitted single-task NAP,all_starts,2.4923494570582427,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,Original NAP + top-k auxiliary tasks,all_starts,2.602829878249424,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,Random,all_starts,3.603148990693413,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,Revised NAP + top-k auxiliary tasks,all_starts,2.502467917077986,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,single_task_Delta greedy,all_starts,2.575765054294176,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,single_task_GP + EI,all_starts,2.624383020730503,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,single_task_NAP,all_starts,2.597564988483054,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,Cross-fitted single-task NAP,all_starts,1.9846166502138864,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,Original NAP + top-k auxiliary tasks,all_starts,2.060875287923659,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,Random,all_starts,2.8363212862052944,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,Revised NAP + top-k auxiliary tasks,all_starts,1.990704179006252,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,single_task_Delta greedy,all_starts,2.064906219151037,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,single_task_GP + EI,all_starts,2.0972359328726555,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,single_task_NAP,all_starts,2.058736426456071,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,Cross-fitted single-task NAP,all_starts,1.5761763738071737,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,Original NAP + top-k auxiliary tasks,all_starts,1.6167324777887464,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,Random,all_starts,2.223132966353598,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,Revised NAP + top-k auxiliary tasks,all_starts,1.582675222112537,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,single_task_Delta greedy,all_starts,1.5908193484698914,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,single_task_GP + EI,all_starts,1.6618953603158937,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,single_task_NAP,all_starts,1.6265218821980916,1013,531,1,531,True
+in_vivo_clearance,minimum_size,5,1,Cross-fitted single-task NAP,all_starts,3.874818049490538,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,1,Original NAP + top-k auxiliary tasks,all_starts,3.76528384279476,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,1,Random,all_starts,4.164483260553129,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,1,Revised NAP + top-k auxiliary tasks,all_starts,3.879912663755458,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,1,single_task_Delta greedy,all_starts,3.9748908296943233,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,1,single_task_GP + EI,all_starts,3.923580786026201,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,1,single_task_NAP,all_starts,3.756186317321689,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,2,Cross-fitted single-task NAP,all_starts,2.427947598253275,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,2,Original NAP + top-k auxiliary tasks,all_starts,2.601528384279476,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,2,Random,all_starts,2.749636098981077,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,2,Revised NAP + top-k auxiliary tasks,all_starts,2.433042212518195,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,2,single_task_Delta greedy,all_starts,2.5906113537117905,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,2,single_task_GP + EI,all_starts,2.6157205240174672,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,2,single_task_NAP,all_starts,2.5949781659388647,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,3,Cross-fitted single-task NAP,all_starts,1.8304221251819504,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,3,Original NAP + top-k auxiliary tasks,all_starts,1.990174672489083,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,3,Random,all_starts,2.060698689956332,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,3,Revised NAP + top-k auxiliary tasks,all_starts,1.8351528384279476,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,3,single_task_Delta greedy,all_starts,1.890829694323144,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,3,single_task_GP + EI,all_starts,1.9792576419213976,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,3,single_task_NAP,all_starts,1.9799854439592433,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,4,Cross-fitted single-task NAP,all_starts,1.259825327510917,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,4,Original NAP + top-k auxiliary tasks,all_starts,1.4039301310043668,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,4,Random,all_starts,1.4314046579330424,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,4,Revised NAP + top-k auxiliary tasks,all_starts,1.2631004366812226,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,4,single_task_Delta greedy,all_starts,1.287117903930131,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,4,single_task_GP + EI,all_starts,1.4017467248908295,229,179,1,179,True
+in_vivo_clearance,minimum_size,5,4,single_task_NAP,all_starts,1.3890101892285298,229,179,1,179,True
+protein_binding,minimum_size,5,1,Cross-fitted single-task NAP,all_starts,3.1093623890234063,413,183,1,183,True
+protein_binding,minimum_size,5,1,Original NAP + top-k auxiliary tasks,all_starts,3.2086359967715903,413,183,1,183,True
+protein_binding,minimum_size,5,1,Random,all_starts,4.467978208232446,413,183,1,183,True
+protein_binding,minimum_size,5,1,Revised NAP + top-k auxiliary tasks,all_starts,3.1133979015334945,413,183,1,183,True
+protein_binding,minimum_size,5,1,single_task_Delta greedy,all_starts,3.017554479418886,413,183,1,183,True
+protein_binding,minimum_size,5,1,single_task_GP + EI,all_starts,3.398910411622276,413,183,1,183,True
+protein_binding,minimum_size,5,1,single_task_NAP,all_starts,3.187853107344633,413,183,1,183,True
+protein_binding,minimum_size,5,2,Cross-fitted single-task NAP,all_starts,2.0102905569007263,413,183,1,183,True
+protein_binding,minimum_size,5,2,Original NAP + top-k auxiliary tasks,all_starts,2.111783696529459,413,183,1,183,True
+protein_binding,minimum_size,5,2,Random,all_starts,2.904297820823244,413,183,1,183,True
+protein_binding,minimum_size,5,2,Revised NAP + top-k auxiliary tasks,all_starts,2.0121065375302662,413,183,1,183,True
+protein_binding,minimum_size,5,2,single_task_Delta greedy,all_starts,1.906174334140436,413,183,1,183,True
+protein_binding,minimum_size,5,2,single_task_GP + EI,all_starts,2.378329297820823,413,183,1,183,True
+protein_binding,minimum_size,5,2,single_task_NAP,all_starts,2.0996771589991927,413,183,1,183,True
+protein_binding,minimum_size,5,3,Cross-fitted single-task NAP,all_starts,1.5659806295399517,413,183,1,183,True
+protein_binding,minimum_size,5,3,Original NAP + top-k auxiliary tasks,all_starts,1.6190476190476188,413,183,1,183,True
+protein_binding,minimum_size,5,3,Random,all_starts,2.155649717514124,413,183,1,183,True
+protein_binding,minimum_size,5,3,Revised NAP + top-k auxiliary tasks,all_starts,1.5665859564164648,413,183,1,183,True
+protein_binding,minimum_size,5,3,single_task_Delta greedy,all_starts,1.4570217917675543,413,183,1,183,True
+protein_binding,minimum_size,5,3,single_task_GP + EI,all_starts,1.834140435835351,413,183,1,183,True
+protein_binding,minimum_size,5,3,single_task_NAP,all_starts,1.6325665859564165,413,183,1,183,True
+protein_binding,minimum_size,5,4,Cross-fitted single-task NAP,all_starts,1.0871670702179177,413,183,1,183,True
+protein_binding,minimum_size,5,4,Original NAP + top-k auxiliary tasks,all_starts,1.17090395480226,413,183,1,183,True
+protein_binding,minimum_size,5,4,Random,all_starts,1.5214754121987777,413,183,1,183,True
+protein_binding,minimum_size,5,4,Revised NAP + top-k auxiliary tasks,all_starts,1.0881759483454398,413,183,1,183,True
+protein_binding,minimum_size,5,4,single_task_Delta greedy,all_starts,0.99455205811138,413,183,1,183,True
+protein_binding,minimum_size,5,4,single_task_GP + EI,all_starts,1.3135593220338984,413,183,1,183,True
+protein_binding,minimum_size,5,4,single_task_NAP,all_starts,1.202784503631961,413,183,1,183,True
+cellular_clearance,minimum_size,5,1,Cross-fitted single-task NAP,all_starts,3.705685618729097,299,155,1,155,True
+cellular_clearance,minimum_size,5,1,Original NAP + top-k auxiliary tasks,all_starts,4.199554069119287,299,155,1,155,True
+cellular_clearance,minimum_size,5,1,Random,all_starts,5.048197721546384,299,155,1,155,True
+cellular_clearance,minimum_size,5,1,Revised NAP + top-k auxiliary tasks,all_starts,3.6839464882943145,299,155,1,155,True
+cellular_clearance,minimum_size,5,1,single_task_Delta greedy,all_starts,3.939799331103679,299,155,1,155,True
+cellular_clearance,minimum_size,5,1,single_task_GP + EI,all_starts,3.9816053511705687,299,155,1,155,True
+cellular_clearance,minimum_size,5,1,single_task_NAP,all_starts,4.139632107023411,299,155,1,155,True
+cellular_clearance,minimum_size,5,2,Cross-fitted single-task NAP,all_starts,2.480769230769231,299,155,1,155,True
+cellular_clearance,minimum_size,5,2,Original NAP + top-k auxiliary tasks,all_starts,2.948439241917503,299,155,1,155,True
+cellular_clearance,minimum_size,5,2,Random,all_starts,3.531140865359093,299,155,1,155,True
+cellular_clearance,minimum_size,5,2,Revised NAP + top-k auxiliary tasks,all_starts,2.4679487179487176,299,155,1,155,True
+cellular_clearance,minimum_size,5,2,single_task_Delta greedy,all_starts,2.7750836120401337,299,155,1,155,True
+cellular_clearance,minimum_size,5,2,single_task_GP + EI,all_starts,2.68561872909699,299,155,1,155,True
+cellular_clearance,minimum_size,5,2,single_task_NAP,all_starts,2.9032887402452623,299,155,1,155,True
+cellular_clearance,minimum_size,5,3,Cross-fitted single-task NAP,all_starts,2.0660535117056855,299,155,1,155,True
+cellular_clearance,minimum_size,5,3,Original NAP + top-k auxiliary tasks,all_starts,2.3801560758082494,299,155,1,155,True
+cellular_clearance,minimum_size,5,3,Random,all_starts,2.7627462165296612,299,155,1,155,True
+cellular_clearance,minimum_size,5,3,Revised NAP + top-k auxiliary tasks,all_starts,2.069676700111483,299,155,1,155,True
+cellular_clearance,minimum_size,5,3,single_task_Delta greedy,all_starts,2.069397993311037,299,155,1,155,True
+cellular_clearance,minimum_size,5,3,single_task_GP + EI,all_starts,2.2441471571906355,299,155,1,155,True
+cellular_clearance,minimum_size,5,3,single_task_NAP,all_starts,2.3400222965440354,299,155,1,155,True
+cellular_clearance,minimum_size,5,4,Cross-fitted single-task NAP,all_starts,1.6644370122630994,299,155,1,155,True
+cellular_clearance,minimum_size,5,4,Original NAP + top-k auxiliary tasks,all_starts,1.8729096989966556,299,155,1,155,True
+cellular_clearance,minimum_size,5,4,Random,all_starts,2.1398763327902124,299,155,1,155,True
+cellular_clearance,minimum_size,5,4,Revised NAP + top-k auxiliary tasks,all_starts,1.6610925306577482,299,155,1,155,True
+cellular_clearance,minimum_size,5,4,single_task_Delta greedy,all_starts,1.605351170568562,299,155,1,155,True
+cellular_clearance,minimum_size,5,4,single_task_GP + EI,all_starts,1.8369565217391304,299,155,1,155,True
+cellular_clearance,minimum_size,5,4,single_task_NAP,all_starts,1.8559085841694536,299,155,1,155,True
+permeability,minimum_size,5,1,Cross-fitted single-task NAP,all_starts,4.413009404388715,319,253,1,253,True
+permeability,minimum_size,5,1,Original NAP + top-k auxiliary tasks,all_starts,4.6543887147335425,319,253,1,253,True
+permeability,minimum_size,5,1,Random,all_starts,5.846917450365726,319,253,1,253,True
+permeability,minimum_size,5,1,Revised NAP + top-k auxiliary tasks,all_starts,4.39080459770115,319,253,1,253,True
+permeability,minimum_size,5,1,single_task_Delta greedy,all_starts,4.7076802507836994,319,253,1,253,True
+permeability,minimum_size,5,1,single_task_GP + EI,all_starts,4.394200626959248,319,253,1,253,True
+permeability,minimum_size,5,1,single_task_NAP,all_starts,4.763061650992686,319,253,1,253,True
+permeability,minimum_size,5,2,Cross-fitted single-task NAP,all_starts,2.789184952978057,319,253,1,253,True
+permeability,minimum_size,5,2,Original NAP + top-k auxiliary tasks,all_starts,3.072100313479624,319,253,1,253,True
+permeability,minimum_size,5,2,Random,all_starts,3.851201671891327,319,253,1,253,True
+permeability,minimum_size,5,2,Revised NAP + top-k auxiliary tasks,all_starts,2.786311389759666,319,253,1,253,True
+permeability,minimum_size,5,2,single_task_Delta greedy,all_starts,3.0815047021943576,319,253,1,253,True
+permeability,minimum_size,5,2,single_task_GP + EI,all_starts,3.0783699059561127,319,253,1,253,True
+permeability,minimum_size,5,2,single_task_NAP,all_starts,3.2079414838035527,319,253,1,253,True
+permeability,minimum_size,5,3,Cross-fitted single-task NAP,all_starts,2.0987460815047023,319,253,1,253,True
+permeability,minimum_size,5,3,Original NAP + top-k auxiliary tasks,all_starts,2.3359456635318705,319,253,1,253,True
+permeability,minimum_size,5,3,Random,all_starts,2.866405433646813,319,253,1,253,True
+permeability,minimum_size,5,3,Revised NAP + top-k auxiliary tasks,all_starts,2.101619644723093,319,253,1,253,True
+permeability,minimum_size,5,3,single_task_Delta greedy,all_starts,2.3910658307210033,319,253,1,253,True
+permeability,minimum_size,5,3,single_task_GP + EI,all_starts,2.3158307210031346,319,253,1,253,True
+permeability,minimum_size,5,3,single_task_NAP,all_starts,2.4318181818181817,319,253,1,253,True
+permeability,minimum_size,5,4,Cross-fitted single-task NAP,all_starts,1.576541274817137,319,253,1,253,True
+permeability,minimum_size,5,4,Original NAP + top-k auxiliary tasks,all_starts,1.766980146290491,319,253,1,253,True
+permeability,minimum_size,5,4,Random,all_starts,2.156866696521869,319,253,1,253,True
+permeability,minimum_size,5,4,Revised NAP + top-k auxiliary tasks,all_starts,1.5778474399164053,319,253,1,253,True
+permeability,minimum_size,5,4,single_task_Delta greedy,all_starts,1.8565830721003136,319,253,1,253,True
+permeability,minimum_size,5,4,single_task_GP + EI,all_starts,1.7390282131661443,319,253,1,253,True
+permeability,minimum_size,5,4,single_task_NAP,all_starts,1.818443051201672,319,253,1,253,True
+efflux,minimum_size,5,1,Cross-fitted single-task NAP,all_starts,3.924707602339182,228,185,1,185,True
+efflux,minimum_size,5,1,Original NAP + top-k auxiliary tasks,all_starts,4.5076754385964914,228,185,1,185,True
+efflux,minimum_size,5,1,Random,all_starts,5.3428362573099415,228,185,1,185,True
+efflux,minimum_size,5,1,Revised NAP + top-k auxiliary tasks,all_starts,3.902777777777778,228,185,1,185,True
+efflux,minimum_size,5,1,single_task_Delta greedy,all_starts,3.9375,228,185,1,185,True
+efflux,minimum_size,5,1,single_task_GP + EI,all_starts,4.077850877192983,228,185,1,185,True
+efflux,minimum_size,5,1,single_task_NAP,all_starts,4.544956140350878,228,185,1,185,True
+efflux,minimum_size,5,2,Cross-fitted single-task NAP,all_starts,2.7112573099415203,228,185,1,185,True
+efflux,minimum_size,5,2,Original NAP + top-k auxiliary tasks,all_starts,3.058479532163743,228,185,1,185,True
+efflux,minimum_size,5,2,Random,all_starts,3.5023705096073514,228,185,1,185,True
+efflux,minimum_size,5,2,Revised NAP + top-k auxiliary tasks,all_starts,2.7178362573099415,228,185,1,185,True
+efflux,minimum_size,5,2,single_task_Delta greedy,all_starts,2.862938596491228,228,185,1,185,True
+efflux,minimum_size,5,2,single_task_GP + EI,all_starts,2.744517543859649,228,185,1,185,True
+efflux,minimum_size,5,2,single_task_NAP,all_starts,3.0917397660818713,228,185,1,185,True
+efflux,minimum_size,5,3,Cross-fitted single-task NAP,all_starts,2.0215643274853803,228,185,1,185,True
+efflux,minimum_size,5,3,Original NAP + top-k auxiliary tasks,all_starts,2.3548976608187133,228,185,1,185,True
+efflux,minimum_size,5,3,Random,all_starts,2.683393379281537,228,185,1,185,True
+efflux,minimum_size,5,3,Revised NAP + top-k auxiliary tasks,all_starts,2.0296052631578947,228,185,1,185,True
+efflux,minimum_size,5,3,single_task_Delta greedy,all_starts,2.2785087719298245,228,185,1,185,True
+efflux,minimum_size,5,3,single_task_GP + EI,all_starts,2.111842105263158,228,185,1,185,True
+efflux,minimum_size,5,3,single_task_NAP,all_starts,2.389254385964912,228,185,1,185,True
+efflux,minimum_size,5,4,Cross-fitted single-task NAP,all_starts,1.5519005847953216,228,185,1,185,True
+efflux,minimum_size,5,4,Original NAP + top-k auxiliary tasks,all_starts,1.778874269005848,228,185,1,185,True
+efflux,minimum_size,5,4,Random,all_starts,2.027487990810359,228,185,1,185,True
+efflux,minimum_size,5,4,Revised NAP + top-k auxiliary tasks,all_starts,1.5460526315789471,228,185,1,185,True
+efflux,minimum_size,5,4,single_task_Delta greedy,all_starts,1.6513157894736843,228,185,1,185,True
+efflux,minimum_size,5,4,single_task_GP + EI,all_starts,1.662280701754386,228,185,1,185,True
+efflux,minimum_size,5,4,single_task_NAP,all_starts,1.8194444444444444,228,185,1,185,True
+microsomal_clearance,minimum_size,10,1,Cross-fitted single-task NAP,all_starts,4.654304029304029,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,Original NAP + top-k auxiliary tasks,all_starts,5.126984126984127,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,Random,all_starts,6.991609517619133,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,Revised NAP + top-k auxiliary tasks,all_starts,4.667429792429792,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,single_task_Delta greedy,all_starts,4.90934065934066,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,single_task_GP + EI,all_starts,4.943681318681318,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,single_task_NAP,all_starts,5.097222222222222,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,Cross-fitted single-task NAP,all_starts,3.1686507936507935,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,Original NAP + top-k auxiliary tasks,all_starts,3.42002442002442,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,Random,all_starts,4.9732334492430645,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,Revised NAP + top-k auxiliary tasks,all_starts,3.1846764346764345,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,single_task_Delta greedy,all_starts,3.3301282051282053,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,single_task_GP + EI,all_starts,3.39514652014652,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,single_task_NAP,all_starts,3.4091880341880345,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,Cross-fitted single-task NAP,all_starts,2.5595238095238093,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,Original NAP + top-k auxiliary tasks,all_starts,2.6913919413919416,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,Random,all_starts,3.962769838779454,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,Revised NAP + top-k auxiliary tasks,all_starts,2.5746336996337,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,single_task_Delta greedy,all_starts,2.6836080586080584,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,single_task_GP + EI,all_starts,2.736721611721612,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,single_task_NAP,all_starts,2.693223443223443,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,Cross-fitted single-task NAP,all_starts,2.182387057387057,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,Original NAP + top-k auxiliary tasks,all_starts,2.2593101343101343,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,Random,all_starts,3.2963600072597328,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,Revised NAP + top-k auxiliary tasks,all_starts,2.196123321123321,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,single_task_Delta greedy,all_starts,2.20970695970696,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,single_task_GP + EI,all_starts,2.322802197802198,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,single_task_NAP,all_starts,2.278083028083028,546,318,1,318,True
+in_vivo_clearance,minimum_size,10,1,Cross-fitted single-task NAP,all_starts,6.918181818181818,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,1,Original NAP + top-k auxiliary tasks,all_starts,6.295454545454546,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,1,Random,all_starts,7.472727272727273,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,1,Revised NAP + top-k auxiliary tasks,all_starts,6.931818181818182,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,1,single_task_Delta greedy,all_starts,7.013636363636364,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,1,single_task_GP + EI,all_starts,7.0227272727272725,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,1,single_task_NAP,all_starts,6.383333333333333,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,2,Cross-fitted single-task NAP,all_starts,4.054545454545455,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,2,Original NAP + top-k auxiliary tasks,all_starts,4.593939393939394,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,2,Random,all_starts,4.924242424242424,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,2,Revised NAP + top-k auxiliary tasks,all_starts,4.068181818181818,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,2,single_task_Delta greedy,all_starts,4.663636363636364,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,2,single_task_GP + EI,all_starts,4.640909090909091,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,2,single_task_NAP,all_starts,4.643939393939394,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,3,Cross-fitted single-task NAP,all_starts,2.853030303030303,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,3,Original NAP + top-k auxiliary tasks,all_starts,3.4530303030303027,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,3,Random,all_starts,3.71,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,3,Revised NAP + top-k auxiliary tasks,all_starts,2.8666666666666667,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,3,single_task_Delta greedy,all_starts,3.1454545454545455,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,3,single_task_GP + EI,all_starts,3.4,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,3,single_task_NAP,all_starts,3.371212121212121,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,4,Cross-fitted single-task NAP,all_starts,2.2924242424242425,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,4,Original NAP + top-k auxiliary tasks,all_starts,2.789393939393939,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,4,Random,all_starts,2.952121212121212,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,4,Revised NAP + top-k auxiliary tasks,all_starts,2.306060606060606,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,4,single_task_Delta greedy,all_starts,2.3545454545454545,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,4,single_task_GP + EI,all_starts,2.868181818181818,55,45,1,45,True
+in_vivo_clearance,minimum_size,10,4,single_task_NAP,all_starts,2.7,55,45,1,45,True
+protein_binding,minimum_size,10,1,Cross-fitted single-task NAP,all_starts,5.3238095238095235,105,61,1,61,True
+protein_binding,minimum_size,10,1,Original NAP + top-k auxiliary tasks,all_starts,5.623015873015873,105,61,1,61,True
+protein_binding,minimum_size,10,1,Random,all_starts,8.471428571428572,105,61,1,61,True
+protein_binding,minimum_size,10,1,Revised NAP + top-k auxiliary tasks,all_starts,5.3198412698412705,105,61,1,61,True
+protein_binding,minimum_size,10,1,single_task_Delta greedy,all_starts,5.140476190476191,105,61,1,61,True
+protein_binding,minimum_size,10,1,single_task_GP + EI,all_starts,5.7785714285714285,105,61,1,61,True
+protein_binding,minimum_size,10,1,single_task_NAP,all_starts,5.656349206349206,105,61,1,61,True
+protein_binding,minimum_size,10,2,Cross-fitted single-task NAP,all_starts,3.2261904761904763,105,61,1,61,True
+protein_binding,minimum_size,10,2,Original NAP + top-k auxiliary tasks,all_starts,3.5023809523809524,105,61,1,61,True
+protein_binding,minimum_size,10,2,Random,all_starts,5.395238095238096,105,61,1,61,True
+protein_binding,minimum_size,10,2,Revised NAP + top-k auxiliary tasks,all_starts,3.2269841269841266,105,61,1,61,True
+protein_binding,minimum_size,10,2,single_task_Delta greedy,all_starts,3.080952380952381,105,61,1,61,True
+protein_binding,minimum_size,10,2,single_task_GP + EI,all_starts,3.892857142857143,105,61,1,61,True
+protein_binding,minimum_size,10,2,single_task_NAP,all_starts,3.53968253968254,105,61,1,61,True
+protein_binding,minimum_size,10,3,Cross-fitted single-task NAP,all_starts,2.526190476190476,105,61,1,61,True
+protein_binding,minimum_size,10,3,Original NAP + top-k auxiliary tasks,all_starts,2.6317460317460317,105,61,1,61,True
+protein_binding,minimum_size,10,3,Random,all_starts,4.0876190476190475,105,61,1,61,True
+protein_binding,minimum_size,10,3,Revised NAP + top-k auxiliary tasks,all_starts,2.507142857142857,105,61,1,61,True
+protein_binding,minimum_size,10,3,single_task_Delta greedy,all_starts,2.2738095238095237,105,61,1,61,True
+protein_binding,minimum_size,10,3,single_task_GP + EI,all_starts,3.138095238095238,105,61,1,61,True
+protein_binding,minimum_size,10,3,single_task_NAP,all_starts,2.742857142857143,105,61,1,61,True
+protein_binding,minimum_size,10,4,Cross-fitted single-task NAP,all_starts,1.973809523809524,105,61,1,61,True
+protein_binding,minimum_size,10,4,Original NAP + top-k auxiliary tasks,all_starts,2.2333333333333334,105,61,1,61,True
+protein_binding,minimum_size,10,4,Random,all_starts,3.3082794784580503,105,61,1,61,True
+protein_binding,minimum_size,10,4,Revised NAP + top-k auxiliary tasks,all_starts,1.96984126984127,105,61,1,61,True
+protein_binding,minimum_size,10,4,single_task_Delta greedy,all_starts,1.6642857142857144,105,61,1,61,True
+protein_binding,minimum_size,10,4,single_task_GP + EI,all_starts,2.5880952380952382,105,61,1,61,True
+protein_binding,minimum_size,10,4,single_task_NAP,all_starts,2.33015873015873,105,61,1,61,True
+cellular_clearance,minimum_size,10,1,Cross-fitted single-task NAP,all_starts,4.830573951434879,151,92,1,92,True
+cellular_clearance,minimum_size,10,1,Original NAP + top-k auxiliary tasks,all_starts,5.911699779249448,151,92,1,92,True
+cellular_clearance,minimum_size,10,1,Random,all_starts,7.182478632478632,151,92,1,92,True
+cellular_clearance,minimum_size,10,1,Revised NAP + top-k auxiliary tasks,all_starts,4.80187637969095,151,92,1,92,True
+cellular_clearance,minimum_size,10,1,single_task_Delta greedy,all_starts,5.322847682119205,151,92,1,92,True
+cellular_clearance,minimum_size,10,1,single_task_GP + EI,all_starts,5.289735099337748,151,92,1,92,True
+cellular_clearance,minimum_size,10,1,single_task_NAP,all_starts,5.799116997792495,151,92,1,92,True
+cellular_clearance,minimum_size,10,2,Cross-fitted single-task NAP,all_starts,3.215783664459161,151,92,1,92,True
+cellular_clearance,minimum_size,10,2,Original NAP + top-k auxiliary tasks,all_starts,4.129690949227373,151,92,1,92,True
+cellular_clearance,minimum_size,10,2,Random,all_starts,5.07099960378106,151,92,1,92,True
+cellular_clearance,minimum_size,10,2,Revised NAP + top-k auxiliary tasks,all_starts,3.1793598233995586,151,92,1,92,True
+cellular_clearance,minimum_size,10,2,single_task_Delta greedy,all_starts,3.701986754966887,151,92,1,92,True
+cellular_clearance,minimum_size,10,2,single_task_GP + EI,all_starts,3.506622516556291,151,92,1,92,True
+cellular_clearance,minimum_size,10,2,single_task_NAP,all_starts,4.024834437086093,151,92,1,92,True
+cellular_clearance,minimum_size,10,3,Cross-fitted single-task NAP,all_starts,2.7599337748344372,151,92,1,92,True
+cellular_clearance,minimum_size,10,3,Original NAP + top-k auxiliary tasks,all_starts,3.390728476821192,151,92,1,92,True
+cellular_clearance,minimum_size,10,3,Random,all_starts,4.011728080602253,151,92,1,92,True
+cellular_clearance,minimum_size,10,3,Revised NAP + top-k auxiliary tasks,all_starts,2.756622516556291,151,92,1,92,True
+cellular_clearance,minimum_size,10,3,single_task_Delta greedy,all_starts,2.7781456953642385,151,92,1,92,True
+cellular_clearance,minimum_size,10,3,single_task_GP + EI,all_starts,3.05794701986755,151,92,1,92,True
+cellular_clearance,minimum_size,10,3,single_task_NAP,all_starts,3.3101545253863134,151,92,1,92,True
+cellular_clearance,minimum_size,10,4,Cross-fitted single-task NAP,all_starts,2.402869757174393,151,92,1,92,True
+cellular_clearance,minimum_size,10,4,Original NAP + top-k auxiliary tasks,all_starts,2.825055187637969,151,92,1,92,True
+cellular_clearance,minimum_size,10,4,Random,all_starts,3.3002411679563997,151,92,1,92,True
+cellular_clearance,minimum_size,10,4,Revised NAP + top-k auxiliary tasks,all_starts,2.3962472406181012,151,92,1,92,True
+cellular_clearance,minimum_size,10,4,single_task_Delta greedy,all_starts,2.327814569536424,151,92,1,92,True
+cellular_clearance,minimum_size,10,4,single_task_GP + EI,all_starts,2.662251655629139,151,92,1,92,True
+cellular_clearance,minimum_size,10,4,single_task_NAP,all_starts,2.806291390728477,151,92,1,92,True
+permeability,minimum_size,10,1,Cross-fitted single-task NAP,all_starts,6.191935483870968,155,129,1,129,True
+permeability,minimum_size,10,1,Original NAP + top-k auxiliary tasks,all_starts,6.682258064516129,155,129,1,129,True
+permeability,minimum_size,10,1,Random,all_starts,8.648387096774194,155,129,1,129,True
+permeability,minimum_size,10,1,Revised NAP + top-k auxiliary tasks,all_starts,6.1537634408602155,155,129,1,129,True
+permeability,minimum_size,10,1,single_task_Delta greedy,all_starts,7.053225806451613,155,129,1,129,True
+permeability,minimum_size,10,1,single_task_GP + EI,all_starts,6.017741935483871,155,129,1,129,True
+permeability,minimum_size,10,1,single_task_NAP,all_starts,6.859677419354838,155,129,1,129,True
+permeability,minimum_size,10,2,Cross-fitted single-task NAP,all_starts,3.810215053763441,155,129,1,129,True
+permeability,minimum_size,10,2,Original NAP + top-k auxiliary tasks,all_starts,4.402150537634409,155,129,1,129,True
+permeability,minimum_size,10,2,Random,all_starts,5.752903225806452,155,129,1,129,True
+permeability,minimum_size,10,2,Revised NAP + top-k auxiliary tasks,all_starts,3.810752688172043,155,129,1,129,True
+permeability,minimum_size,10,2,single_task_Delta greedy,all_starts,4.491935483870968,155,129,1,129,True
+permeability,minimum_size,10,2,single_task_GP + EI,all_starts,4.333870967741936,155,129,1,129,True
+permeability,minimum_size,10,2,single_task_NAP,all_starts,4.66505376344086,155,129,1,129,True
+permeability,minimum_size,10,3,Cross-fitted single-task NAP,all_starts,2.9301075268817205,155,129,1,129,True
+permeability,minimum_size,10,3,Original NAP + top-k auxiliary tasks,all_starts,3.3080645161290323,155,129,1,129,True
+permeability,minimum_size,10,3,Random,all_starts,4.283870967741936,155,129,1,129,True
+permeability,minimum_size,10,3,Revised NAP + top-k auxiliary tasks,all_starts,2.93494623655914,155,129,1,129,True
+permeability,minimum_size,10,3,single_task_Delta greedy,all_starts,3.553225806451613,155,129,1,129,True
+permeability,minimum_size,10,3,single_task_GP + EI,all_starts,3.291935483870968,155,129,1,129,True
+permeability,minimum_size,10,3,single_task_NAP,all_starts,3.5123655913978493,155,129,1,129,True
+permeability,minimum_size,10,4,Cross-fitted single-task NAP,all_starts,2.3333333333333335,155,129,1,129,True
+permeability,minimum_size,10,4,Original NAP + top-k auxiliary tasks,all_starts,2.720967741935484,155,129,1,129,True
+permeability,minimum_size,10,4,Random,all_starts,3.453701996927803,155,129,1,129,True
+permeability,minimum_size,10,4,Revised NAP + top-k auxiliary tasks,all_starts,2.339784946236559,155,129,1,129,True
+permeability,minimum_size,10,4,single_task_Delta greedy,all_starts,2.9661290322580647,155,129,1,129,True
+permeability,minimum_size,10,4,single_task_GP + EI,all_starts,2.6451612903225805,155,129,1,129,True
+permeability,minimum_size,10,4,single_task_NAP,all_starts,2.806451612903226,155,129,1,129,True
+efflux,minimum_size,10,1,Cross-fitted single-task NAP,all_starts,5.009722222222222,120,100,1,100,True
+efflux,minimum_size,10,1,Original NAP + top-k auxiliary tasks,all_starts,6.033333333333333,120,100,1,100,True
+efflux,minimum_size,10,1,Random,all_starts,7.401944444444444,120,100,1,100,True
+efflux,minimum_size,10,1,Revised NAP + top-k auxiliary tasks,all_starts,4.961111111111111,120,100,1,100,True
+efflux,minimum_size,10,1,single_task_Delta greedy,all_starts,5.154166666666667,120,100,1,100,True
+efflux,minimum_size,10,1,single_task_GP + EI,all_starts,5.177083333333333,120,100,1,100,True
+efflux,minimum_size,10,1,single_task_NAP,all_starts,6.082638888888889,120,100,1,100,True
+efflux,minimum_size,10,2,Cross-fitted single-task NAP,all_starts,3.55,120,100,1,100,True
+efflux,minimum_size,10,2,Original NAP + top-k auxiliary tasks,all_starts,4.138888888888889,120,100,1,100,True
+efflux,minimum_size,10,2,Random,all_starts,4.856587301587301,120,100,1,100,True
+efflux,minimum_size,10,2,Revised NAP + top-k auxiliary tasks,all_starts,3.5493055555555557,120,100,1,100,True
+efflux,minimum_size,10,2,single_task_Delta greedy,all_starts,3.870833333333333,120,100,1,100,True
+efflux,minimum_size,10,2,single_task_GP + EI,all_starts,3.5770833333333334,120,100,1,100,True
+efflux,minimum_size,10,2,single_task_NAP,all_starts,4.227777777777778,120,100,1,100,True
+efflux,minimum_size,10,3,Cross-fitted single-task NAP,all_starts,2.586805555555556,120,100,1,100,True
+efflux,minimum_size,10,3,Original NAP + top-k auxiliary tasks,all_starts,3.16875,120,100,1,100,True
+efflux,minimum_size,10,3,Random,all_starts,3.743030753968254,120,100,1,100,True
+efflux,minimum_size,10,3,Revised NAP + top-k auxiliary tasks,all_starts,2.591666666666667,120,100,1,100,True
+efflux,minimum_size,10,3,single_task_Delta greedy,all_starts,3.1020833333333333,120,100,1,100,True
+efflux,minimum_size,10,3,single_task_GP + EI,all_starts,2.745833333333333,120,100,1,100,True
+efflux,minimum_size,10,3,single_task_NAP,all_starts,3.2590277777777774,120,100,1,100,True
+efflux,minimum_size,10,4,Cross-fitted single-task NAP,all_starts,2.179861111111111,120,100,1,100,True
+efflux,minimum_size,10,4,Original NAP + top-k auxiliary tasks,all_starts,2.557638888888889,120,100,1,100,True
+efflux,minimum_size,10,4,Random,all_starts,3.0210267857142856,120,100,1,100,True
+efflux,minimum_size,10,4,Revised NAP + top-k auxiliary tasks,all_starts,2.160416666666667,120,100,1,100,True
+efflux,minimum_size,10,4,single_task_Delta greedy,all_starts,2.3895833333333334,120,100,1,100,True
+efflux,minimum_size,10,4,single_task_GP + EI,all_starts,2.36875,120,100,1,100,True
+efflux,minimum_size,10,4,single_task_NAP,all_starts,2.6340277777777774,120,100,1,100,True
+microsomal_clearance,minimum_size,15,1,Cross-fitted single-task NAP,all_starts,5.39951768488746,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,Original NAP + top-k auxiliary tasks,all_starts,6.196677384780279,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,Random,all_starts,8.621329033149774,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,Revised NAP + top-k auxiliary tasks,all_starts,5.415326902465166,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,single_task_Delta greedy,all_starts,5.695337620578778,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,single_task_GP + EI,all_starts,5.835209003215434,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,single_task_NAP,all_starts,6.110932475884244,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,Cross-fitted single-task NAP,all_starts,3.609592711682743,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,Original NAP + top-k auxiliary tasks,all_starts,3.998392282958199,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,Random,all_starts,6.1396723190171745,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,Revised NAP + top-k auxiliary tasks,all_starts,3.631028938906753,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,single_task_Delta greedy,all_starts,3.761254019292605,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,single_task_GP + EI,all_starts,3.931672025723473,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,single_task_NAP,all_starts,3.989281886387996,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,Cross-fitted single-task NAP,all_starts,2.880760986066452,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,Original NAP + top-k auxiliary tasks,all_starts,3.10048231511254,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,Random,all_starts,4.917604372672701,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,Revised NAP + top-k auxiliary tasks,all_starts,2.898445873526259,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,single_task_Delta greedy,all_starts,3.030546623794212,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,single_task_GP + EI,all_starts,3.139871382636656,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,single_task_NAP,all_starts,3.130225080385852,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,Cross-fitted single-task NAP,all_starts,2.5058949624866025,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,Original NAP + top-k auxiliary tasks,all_starts,2.59967845659164,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,Random,all_starts,4.135686576285451,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,Revised NAP + top-k auxiliary tasks,all_starts,2.5155412647374065,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,single_task_Delta greedy,all_starts,2.4590032154340835,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,single_task_GP + EI,all_starts,2.7090032154340835,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,single_task_NAP,all_starts,2.6256698821007505,311,183,1,183,True
+in_vivo_clearance,minimum_size,15,1,Cross-fitted single-task NAP,all_starts,9.6,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,1,Original NAP + top-k auxiliary tasks,all_starts,8.570833333333333,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,1,Random,all_starts,10.65,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,1,Revised NAP + top-k auxiliary tasks,all_starts,9.5875,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,1,single_task_Delta greedy,all_starts,9.7625,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,1,single_task_GP + EI,all_starts,9.375,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,1,single_task_NAP,all_starts,8.8375,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,2,Cross-fitted single-task NAP,all_starts,4.8,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,2,Original NAP + top-k auxiliary tasks,all_starts,7.1916666666666655,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,2,Random,all_starts,6.904166666666667,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,2,Revised NAP + top-k auxiliary tasks,all_starts,4.816666666666666,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,2,single_task_Delta greedy,all_starts,6.2,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,2,single_task_GP + EI,all_starts,6.275,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,2,single_task_NAP,all_starts,7.4125,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,3,Cross-fitted single-task NAP,all_starts,3.3208333333333337,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,3,Original NAP + top-k auxiliary tasks,all_starts,5.441666666666667,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,3,Random,all_starts,5.275,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,3,Revised NAP + top-k auxiliary tasks,all_starts,3.3333333333333335,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,3,single_task_Delta greedy,all_starts,4.1,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,3,single_task_GP + EI,all_starts,4.3625,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,3,single_task_NAP,all_starts,5.529166666666667,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,4,Cross-fitted single-task NAP,all_starts,2.75,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,4,Original NAP + top-k auxiliary tasks,all_starts,4.116666666666666,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,4,Random,all_starts,4.145952380952381,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,4,Revised NAP + top-k auxiliary tasks,all_starts,2.7625,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,4,single_task_Delta greedy,all_starts,3.4125,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,4,single_task_GP + EI,all_starts,3.6,20,16,1,16,True
+in_vivo_clearance,minimum_size,15,4,single_task_NAP,all_starts,4.054166666666667,20,16,1,16,True
+protein_binding,minimum_size,15,1,Cross-fitted single-task NAP,all_starts,6.715909090909091,44,29,1,29,True
+protein_binding,minimum_size,15,1,Original NAP + top-k auxiliary tasks,all_starts,7.206439393939394,44,29,1,29,True
+protein_binding,minimum_size,15,1,Random,all_starts,12.204545454545457,44,29,1,29,True
+protein_binding,minimum_size,15,1,Revised NAP + top-k auxiliary tasks,all_starts,6.702651515151516,44,29,1,29,True
+protein_binding,minimum_size,15,1,single_task_Delta greedy,all_starts,6.909090909090909,44,29,1,29,True
+protein_binding,minimum_size,15,1,single_task_GP + EI,all_starts,7.715909090909091,44,29,1,29,True
+protein_binding,minimum_size,15,1,single_task_NAP,all_starts,7.4375,44,29,1,29,True
+protein_binding,minimum_size,15,2,Cross-fitted single-task NAP,all_starts,3.852272727272727,44,29,1,29,True
+protein_binding,minimum_size,15,2,Original NAP + top-k auxiliary tasks,all_starts,3.9829545454545454,44,29,1,29,True
+protein_binding,minimum_size,15,2,Random,all_starts,7.598484848484848,44,29,1,29,True
+protein_binding,minimum_size,15,2,Revised NAP + top-k auxiliary tasks,all_starts,3.861742424242424,44,29,1,29,True
+protein_binding,minimum_size,15,2,single_task_Delta greedy,all_starts,3.9943181818181817,44,29,1,29,True
+protein_binding,minimum_size,15,2,single_task_GP + EI,all_starts,4.9375,44,29,1,29,True
+protein_binding,minimum_size,15,2,single_task_NAP,all_starts,4.160984848484849,44,29,1,29,True
+protein_binding,minimum_size,15,3,Cross-fitted single-task NAP,all_starts,3.393939393939394,44,29,1,29,True
+protein_binding,minimum_size,15,3,Original NAP + top-k auxiliary tasks,all_starts,3.071969696969697,44,29,1,29,True
+protein_binding,minimum_size,15,3,Random,all_starts,5.828409090909091,44,29,1,29,True
+protein_binding,minimum_size,15,3,Revised NAP + top-k auxiliary tasks,all_starts,3.3693181818181817,44,29,1,29,True
+protein_binding,minimum_size,15,3,single_task_Delta greedy,all_starts,3.1193181818181817,44,29,1,29,True
+protein_binding,minimum_size,15,3,single_task_GP + EI,all_starts,4.4375,44,29,1,29,True
+protein_binding,minimum_size,15,3,single_task_NAP,all_starts,3.3712121212121215,44,29,1,29,True
+protein_binding,minimum_size,15,4,Cross-fitted single-task NAP,all_starts,2.4469696969696972,44,29,1,29,True
+protein_binding,minimum_size,15,4,Original NAP + top-k auxiliary tasks,all_starts,2.725378787878788,44,29,1,29,True
+protein_binding,minimum_size,15,4,Random,all_starts,4.726515151515152,44,29,1,29,True
+protein_binding,minimum_size,15,4,Revised NAP + top-k auxiliary tasks,all_starts,2.4375,44,29,1,29,True
+protein_binding,minimum_size,15,4,single_task_Delta greedy,all_starts,2.085227272727273,44,29,1,29,True
+protein_binding,minimum_size,15,4,single_task_GP + EI,all_starts,3.426136363636364,44,29,1,29,True
+protein_binding,minimum_size,15,4,single_task_NAP,all_starts,2.9431818181818183,44,29,1,29,True
+cellular_clearance,minimum_size,15,1,Cross-fitted single-task NAP,all_starts,6.5,79,53,1,53,True
+cellular_clearance,minimum_size,15,1,Original NAP + top-k auxiliary tasks,all_starts,7.685654008438818,79,53,1,53,True
+cellular_clearance,minimum_size,15,1,Random,all_starts,9.45340450688552,79,53,1,53,True
+cellular_clearance,minimum_size,15,1,Revised NAP + top-k auxiliary tasks,all_starts,6.482067510548523,79,53,1,53,True
+cellular_clearance,minimum_size,15,1,single_task_Delta greedy,all_starts,6.825949367088608,79,53,1,53,True
+cellular_clearance,minimum_size,15,1,single_task_GP + EI,all_starts,6.996835443037975,79,53,1,53,True
+cellular_clearance,minimum_size,15,1,single_task_NAP,all_starts,7.300632911392405,79,53,1,53,True
+cellular_clearance,minimum_size,15,2,Cross-fitted single-task NAP,all_starts,4.162447257383966,79,53,1,53,True
+cellular_clearance,minimum_size,15,2,Original NAP + top-k auxiliary tasks,all_starts,5.370253164556962,79,53,1,53,True
+cellular_clearance,minimum_size,15,2,Random,all_starts,6.636948810682989,79,53,1,53,True
+cellular_clearance,minimum_size,15,2,Revised NAP + top-k auxiliary tasks,all_starts,4.147679324894515,79,53,1,53,True
+cellular_clearance,minimum_size,15,2,single_task_Delta greedy,all_starts,4.784810126582278,79,53,1,53,True
+cellular_clearance,minimum_size,15,2,single_task_GP + EI,all_starts,4.572784810126582,79,53,1,53,True
+cellular_clearance,minimum_size,15,2,single_task_NAP,all_starts,4.9641350210970465,79,53,1,53,True
+cellular_clearance,minimum_size,15,3,Cross-fitted single-task NAP,all_starts,3.5253164556962027,79,53,1,53,True
+cellular_clearance,minimum_size,15,3,Original NAP + top-k auxiliary tasks,all_starts,4.468354430379747,79,53,1,53,True
+cellular_clearance,minimum_size,15,3,Random,all_starts,5.26226526637919,79,53,1,53,True
+cellular_clearance,minimum_size,15,3,Revised NAP + top-k auxiliary tasks,all_starts,3.5411392405063293,79,53,1,53,True
+cellular_clearance,minimum_size,15,3,single_task_Delta greedy,all_starts,3.481012658227848,79,53,1,53,True
+cellular_clearance,minimum_size,15,3,single_task_GP + EI,all_starts,3.930379746835443,79,53,1,53,True
+cellular_clearance,minimum_size,15,3,single_task_NAP,all_starts,4.185654008438819,79,53,1,53,True
+cellular_clearance,minimum_size,15,4,Cross-fitted single-task NAP,all_starts,3.0548523206751055,79,53,1,53,True
+cellular_clearance,minimum_size,15,4,Original NAP + top-k auxiliary tasks,all_starts,3.7130801687763713,79,53,1,53,True
+cellular_clearance,minimum_size,15,4,Random,all_starts,4.367117587054296,79,53,1,53,True
+cellular_clearance,minimum_size,15,4,Revised NAP + top-k auxiliary tasks,all_starts,3.052742616033755,79,53,1,53,True
+cellular_clearance,minimum_size,15,4,single_task_Delta greedy,all_starts,2.901898734177215,79,53,1,53,True
+cellular_clearance,minimum_size,15,4,single_task_GP + EI,all_starts,3.509493670886076,79,53,1,53,True
+cellular_clearance,minimum_size,15,4,single_task_NAP,all_starts,3.598101265822785,79,53,1,53,True
+permeability,minimum_size,15,1,Cross-fitted single-task NAP,all_starts,8.127314814814815,72,62,1,62,True
+permeability,minimum_size,15,1,Original NAP + top-k auxiliary tasks,all_starts,8.987268518518519,72,62,1,62,True
+permeability,minimum_size,15,1,Random,all_starts,11.921296296296298,72,62,1,62,True
+permeability,minimum_size,15,1,Revised NAP + top-k auxiliary tasks,all_starts,8.025462962962964,72,62,1,62,True
+permeability,minimum_size,15,1,single_task_Delta greedy,all_starts,9.802083333333334,72,62,1,62,True
+permeability,minimum_size,15,1,single_task_GP + EI,all_starts,7.465277777777778,72,62,1,62,True
+permeability,minimum_size,15,1,single_task_NAP,all_starts,9.12152777777778,72,62,1,62,True
+permeability,minimum_size,15,2,Cross-fitted single-task NAP,all_starts,4.8969907407407405,72,62,1,62,True
+permeability,minimum_size,15,2,Original NAP + top-k auxiliary tasks,all_starts,6.0532407407407405,72,62,1,62,True
+permeability,minimum_size,15,2,Random,all_starts,8.00462962962963,72,62,1,62,True
+permeability,minimum_size,15,2,Revised NAP + top-k auxiliary tasks,all_starts,4.868055555555555,72,62,1,62,True
+permeability,minimum_size,15,2,single_task_Delta greedy,all_starts,6.076388888888889,72,62,1,62,True
+permeability,minimum_size,15,2,single_task_GP + EI,all_starts,5.583333333333333,72,62,1,62,True
+permeability,minimum_size,15,2,single_task_NAP,all_starts,6.310185185185185,72,62,1,62,True
+permeability,minimum_size,15,3,Cross-fitted single-task NAP,all_starts,3.609953703703704,72,62,1,62,True
+permeability,minimum_size,15,3,Original NAP + top-k auxiliary tasks,all_starts,4.369212962962963,72,62,1,62,True
+permeability,minimum_size,15,3,Random,all_starts,5.921527777777778,72,62,1,62,True
+permeability,minimum_size,15,3,Revised NAP + top-k auxiliary tasks,all_starts,3.574074074074074,72,62,1,62,True
+permeability,minimum_size,15,3,single_task_Delta greedy,all_starts,4.875,72,62,1,62,True
+permeability,minimum_size,15,3,single_task_GP + EI,all_starts,4.107638888888889,72,62,1,62,True
+permeability,minimum_size,15,3,single_task_NAP,all_starts,4.6157407407407405,72,62,1,62,True
+permeability,minimum_size,15,4,Cross-fitted single-task NAP,all_starts,2.8819444444444446,72,62,1,62,True
+permeability,minimum_size,15,4,Original NAP + top-k auxiliary tasks,all_starts,3.672453703703704,72,62,1,62,True
+permeability,minimum_size,15,4,Random,all_starts,4.809259259259259,72,62,1,62,True
+permeability,minimum_size,15,4,Revised NAP + top-k auxiliary tasks,all_starts,2.8819444444444446,72,62,1,62,True
+permeability,minimum_size,15,4,single_task_Delta greedy,all_starts,4.135416666666667,72,62,1,62,True
+permeability,minimum_size,15,4,single_task_GP + EI,all_starts,3.4930555555555554,72,62,1,62,True
+permeability,minimum_size,15,4,single_task_NAP,all_starts,3.762731481481482,72,62,1,62,True
+efflux,minimum_size,15,1,Cross-fitted single-task NAP,all_starts,6.8580246913580245,54,49,1,49,True
+efflux,minimum_size,15,1,Original NAP + top-k auxiliary tasks,all_starts,8.410493827160494,54,49,1,49,True
+efflux,minimum_size,15,1,Random,all_starts,9.694444444444445,54,49,1,49,True
+efflux,minimum_size,15,1,Revised NAP + top-k auxiliary tasks,all_starts,6.770061728395062,54,49,1,49,True
+efflux,minimum_size,15,1,single_task_Delta greedy,all_starts,7.1157407407407405,54,49,1,49,True
+efflux,minimum_size,15,1,single_task_GP + EI,all_starts,6.393518518518518,54,49,1,49,True
+efflux,minimum_size,15,1,single_task_NAP,all_starts,8.523148148148149,54,49,1,49,True
+efflux,minimum_size,15,2,Cross-fitted single-task NAP,all_starts,4.714506172839506,54,49,1,49,True
+efflux,minimum_size,15,2,Original NAP + top-k auxiliary tasks,all_starts,5.59104938271605,54,49,1,49,True
+efflux,minimum_size,15,2,Random,all_starts,6.366975308641975,54,49,1,49,True
+efflux,minimum_size,15,2,Revised NAP + top-k auxiliary tasks,all_starts,4.689814814814815,54,49,1,49,True
+efflux,minimum_size,15,2,single_task_Delta greedy,all_starts,5.546296296296297,54,49,1,49,True
+efflux,minimum_size,15,2,single_task_GP + EI,all_starts,4.175925925925926,54,49,1,49,True
+efflux,minimum_size,15,2,single_task_NAP,all_starts,5.853395061728395,54,49,1,49,True
+efflux,minimum_size,15,3,Cross-fitted single-task NAP,all_starts,3.260802469135802,54,49,1,49,True
+efflux,minimum_size,15,3,Original NAP + top-k auxiliary tasks,all_starts,4.325617283950617,54,49,1,49,True
+efflux,minimum_size,15,3,Random,all_starts,4.9460648148148145,54,49,1,49,True
+efflux,minimum_size,15,3,Revised NAP + top-k auxiliary tasks,all_starts,3.266975308641975,54,49,1,49,True
+efflux,minimum_size,15,3,single_task_Delta greedy,all_starts,4.412037037037037,54,49,1,49,True
+efflux,minimum_size,15,3,single_task_GP + EI,all_starts,3.324074074074074,54,49,1,49,True
+efflux,minimum_size,15,3,single_task_NAP,all_starts,4.628086419753086,54,49,1,49,True
+efflux,minimum_size,15,4,Cross-fitted single-task NAP,all_starts,2.657407407407407,54,49,1,49,True
+efflux,minimum_size,15,4,Original NAP + top-k auxiliary tasks,all_starts,3.322530864197531,54,49,1,49,True
+efflux,minimum_size,15,4,Random,all_starts,3.932264109347442,54,49,1,49,True
+efflux,minimum_size,15,4,Revised NAP + top-k auxiliary tasks,all_starts,2.635802469135802,54,49,1,49,True
+efflux,minimum_size,15,4,single_task_Delta greedy,all_starts,3.1435185185185186,54,49,1,49,True
+efflux,minimum_size,15,4,single_task_GP + EI,all_starts,2.8796296296296298,54,49,1,49,True
+efflux,minimum_size,15,4,single_task_NAP,all_starts,3.552469135802469,54,49,1,49,True
+microsomal_clearance,minimum_size,20,1,Cross-fitted single-task NAP,all_starts,6.280430711610487,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,Original NAP + top-k auxiliary tasks,all_starts,7.210205992509364,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,Random,all_starts,10.327858011994248,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,Revised NAP + top-k auxiliary tasks,all_starts,6.311329588014981,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,single_task_Delta greedy,all_starts,6.837078651685394,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,single_task_GP + EI,all_starts,6.807584269662922,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,single_task_NAP,all_starts,7.206928838951311,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,Cross-fitted single-task NAP,all_starts,4.183988764044944,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,Original NAP + top-k auxiliary tasks,all_starts,4.453651685393258,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,Random,all_starts,7.284131420233949,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,Revised NAP + top-k auxiliary tasks,all_starts,4.22191011235955,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,single_task_Delta greedy,all_starts,4.394662921348314,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,single_task_GP + EI,all_starts,4.487359550561798,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,single_task_NAP,all_starts,4.49812734082397,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,Cross-fitted single-task NAP,all_starts,3.2036516853932584,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,Original NAP + top-k auxiliary tasks,all_starts,3.340355805243446,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,Random,all_starts,5.837178747438578,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,Revised NAP + top-k auxiliary tasks,all_starts,3.2382958801498125,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,single_task_Delta greedy,all_starts,3.418539325842697,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,single_task_GP + EI,all_starts,3.497191011235955,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,single_task_NAP,all_starts,3.4377340823970037,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,Cross-fitted single-task NAP,all_starts,2.8057116104868913,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,Original NAP + top-k auxiliary tasks,all_starts,2.8618913857677906,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,Random,all_starts,4.939656419579173,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,Revised NAP + top-k auxiliary tasks,all_starts,2.8211610486891385,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,single_task_Delta greedy,all_starts,2.8019662921348316,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,single_task_GP + EI,all_starts,3.0014044943820224,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,single_task_NAP,all_starts,2.943820224719101,178,108,1,108,True
+in_vivo_clearance,minimum_size,20,1,Cross-fitted single-task NAP,all_starts,11.47222222222222,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,1,Original NAP + top-k auxiliary tasks,all_starts,12.11111111111111,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,1,Random,all_starts,13.38888888888889,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,1,Revised NAP + top-k auxiliary tasks,all_starts,11.453703703703702,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,1,single_task_Delta greedy,all_starts,12.02777777777778,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,1,single_task_GP + EI,all_starts,10.63888888888889,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,1,single_task_NAP,all_starts,12.185185185185183,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,2,Cross-fitted single-task NAP,all_starts,5.055555555555555,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,2,Original NAP + top-k auxiliary tasks,all_starts,10.87037037037037,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,2,Random,all_starts,8.62962962962963,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,2,Revised NAP + top-k auxiliary tasks,all_starts,5.074074074074074,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,2,single_task_Delta greedy,all_starts,8.86111111111111,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,2,single_task_GP + EI,all_starts,6.583333333333333,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,2,single_task_NAP,all_starts,10.50925925925926,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,3,Cross-fitted single-task NAP,all_starts,3.361111111111111,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,3,Original NAP + top-k auxiliary tasks,all_starts,7.296296296296297,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,3,Random,all_starts,6.583333333333333,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,3,Revised NAP + top-k auxiliary tasks,all_starts,3.3796296296296298,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,3,single_task_Delta greedy,all_starts,5.055555555555555,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,3,single_task_GP + EI,all_starts,4.027777777777778,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,3,single_task_NAP,all_starts,6.703703703703704,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,4,Cross-fitted single-task NAP,all_starts,3.361111111111111,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,4,Original NAP + top-k auxiliary tasks,all_starts,6.12962962962963,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,4,Random,all_starts,5.203703703703703,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,4,Revised NAP + top-k auxiliary tasks,all_starts,3.3796296296296298,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,4,single_task_Delta greedy,all_starts,4.611111111111111,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,4,single_task_GP + EI,all_starts,3.9166666666666665,9,7,1,7,True
+in_vivo_clearance,minimum_size,20,4,single_task_NAP,all_starts,5.314814814814815,9,7,1,7,True
+protein_binding,minimum_size,20,1,Cross-fitted single-task NAP,all_starts,7.342948717948717,26,17,1,17,True
+protein_binding,minimum_size,20,1,Original NAP + top-k auxiliary tasks,all_starts,7.471153846153846,26,17,1,17,True
+protein_binding,minimum_size,20,1,Random,all_starts,15.0,26,17,1,17,True
+protein_binding,minimum_size,20,1,Revised NAP + top-k auxiliary tasks,all_starts,7.352564102564102,26,17,1,17,True
+protein_binding,minimum_size,20,1,single_task_Delta greedy,all_starts,7.259615384615385,26,17,1,17,True
+protein_binding,minimum_size,20,1,single_task_GP + EI,all_starts,8.942307692307692,26,17,1,17,True
+protein_binding,minimum_size,20,1,single_task_NAP,all_starts,7.605769230769231,26,17,1,17,True
+protein_binding,minimum_size,20,2,Cross-fitted single-task NAP,all_starts,4.663461538461538,26,17,1,17,True
+protein_binding,minimum_size,20,2,Original NAP + top-k auxiliary tasks,all_starts,4.689102564102564,26,17,1,17,True
+protein_binding,minimum_size,20,2,Random,all_starts,9.666666666666668,26,17,1,17,True
+protein_binding,minimum_size,20,2,Revised NAP + top-k auxiliary tasks,all_starts,4.721153846153846,26,17,1,17,True
+protein_binding,minimum_size,20,2,single_task_Delta greedy,all_starts,5.096153846153846,26,17,1,17,True
+protein_binding,minimum_size,20,2,single_task_GP + EI,all_starts,6.009615384615385,26,17,1,17,True
+protein_binding,minimum_size,20,2,single_task_NAP,all_starts,4.855769230769231,26,17,1,17,True
+protein_binding,minimum_size,20,3,Cross-fitted single-task NAP,all_starts,3.935897435897436,26,17,1,17,True
+protein_binding,minimum_size,20,3,Original NAP + top-k auxiliary tasks,all_starts,3.6089743589743586,26,17,1,17,True
+protein_binding,minimum_size,20,3,Random,all_starts,7.3961538461538465,26,17,1,17,True
+protein_binding,minimum_size,20,3,Revised NAP + top-k auxiliary tasks,all_starts,3.94551282051282,26,17,1,17,True
+protein_binding,minimum_size,20,3,single_task_Delta greedy,all_starts,3.807692307692307,26,17,1,17,True
+protein_binding,minimum_size,20,3,single_task_GP + EI,all_starts,5.288461538461538,26,17,1,17,True
+protein_binding,minimum_size,20,3,single_task_NAP,all_starts,3.900641025641026,26,17,1,17,True
+protein_binding,minimum_size,20,4,Cross-fitted single-task NAP,all_starts,2.753205128205128,26,17,1,17,True
+protein_binding,minimum_size,20,4,Original NAP + top-k auxiliary tasks,all_starts,3.1858974358974357,26,17,1,17,True
+protein_binding,minimum_size,20,4,Random,all_starts,6.0,26,17,1,17,True
+protein_binding,minimum_size,20,4,Revised NAP + top-k auxiliary tasks,all_starts,2.7403846153846154,26,17,1,17,True
+protein_binding,minimum_size,20,4,single_task_Delta greedy,all_starts,2.576923076923077,26,17,1,17,True
+protein_binding,minimum_size,20,4,single_task_GP + EI,all_starts,3.894230769230769,26,17,1,17,True
+protein_binding,minimum_size,20,4,single_task_NAP,all_starts,3.4903846153846154,26,17,1,17,True
+cellular_clearance,minimum_size,20,1,Cross-fitted single-task NAP,all_starts,7.101666666666667,50,33,1,33,True
+cellular_clearance,minimum_size,20,1,Original NAP + top-k auxiliary tasks,all_starts,8.561666666666666,50,33,1,33,True
+cellular_clearance,minimum_size,20,1,Random,all_starts,11.313666666666668,50,33,1,33,True
+cellular_clearance,minimum_size,20,1,Revised NAP + top-k auxiliary tasks,all_starts,7.031666666666666,50,33,1,33,True
+cellular_clearance,minimum_size,20,1,single_task_Delta greedy,all_starts,7.38,50,33,1,33,True
+cellular_clearance,minimum_size,20,1,single_task_GP + EI,all_starts,7.895,50,33,1,33,True
+cellular_clearance,minimum_size,20,1,single_task_NAP,all_starts,8.06,50,33,1,33,True
+cellular_clearance,minimum_size,20,2,Cross-fitted single-task NAP,all_starts,4.513333333333333,50,33,1,33,True
+cellular_clearance,minimum_size,20,2,Original NAP + top-k auxiliary tasks,all_starts,5.8933333333333335,50,33,1,33,True
+cellular_clearance,minimum_size,20,2,Random,all_starts,7.922000000000001,50,33,1,33,True
+cellular_clearance,minimum_size,20,2,Revised NAP + top-k auxiliary tasks,all_starts,4.515,50,33,1,33,True
+cellular_clearance,minimum_size,20,2,single_task_Delta greedy,all_starts,5.06,50,33,1,33,True
+cellular_clearance,minimum_size,20,2,single_task_GP + EI,all_starts,5.315,50,33,1,33,True
+cellular_clearance,minimum_size,20,2,single_task_NAP,all_starts,5.471666666666667,50,33,1,33,True
+cellular_clearance,minimum_size,20,3,Cross-fitted single-task NAP,all_starts,3.765,50,33,1,33,True
+cellular_clearance,minimum_size,20,3,Original NAP + top-k auxiliary tasks,all_starts,4.8133333333333335,50,33,1,33,True
+cellular_clearance,minimum_size,20,3,Random,all_starts,6.2410000000000005,50,33,1,33,True
+cellular_clearance,minimum_size,20,3,Revised NAP + top-k auxiliary tasks,all_starts,3.825,50,33,1,33,True
+cellular_clearance,minimum_size,20,3,single_task_Delta greedy,all_starts,3.36,50,33,1,33,True
+cellular_clearance,minimum_size,20,3,single_task_GP + EI,all_starts,4.475,50,33,1,33,True
+cellular_clearance,minimum_size,20,3,single_task_NAP,all_starts,4.48,50,33,1,33,True
+cellular_clearance,minimum_size,20,4,Cross-fitted single-task NAP,all_starts,3.268333333333333,50,33,1,33,True
+cellular_clearance,minimum_size,20,4,Original NAP + top-k auxiliary tasks,all_starts,4.0183333333333335,50,33,1,33,True
+cellular_clearance,minimum_size,20,4,Random,all_starts,5.217666666666666,50,33,1,33,True
+cellular_clearance,minimum_size,20,4,Revised NAP + top-k auxiliary tasks,all_starts,3.283333333333333,50,33,1,33,True
+cellular_clearance,minimum_size,20,4,single_task_Delta greedy,all_starts,2.935,50,33,1,33,True
+cellular_clearance,minimum_size,20,4,single_task_GP + EI,all_starts,4.04,50,33,1,33,True
+cellular_clearance,minimum_size,20,4,single_task_NAP,all_starts,3.983333333333333,50,33,1,33,True
+permeability,minimum_size,20,1,Cross-fitted single-task NAP,all_starts,10.685416666666669,40,34,1,34,True
+permeability,minimum_size,20,1,Original NAP + top-k auxiliary tasks,all_starts,11.09375,40,34,1,34,True
+permeability,minimum_size,20,1,Random,all_starts,14.9125,40,34,1,34,True
+permeability,minimum_size,20,1,Revised NAP + top-k auxiliary tasks,all_starts,10.535416666666666,40,34,1,34,True
+permeability,minimum_size,20,1,single_task_Delta greedy,all_starts,13.01875,40,34,1,34,True
+permeability,minimum_size,20,1,single_task_GP + EI,all_starts,9.2125,40,34,1,34,True
+permeability,minimum_size,20,1,single_task_NAP,all_starts,11.516666666666667,40,34,1,34,True
+permeability,minimum_size,20,2,Cross-fitted single-task NAP,all_starts,6.225,40,34,1,34,True
+permeability,minimum_size,20,2,Original NAP + top-k auxiliary tasks,all_starts,7.316666666666667,40,34,1,34,True
+permeability,minimum_size,20,2,Random,all_starts,10.066666666666666,40,34,1,34,True
+permeability,minimum_size,20,2,Revised NAP + top-k auxiliary tasks,all_starts,6.19375,40,34,1,34,True
+permeability,minimum_size,20,2,single_task_Delta greedy,all_starts,7.81875,40,34,1,34,True
+permeability,minimum_size,20,2,single_task_GP + EI,all_starts,6.88125,40,34,1,34,True
+permeability,minimum_size,20,2,single_task_NAP,all_starts,7.5875,40,34,1,34,True
+permeability,minimum_size,20,3,Cross-fitted single-task NAP,all_starts,4.6083333333333325,40,34,1,34,True
+permeability,minimum_size,20,3,Original NAP + top-k auxiliary tasks,all_starts,5.54375,40,34,1,34,True
+permeability,minimum_size,20,3,Random,all_starts,7.3725,40,34,1,34,True
+permeability,minimum_size,20,3,Revised NAP + top-k auxiliary tasks,all_starts,4.558333333333334,40,34,1,34,True
+permeability,minimum_size,20,3,single_task_Delta greedy,all_starts,6.8375,40,34,1,34,True
+permeability,minimum_size,20,3,single_task_GP + EI,all_starts,5.26875,40,34,1,34,True
+permeability,minimum_size,20,3,single_task_NAP,all_starts,5.902083333333334,40,34,1,34,True
+permeability,minimum_size,20,4,Cross-fitted single-task NAP,all_starts,3.54375,40,34,1,34,True
+permeability,minimum_size,20,4,Original NAP + top-k auxiliary tasks,all_starts,4.754166666666666,40,34,1,34,True
+permeability,minimum_size,20,4,Random,all_starts,6.04,40,34,1,34,True
+permeability,minimum_size,20,4,Revised NAP + top-k auxiliary tasks,all_starts,3.5354166666666664,40,34,1,34,True
+permeability,minimum_size,20,4,single_task_Delta greedy,all_starts,5.8,40,34,1,34,True
+permeability,minimum_size,20,4,single_task_GP + EI,all_starts,4.48125,40,34,1,34,True
+permeability,minimum_size,20,4,single_task_NAP,all_starts,4.735416666666667,40,34,1,34,True
+efflux,minimum_size,20,1,Cross-fitted single-task NAP,all_starts,8.451923076923077,26,25,1,25,True
+efflux,minimum_size,20,1,Original NAP + top-k auxiliary tasks,all_starts,11.291666666666666,26,25,1,25,True
+efflux,minimum_size,20,1,Random,all_starts,11.91025641025641,26,25,1,25,True
+efflux,minimum_size,20,1,Revised NAP + top-k auxiliary tasks,all_starts,8.23076923076923,26,25,1,25,True
+efflux,minimum_size,20,1,single_task_Delta greedy,all_starts,9.23076923076923,26,25,1,25,True
+efflux,minimum_size,20,1,single_task_GP + EI,all_starts,7.173076923076923,26,25,1,25,True
+efflux,minimum_size,20,1,single_task_NAP,all_starts,11.560897435897434,26,25,1,25,True
+efflux,minimum_size,20,2,Cross-fitted single-task NAP,all_starts,5.413461538461538,26,25,1,25,True
+efflux,minimum_size,20,2,Original NAP + top-k auxiliary tasks,all_starts,7.246794871794871,26,25,1,25,True
+efflux,minimum_size,20,2,Random,all_starts,7.855769230769231,26,25,1,25,True
+efflux,minimum_size,20,2,Revised NAP + top-k auxiliary tasks,all_starts,5.33974358974359,26,25,1,25,True
+efflux,minimum_size,20,2,single_task_Delta greedy,all_starts,6.961538461538462,26,25,1,25,True
+efflux,minimum_size,20,2,single_task_GP + EI,all_starts,4.480769230769231,26,25,1,25,True
+efflux,minimum_size,20,2,single_task_NAP,all_starts,7.778846153846154,26,25,1,25,True
+efflux,minimum_size,20,3,Cross-fitted single-task NAP,all_starts,3.7371794871794872,26,25,1,25,True
+efflux,minimum_size,20,3,Original NAP + top-k auxiliary tasks,all_starts,5.506410256410256,26,25,1,25,True
+efflux,minimum_size,20,3,Random,all_starts,6.065544871794872,26,25,1,25,True
+efflux,minimum_size,20,3,Revised NAP + top-k auxiliary tasks,all_starts,3.705128205128205,26,25,1,25,True
+efflux,minimum_size,20,3,single_task_Delta greedy,all_starts,5.4423076923076925,26,25,1,25,True
+efflux,minimum_size,20,3,single_task_GP + EI,all_starts,3.519230769230769,26,25,1,25,True
+efflux,minimum_size,20,3,single_task_NAP,all_starts,6.1089743589743595,26,25,1,25,True
+efflux,minimum_size,20,4,Cross-fitted single-task NAP,all_starts,3.282051282051282,26,25,1,25,True
+efflux,minimum_size,20,4,Original NAP + top-k auxiliary tasks,all_starts,4.230769230769231,26,25,1,25,True
+efflux,minimum_size,20,4,Random,all_starts,4.901350732600733,26,25,1,25,True
+efflux,minimum_size,20,4,Revised NAP + top-k auxiliary tasks,all_starts,3.246794871794872,26,25,1,25,True
+efflux,minimum_size,20,4,single_task_Delta greedy,all_starts,4.0,26,25,1,25,True
+efflux,minimum_size,20,4,single_task_GP + EI,all_starts,3.2788461538461537,26,25,1,25,True
+efflux,minimum_size,20,4,single_task_NAP,all_starts,4.6506410256410255,26,25,1,25,True
+microsomal_clearance,minimum_size,25,1,Cross-fitted single-task NAP,all_starts,6.462053571428571,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,Original NAP + top-k auxiliary tasks,all_starts,7.799107142857143,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,Random,all_starts,11.365781126115948,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,Revised NAP + top-k auxiliary tasks,all_starts,6.4940476190476195,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,single_task_Delta greedy,all_starts,7.497767857142857,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,single_task_GP + EI,all_starts,7.169642857142857,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,single_task_NAP,all_starts,7.5840773809523805,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,Cross-fitted single-task NAP,all_starts,4.576636904761905,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,Original NAP + top-k auxiliary tasks,all_starts,4.781994047619048,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,Random,all_starts,8.178281126115948,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,Revised NAP + top-k auxiliary tasks,all_starts,4.628720238095238,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,single_task_Delta greedy,all_starts,5.033482142857143,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,single_task_GP + EI,all_starts,4.962053571428571,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,single_task_NAP,all_starts,4.905505952380952,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,Cross-fitted single-task NAP,all_starts,3.572172619047619,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,Original NAP + top-k auxiliary tasks,all_starts,3.505208333333333,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,Random,all_starts,6.632975390185211,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,Revised NAP + top-k auxiliary tasks,all_starts,3.621279761904762,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,single_task_Delta greedy,all_starts,3.915178571428571,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,single_task_GP + EI,all_starts,4.017857142857143,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,single_task_NAP,all_starts,3.712053571428571,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,Cross-fitted single-task NAP,all_starts,3.0669642857142856,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,Original NAP + top-k auxiliary tasks,all_starts,2.9985119047619047,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,Random,all_starts,5.632448833408654,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,Revised NAP + top-k auxiliary tasks,all_starts,3.0907738095238098,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,single_task_Delta greedy,all_starts,3.109375,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,single_task_GP + EI,all_starts,3.421875,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,single_task_NAP,all_starts,3.1651785714285716,112,71,1,71,True
+in_vivo_clearance,minimum_size,25,1,Cross-fitted single-task NAP,all_starts,11.333333333333332,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,1,Original NAP + top-k auxiliary tasks,all_starts,15.55,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,1,Random,all_starts,15.4,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,1,Revised NAP + top-k auxiliary tasks,all_starts,11.3,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,1,single_task_Delta greedy,all_starts,14.05,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,1,single_task_GP + EI,all_starts,10.55,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,1,single_task_NAP,all_starts,15.883333333333336,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,2,Cross-fitted single-task NAP,all_starts,6.45,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,2,Original NAP + top-k auxiliary tasks,all_starts,14.25,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,2,Random,all_starts,10.266666666666666,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,2,Revised NAP + top-k auxiliary tasks,all_starts,6.416666666666667,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,2,single_task_Delta greedy,all_starts,11.55,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,2,single_task_GP + EI,all_starts,9.6,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,2,single_task_NAP,all_starts,13.75,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,3,Cross-fitted single-task NAP,all_starts,3.9,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,3,Original NAP + top-k auxiliary tasks,all_starts,9.05,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,3,Random,all_starts,7.7,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,3,Revised NAP + top-k auxiliary tasks,all_starts,3.866666666666667,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,3,single_task_Delta greedy,all_starts,4.75,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,3,single_task_GP + EI,all_starts,5.95,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,3,single_task_NAP,all_starts,8.033333333333333,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,4,Cross-fitted single-task NAP,all_starts,3.9,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,4,Original NAP + top-k auxiliary tasks,all_starts,7.6,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,4,Random,all_starts,5.886666666666667,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,4,Revised NAP + top-k auxiliary tasks,all_starts,3.866666666666667,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,4,single_task_Delta greedy,all_starts,4.35,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,4,single_task_GP + EI,all_starts,5.95,5,3,1,3,True
+in_vivo_clearance,minimum_size,25,4,single_task_NAP,all_starts,6.316666666666667,5,3,1,3,True
+protein_binding,minimum_size,25,1,Cross-fitted single-task NAP,all_starts,8.505555555555555,15,11,1,11,True
+protein_binding,minimum_size,25,1,Original NAP + top-k auxiliary tasks,all_starts,7.944444444444445,15,11,1,11,True
+protein_binding,minimum_size,25,1,Random,all_starts,18.266666666666666,15,11,1,11,True
+protein_binding,minimum_size,25,1,Revised NAP + top-k auxiliary tasks,all_starts,8.511111111111111,15,11,1,11,True
+protein_binding,minimum_size,25,1,single_task_Delta greedy,all_starts,8.6,15,11,1,11,True
+protein_binding,minimum_size,25,1,single_task_GP + EI,all_starts,10.216666666666669,15,11,1,11,True
+protein_binding,minimum_size,25,1,single_task_NAP,all_starts,8.594444444444443,15,11,1,11,True
+protein_binding,minimum_size,25,2,Cross-fitted single-task NAP,all_starts,5.038888888888889,15,11,1,11,True
+protein_binding,minimum_size,25,2,Original NAP + top-k auxiliary tasks,all_starts,4.266666666666667,15,11,1,11,True
+protein_binding,minimum_size,25,2,Random,all_starts,11.822222222222225,15,11,1,11,True
+protein_binding,minimum_size,25,2,Revised NAP + top-k auxiliary tasks,all_starts,5.088888888888889,15,11,1,11,True
+protein_binding,minimum_size,25,2,single_task_Delta greedy,all_starts,5.316666666666666,15,11,1,11,True
+protein_binding,minimum_size,25,2,single_task_GP + EI,all_starts,6.333333333333333,15,11,1,11,True
+protein_binding,minimum_size,25,2,single_task_NAP,all_starts,4.877777777777778,15,11,1,11,True
+protein_binding,minimum_size,25,3,Cross-fitted single-task NAP,all_starts,3.905555555555556,15,11,1,11,True
+protein_binding,minimum_size,25,3,Original NAP + top-k auxiliary tasks,all_starts,3.9611111111111112,15,11,1,11,True
+protein_binding,minimum_size,25,3,Random,all_starts,9.023333333333332,15,11,1,11,True
+protein_binding,minimum_size,25,3,Revised NAP + top-k auxiliary tasks,all_starts,3.894444444444445,15,11,1,11,True
+protein_binding,minimum_size,25,3,single_task_Delta greedy,all_starts,3.8333333333333335,15,11,1,11,True
+protein_binding,minimum_size,25,3,single_task_GP + EI,all_starts,5.45,15,11,1,11,True
+protein_binding,minimum_size,25,3,single_task_NAP,all_starts,4.422222222222222,15,11,1,11,True
+protein_binding,minimum_size,25,4,Cross-fitted single-task NAP,all_starts,3.344444444444444,15,11,1,11,True
+protein_binding,minimum_size,25,4,Original NAP + top-k auxiliary tasks,all_starts,3.6166666666666663,15,11,1,11,True
+protein_binding,minimum_size,25,4,Random,all_starts,7.306666666666667,15,11,1,11,True
+protein_binding,minimum_size,25,4,Revised NAP + top-k auxiliary tasks,all_starts,3.3277777777777775,15,11,1,11,True
+protein_binding,minimum_size,25,4,single_task_Delta greedy,all_starts,3.15,15,11,1,11,True
+protein_binding,minimum_size,25,4,single_task_GP + EI,all_starts,4.3,15,11,1,11,True
+protein_binding,minimum_size,25,4,single_task_NAP,all_starts,4.166666666666667,15,11,1,11,True
+cellular_clearance,minimum_size,25,1,Cross-fitted single-task NAP,all_starts,7.862903225806452,31,24,1,24,True
+cellular_clearance,minimum_size,25,1,Original NAP + top-k auxiliary tasks,all_starts,9.39784946236559,31,24,1,24,True
+cellular_clearance,minimum_size,25,1,Random,all_starts,13.376881720430108,31,24,1,24,True
+cellular_clearance,minimum_size,25,1,Revised NAP + top-k auxiliary tasks,all_starts,7.739247311827957,31,24,1,24,True
+cellular_clearance,minimum_size,25,1,single_task_Delta greedy,all_starts,8.5,31,24,1,24,True
+cellular_clearance,minimum_size,25,1,single_task_GP + EI,all_starts,8.766129032258064,31,24,1,24,True
+cellular_clearance,minimum_size,25,1,single_task_NAP,all_starts,8.978494623655914,31,24,1,24,True
+cellular_clearance,minimum_size,25,2,Cross-fitted single-task NAP,all_starts,5.801075268817205,31,24,1,24,True
+cellular_clearance,minimum_size,25,2,Original NAP + top-k auxiliary tasks,all_starts,6.951612903225806,31,24,1,24,True
+cellular_clearance,minimum_size,25,2,Random,all_starts,9.465591397849462,31,24,1,24,True
+cellular_clearance,minimum_size,25,2,Revised NAP + top-k auxiliary tasks,all_starts,5.865591397849463,31,24,1,24,True
+cellular_clearance,minimum_size,25,2,single_task_Delta greedy,all_starts,6.07258064516129,31,24,1,24,True
+cellular_clearance,minimum_size,25,2,single_task_GP + EI,all_starts,6.306451612903226,31,24,1,24,True
+cellular_clearance,minimum_size,25,2,single_task_NAP,all_starts,6.688172043010753,31,24,1,24,True
+cellular_clearance,minimum_size,25,3,Cross-fitted single-task NAP,all_starts,4.838709677419355,31,24,1,24,True
+cellular_clearance,minimum_size,25,3,Original NAP + top-k auxiliary tasks,all_starts,5.64247311827957,31,24,1,24,True
+cellular_clearance,minimum_size,25,3,Random,all_starts,7.318817204301075,31,24,1,24,True
+cellular_clearance,minimum_size,25,3,Revised NAP + top-k auxiliary tasks,all_starts,4.932795698924731,31,24,1,24,True
+cellular_clearance,minimum_size,25,3,single_task_Delta greedy,all_starts,3.766129032258065,31,24,1,24,True
+cellular_clearance,minimum_size,25,3,single_task_GP + EI,all_starts,5.57258064516129,31,24,1,24,True
+cellular_clearance,minimum_size,25,3,single_task_NAP,all_starts,5.314516129032258,31,24,1,24,True
+cellular_clearance,minimum_size,25,4,Cross-fitted single-task NAP,all_starts,4.134408602150537,31,24,1,24,True
+cellular_clearance,minimum_size,25,4,Original NAP + top-k auxiliary tasks,all_starts,4.561827956989247,31,24,1,24,True
+cellular_clearance,minimum_size,25,4,Random,all_starts,6.169354838709677,31,24,1,24,True
+cellular_clearance,minimum_size,25,4,Revised NAP + top-k auxiliary tasks,all_starts,4.166666666666666,31,24,1,24,True
+cellular_clearance,minimum_size,25,4,single_task_Delta greedy,all_starts,3.1129032258064515,31,24,1,24,True
+cellular_clearance,minimum_size,25,4,single_task_GP + EI,all_starts,5.040322580645161,31,24,1,24,True
+cellular_clearance,minimum_size,25,4,single_task_NAP,all_starts,4.658602150537634,31,24,1,24,True
+permeability,minimum_size,25,1,Cross-fitted single-task NAP,all_starts,12.944444444444445,24,21,1,21,True
+permeability,minimum_size,25,1,Original NAP + top-k auxiliary tasks,all_starts,13.600694444444445,24,21,1,21,True
+permeability,minimum_size,25,1,Random,all_starts,17.84722222222222,24,21,1,21,True
+permeability,minimum_size,25,1,Revised NAP + top-k auxiliary tasks,all_starts,12.84375,24,21,1,21,True
+permeability,minimum_size,25,1,single_task_Delta greedy,all_starts,16.416666666666668,24,21,1,21,True
+permeability,minimum_size,25,1,single_task_GP + EI,all_starts,11.020833333333334,24,21,1,21,True
+permeability,minimum_size,25,1,single_task_NAP,all_starts,13.524305555555555,24,21,1,21,True
+permeability,minimum_size,25,2,Cross-fitted single-task NAP,all_starts,6.670138888888889,24,21,1,21,True
+permeability,minimum_size,25,2,Original NAP + top-k auxiliary tasks,all_starts,9.135416666666666,24,21,1,21,True
+permeability,minimum_size,25,2,Random,all_starts,12.013888888888893,24,21,1,21,True
+permeability,minimum_size,25,2,Revised NAP + top-k auxiliary tasks,all_starts,6.625,24,21,1,21,True
+permeability,minimum_size,25,2,single_task_Delta greedy,all_starts,9.40625,24,21,1,21,True
+permeability,minimum_size,25,2,single_task_GP + EI,all_starts,7.625,24,21,1,21,True
+permeability,minimum_size,25,2,single_task_NAP,all_starts,9.083333333333334,24,21,1,21,True
+permeability,minimum_size,25,3,Cross-fitted single-task NAP,all_starts,5.361111111111111,24,21,1,21,True
+permeability,minimum_size,25,3,Original NAP + top-k auxiliary tasks,all_starts,6.864583333333333,24,21,1,21,True
+permeability,minimum_size,25,3,Random,all_starts,8.893749999999999,24,21,1,21,True
+permeability,minimum_size,25,3,Revised NAP + top-k auxiliary tasks,all_starts,5.277777777777778,24,21,1,21,True
+permeability,minimum_size,25,3,single_task_Delta greedy,all_starts,8.739583333333334,24,21,1,21,True
+permeability,minimum_size,25,3,single_task_GP + EI,all_starts,6.208333333333333,24,21,1,21,True
+permeability,minimum_size,25,3,single_task_NAP,all_starts,6.927083333333333,24,21,1,21,True
+permeability,minimum_size,25,4,Cross-fitted single-task NAP,all_starts,4.1875,24,21,1,21,True
+permeability,minimum_size,25,4,Original NAP + top-k auxiliary tasks,all_starts,5.986111111111111,24,21,1,21,True
+permeability,minimum_size,25,4,Random,all_starts,7.208333333333333,24,21,1,21,True
+permeability,minimum_size,25,4,Revised NAP + top-k auxiliary tasks,all_starts,4.232638888888888,24,21,1,21,True
+permeability,minimum_size,25,4,single_task_Delta greedy,all_starts,7.291666666666667,24,21,1,21,True
+permeability,minimum_size,25,4,single_task_GP + EI,all_starts,5.510416666666667,24,21,1,21,True
+permeability,minimum_size,25,4,single_task_NAP,all_starts,5.871527777777778,24,21,1,21,True
+efflux,minimum_size,25,1,Cross-fitted single-task NAP,all_starts,9.828703703703702,18,18,1,18,True
+efflux,minimum_size,25,1,Original NAP + top-k auxiliary tasks,all_starts,12.087962962962964,18,18,1,18,True
+efflux,minimum_size,25,1,Random,all_starts,12.87037037037037,18,18,1,18,True
+efflux,minimum_size,25,1,Revised NAP + top-k auxiliary tasks,all_starts,9.578703703703702,18,18,1,18,True
+efflux,minimum_size,25,1,single_task_Delta greedy,all_starts,10.958333333333334,18,18,1,18,True
+efflux,minimum_size,25,1,single_task_GP + EI,all_starts,7.666666666666667,18,18,1,18,True
+efflux,minimum_size,25,1,single_task_NAP,all_starts,12.666666666666666,18,18,1,18,True
+efflux,minimum_size,25,2,Cross-fitted single-task NAP,all_starts,5.657407407407407,18,18,1,18,True
+efflux,minimum_size,25,2,Original NAP + top-k auxiliary tasks,all_starts,7.236111111111111,18,18,1,18,True
+efflux,minimum_size,25,2,Random,all_starts,8.347222222222221,18,18,1,18,True
+efflux,minimum_size,25,2,Revised NAP + top-k auxiliary tasks,all_starts,5.537037037037037,18,18,1,18,True
+efflux,minimum_size,25,2,single_task_Delta greedy,all_starts,7.680555555555555,18,18,1,18,True
+efflux,minimum_size,25,2,single_task_GP + EI,all_starts,4.680555555555555,18,18,1,18,True
+efflux,minimum_size,25,2,single_task_NAP,all_starts,7.824074074074074,18,18,1,18,True
+efflux,minimum_size,25,3,Cross-fitted single-task NAP,all_starts,3.935185185185185,18,18,1,18,True
+efflux,minimum_size,25,3,Original NAP + top-k auxiliary tasks,all_starts,4.861111111111111,18,18,1,18,True
+efflux,minimum_size,25,3,Random,all_starts,6.3724537037037035,18,18,1,18,True
+efflux,minimum_size,25,3,Revised NAP + top-k auxiliary tasks,all_starts,3.8796296296296298,18,18,1,18,True
+efflux,minimum_size,25,3,single_task_Delta greedy,all_starts,6.152777777777778,18,18,1,18,True
+efflux,minimum_size,25,3,single_task_GP + EI,all_starts,3.4027777777777777,18,18,1,18,True
+efflux,minimum_size,25,3,single_task_NAP,all_starts,5.634259259259259,18,18,1,18,True
+efflux,minimum_size,25,4,Cross-fitted single-task NAP,all_starts,3.2870370370370368,18,18,1,18,True
+efflux,minimum_size,25,4,Original NAP + top-k auxiliary tasks,all_starts,3.685185185185185,18,18,1,18,True
+efflux,minimum_size,25,4,Random,all_starts,5.124173280423281,18,18,1,18,True
+efflux,minimum_size,25,4,Revised NAP + top-k auxiliary tasks,all_starts,3.2453703703703702,18,18,1,18,True
+efflux,minimum_size,25,4,single_task_Delta greedy,all_starts,4.083333333333333,18,18,1,18,True
+efflux,minimum_size,25,4,single_task_GP + EI,all_starts,3.0555555555555554,18,18,1,18,True
+efflux,minimum_size,25,4,single_task_NAP,all_starts,4.180555555555555,18,18,1,18,True
+microsomal_clearance,minimum_size,30,1,Cross-fitted single-task NAP,all_starts,6.322769953051643,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,Original NAP + top-k auxiliary tasks,all_starts,7.860328638497653,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,Random,all_starts,12.803907137463476,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,Revised NAP + top-k auxiliary tasks,all_starts,6.404929577464789,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,single_task_Delta greedy,all_starts,7.429577464788732,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,single_task_GP + EI,all_starts,7.362676056338028,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,single_task_NAP,all_starts,7.64319248826291,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,Cross-fitted single-task NAP,all_starts,4.673708920187793,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,Original NAP + top-k auxiliary tasks,all_starts,4.841549295774648,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,Random,all_starts,9.313296808824978,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,Revised NAP + top-k auxiliary tasks,all_starts,4.77112676056338,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,single_task_Delta greedy,all_starts,4.859154929577465,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,single_task_GP + EI,all_starts,5.28169014084507,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,single_task_NAP,all_starts,5.05868544600939,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,Cross-fitted single-task NAP,all_starts,3.4295774647887325,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,Original NAP + top-k auxiliary tasks,all_starts,3.5082159624413145,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,Random,all_starts,7.532204192521093,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,Revised NAP + top-k auxiliary tasks,all_starts,3.5305164319248825,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,single_task_Delta greedy,all_starts,3.774647887323943,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,single_task_GP + EI,all_starts,4.035211267605634,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,single_task_NAP,all_starts,3.799295774647887,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,Cross-fitted single-task NAP,all_starts,3.022300469483568,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,Original NAP + top-k auxiliary tasks,all_starts,2.9178403755868545,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,Random,all_starts,6.429260891690469,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,Revised NAP + top-k auxiliary tasks,all_starts,3.09037558685446,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,single_task_Delta greedy,all_starts,2.9859154929577465,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,single_task_GP + EI,all_starts,3.5774647887323945,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,single_task_NAP,all_starts,3.2089201877934275,71,45,1,45,True
+in_vivo_clearance,minimum_size,30,1,Cross-fitted single-task NAP,all_starts,3.7916666666666665,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,1,Original NAP + top-k auxiliary tasks,all_starts,13.416666666666666,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,1,Random,all_starts,18.5,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,1,Revised NAP + top-k auxiliary tasks,all_starts,3.7083333333333335,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,1,single_task_Delta greedy,all_starts,13.5,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,1,single_task_GP + EI,all_starts,4.0,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,1,single_task_NAP,all_starts,16.208333333333332,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,2,Cross-fitted single-task NAP,all_starts,3.7916666666666665,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,2,Original NAP + top-k auxiliary tasks,all_starts,13.416666666666666,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,2,Random,all_starts,12.333333333333332,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,2,Revised NAP + top-k auxiliary tasks,all_starts,3.7083333333333335,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,2,single_task_Delta greedy,all_starts,13.5,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,2,single_task_GP + EI,all_starts,4.0,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,2,single_task_NAP,all_starts,15.541666666666668,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,3,Cross-fitted single-task NAP,all_starts,3.7916666666666665,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,3,Original NAP + top-k auxiliary tasks,all_starts,9.75,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,3,Random,all_starts,9.25,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,3,Revised NAP + top-k auxiliary tasks,all_starts,3.7083333333333335,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,3,single_task_Delta greedy,all_starts,4.75,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,3,single_task_GP + EI,all_starts,4.0,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,3,single_task_NAP,all_starts,10.75,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,4,Cross-fitted single-task NAP,all_starts,3.7916666666666665,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,4,Original NAP + top-k auxiliary tasks,all_starts,9.083333333333332,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,4,Random,all_starts,6.716666666666667,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,4,Revised NAP + top-k auxiliary tasks,all_starts,3.7083333333333335,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,4,single_task_Delta greedy,all_starts,4.75,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,4,single_task_GP + EI,all_starts,4.0,2,2,1,2,True
+in_vivo_clearance,minimum_size,30,4,single_task_NAP,all_starts,9.458333333333334,2,2,1,2,True
+protein_binding,minimum_size,30,1,Cross-fitted single-task NAP,all_starts,7.925925925925926,9,7,1,7,True
+protein_binding,minimum_size,30,1,Original NAP + top-k auxiliary tasks,all_starts,8.824074074074074,9,7,1,7,True
+protein_binding,minimum_size,30,1,Random,all_starts,21.333333333333332,9,7,1,7,True
+protein_binding,minimum_size,30,1,Revised NAP + top-k auxiliary tasks,all_starts,7.972222222222222,9,7,1,7,True
+protein_binding,minimum_size,30,1,single_task_Delta greedy,all_starts,9.0,9,7,1,7,True
+protein_binding,minimum_size,30,1,single_task_GP + EI,all_starts,11.666666666666666,9,7,1,7,True
+protein_binding,minimum_size,30,1,single_task_NAP,all_starts,9.75,9,7,1,7,True
+protein_binding,minimum_size,30,2,Cross-fitted single-task NAP,all_starts,6.231481481481482,9,7,1,7,True
+protein_binding,minimum_size,30,2,Original NAP + top-k auxiliary tasks,all_starts,4.62037037037037,9,7,1,7,True
+protein_binding,minimum_size,30,2,Random,all_starts,13.87962962962963,9,7,1,7,True
+protein_binding,minimum_size,30,2,Revised NAP + top-k auxiliary tasks,all_starts,6.333333333333333,9,7,1,7,True
+protein_binding,minimum_size,30,2,single_task_Delta greedy,all_starts,5.277777777777778,9,7,1,7,True
+protein_binding,minimum_size,30,2,single_task_GP + EI,all_starts,7.5,9,7,1,7,True
+protein_binding,minimum_size,30,2,single_task_NAP,all_starts,5.444444444444445,9,7,1,7,True
+protein_binding,minimum_size,30,3,Cross-fitted single-task NAP,all_starts,4.342592592592593,9,7,1,7,True
+protein_binding,minimum_size,30,3,Original NAP + top-k auxiliary tasks,all_starts,4.361111111111111,9,7,1,7,True
+protein_binding,minimum_size,30,3,Random,all_starts,10.483333333333333,9,7,1,7,True
+protein_binding,minimum_size,30,3,Revised NAP + top-k auxiliary tasks,all_starts,4.342592592592593,9,7,1,7,True
+protein_binding,minimum_size,30,3,single_task_Delta greedy,all_starts,2.8055555555555554,9,7,1,7,True
+protein_binding,minimum_size,30,3,single_task_GP + EI,all_starts,6.027777777777778,9,7,1,7,True
+protein_binding,minimum_size,30,3,single_task_NAP,all_starts,5.0,9,7,1,7,True
+protein_binding,minimum_size,30,4,Cross-fitted single-task NAP,all_starts,3.407407407407407,9,7,1,7,True
+protein_binding,minimum_size,30,4,Original NAP + top-k auxiliary tasks,all_starts,4.027777777777778,9,7,1,7,True
+protein_binding,minimum_size,30,4,Random,all_starts,8.533333333333333,9,7,1,7,True
+protein_binding,minimum_size,30,4,Revised NAP + top-k auxiliary tasks,all_starts,3.398148148148148,9,7,1,7,True
+protein_binding,minimum_size,30,4,single_task_Delta greedy,all_starts,2.361111111111111,9,7,1,7,True
+protein_binding,minimum_size,30,4,single_task_GP + EI,all_starts,4.5,9,7,1,7,True
+protein_binding,minimum_size,30,4,single_task_NAP,all_starts,4.703703703703704,9,7,1,7,True
+cellular_clearance,minimum_size,30,1,Cross-fitted single-task NAP,all_starts,6.966666666666667,20,15,1,15,True
+cellular_clearance,minimum_size,30,1,Original NAP + top-k auxiliary tasks,all_starts,9.741666666666667,20,15,1,15,True
+cellular_clearance,minimum_size,30,1,Random,all_starts,13.5675,20,15,1,15,True
+cellular_clearance,minimum_size,30,1,Revised NAP + top-k auxiliary tasks,all_starts,6.604166666666667,20,15,1,15,True
+cellular_clearance,minimum_size,30,1,single_task_Delta greedy,all_starts,7.025,20,15,1,15,True
+cellular_clearance,minimum_size,30,1,single_task_GP + EI,all_starts,8.6625,20,15,1,15,True
+cellular_clearance,minimum_size,30,1,single_task_NAP,all_starts,8.908333333333333,20,15,1,15,True
+cellular_clearance,minimum_size,30,2,Cross-fitted single-task NAP,all_starts,5.883333333333334,20,15,1,15,True
+cellular_clearance,minimum_size,30,2,Original NAP + top-k auxiliary tasks,all_starts,7.4833333333333325,20,15,1,15,True
+cellular_clearance,minimum_size,30,2,Random,all_starts,9.755,20,15,1,15,True
+cellular_clearance,minimum_size,30,2,Revised NAP + top-k auxiliary tasks,all_starts,5.725,20,15,1,15,True
+cellular_clearance,minimum_size,30,2,single_task_Delta greedy,all_starts,6.025,20,15,1,15,True
+cellular_clearance,minimum_size,30,2,single_task_GP + EI,all_starts,6.3375,20,15,1,15,True
+cellular_clearance,minimum_size,30,2,single_task_NAP,all_starts,6.8125,20,15,1,15,True
+cellular_clearance,minimum_size,30,3,Cross-fitted single-task NAP,all_starts,5.408333333333333,20,15,1,15,True
+cellular_clearance,minimum_size,30,3,Original NAP + top-k auxiliary tasks,all_starts,6.879166666666667,20,15,1,15,True
+cellular_clearance,minimum_size,30,3,Random,all_starts,7.791666666666667,20,15,1,15,True
+cellular_clearance,minimum_size,30,3,Revised NAP + top-k auxiliary tasks,all_starts,5.25,20,15,1,15,True
+cellular_clearance,minimum_size,30,3,single_task_Delta greedy,all_starts,4.125,20,15,1,15,True
+cellular_clearance,minimum_size,30,3,single_task_GP + EI,all_starts,5.975,20,15,1,15,True
+cellular_clearance,minimum_size,30,3,single_task_NAP,all_starts,6.158333333333333,20,15,1,15,True
+cellular_clearance,minimum_size,30,4,Cross-fitted single-task NAP,all_starts,4.629166666666666,20,15,1,15,True
+cellular_clearance,minimum_size,30,4,Original NAP + top-k auxiliary tasks,all_starts,5.633333333333334,20,15,1,15,True
+cellular_clearance,minimum_size,30,4,Random,all_starts,6.657500000000001,20,15,1,15,True
+cellular_clearance,minimum_size,30,4,Revised NAP + top-k auxiliary tasks,all_starts,4.5375,20,15,1,15,True
+cellular_clearance,minimum_size,30,4,single_task_Delta greedy,all_starts,3.8875,20,15,1,15,True
+cellular_clearance,minimum_size,30,4,single_task_GP + EI,all_starts,5.15,20,15,1,15,True
+cellular_clearance,minimum_size,30,4,single_task_NAP,all_starts,5.595833333333333,20,15,1,15,True
+permeability,minimum_size,30,1,Cross-fitted single-task NAP,all_starts,14.685897435897434,13,12,1,12,True
+permeability,minimum_size,30,1,Original NAP + top-k auxiliary tasks,all_starts,13.685897435897434,13,12,1,12,True
+permeability,minimum_size,30,1,Random,all_starts,21.73076923076923,13,12,1,12,True
+permeability,minimum_size,30,1,Revised NAP + top-k auxiliary tasks,all_starts,14.621794871794872,13,12,1,12,True
+permeability,minimum_size,30,1,single_task_Delta greedy,all_starts,19.25,13,12,1,12,True
+permeability,minimum_size,30,1,single_task_GP + EI,all_starts,12.5,13,12,1,12,True
+permeability,minimum_size,30,1,single_task_NAP,all_starts,13.583333333333334,13,12,1,12,True
+permeability,minimum_size,30,2,Cross-fitted single-task NAP,all_starts,6.6923076923076925,13,12,1,12,True
+permeability,minimum_size,30,2,Original NAP + top-k auxiliary tasks,all_starts,10.166666666666666,13,12,1,12,True
+permeability,minimum_size,30,2,Random,all_starts,14.487179487179487,13,12,1,12,True
+permeability,minimum_size,30,2,Revised NAP + top-k auxiliary tasks,all_starts,6.814102564102564,13,12,1,12,True
+permeability,minimum_size,30,2,single_task_Delta greedy,all_starts,10.576923076923077,13,12,1,12,True
+permeability,minimum_size,30,2,single_task_GP + EI,all_starts,8.442307692307692,13,12,1,12,True
+permeability,minimum_size,30,2,single_task_NAP,all_starts,9.974358974358974,13,12,1,12,True
+permeability,minimum_size,30,3,Cross-fitted single-task NAP,all_starts,5.628205128205129,13,12,1,12,True
+permeability,minimum_size,30,3,Original NAP + top-k auxiliary tasks,all_starts,8.115384615384615,13,12,1,12,True
+permeability,minimum_size,30,3,Random,all_starts,10.865384615384617,13,12,1,12,True
+permeability,minimum_size,30,3,Revised NAP + top-k auxiliary tasks,all_starts,5.6923076923076925,13,12,1,12,True
+permeability,minimum_size,30,3,single_task_Delta greedy,all_starts,10.173076923076923,13,12,1,12,True
+permeability,minimum_size,30,3,single_task_GP + EI,all_starts,7.346153846153846,13,12,1,12,True
+permeability,minimum_size,30,3,single_task_NAP,all_starts,7.91025641025641,13,12,1,12,True
+permeability,minimum_size,30,4,Cross-fitted single-task NAP,all_starts,5.006410256410256,13,12,1,12,True
+permeability,minimum_size,30,4,Original NAP + top-k auxiliary tasks,all_starts,7.769230769230769,13,12,1,12,True
+permeability,minimum_size,30,4,Random,all_starts,8.692307692307692,13,12,1,12,True
+permeability,minimum_size,30,4,Revised NAP + top-k auxiliary tasks,all_starts,5.064102564102564,13,12,1,12,True
+permeability,minimum_size,30,4,single_task_Delta greedy,all_starts,8.98076923076923,13,12,1,12,True
+permeability,minimum_size,30,4,single_task_GP + EI,all_starts,6.8076923076923075,13,12,1,12,True
+permeability,minimum_size,30,4,single_task_NAP,all_starts,7.532051282051281,13,12,1,12,True
+efflux,minimum_size,30,1,Cross-fitted single-task NAP,all_starts,7.933333333333333,5,5,1,5,True
+efflux,minimum_size,30,1,Original NAP + top-k auxiliary tasks,all_starts,10.416666666666668,5,5,1,5,True
+efflux,minimum_size,30,1,Random,all_starts,14.7,5,5,1,5,True
+efflux,minimum_size,30,1,Revised NAP + top-k auxiliary tasks,all_starts,7.866666666666667,5,5,1,5,True
+efflux,minimum_size,30,1,single_task_Delta greedy,all_starts,7.25,5,5,1,5,True
+efflux,minimum_size,30,1,single_task_GP + EI,all_starts,8.05,5,5,1,5,True
+efflux,minimum_size,30,1,single_task_NAP,all_starts,10.65,5,5,1,5,True
+efflux,minimum_size,30,2,Cross-fitted single-task NAP,all_starts,4.5,5,5,1,5,True
+efflux,minimum_size,30,2,Original NAP + top-k auxiliary tasks,all_starts,7.566666666666667,5,5,1,5,True
+efflux,minimum_size,30,2,Random,all_starts,9.283333333333337,5,5,1,5,True
+efflux,minimum_size,30,2,Revised NAP + top-k auxiliary tasks,all_starts,4.45,5,5,1,5,True
+efflux,minimum_size,30,2,single_task_Delta greedy,all_starts,4.25,5,5,1,5,True
+efflux,minimum_size,30,2,single_task_GP + EI,all_starts,5.3,5,5,1,5,True
+efflux,minimum_size,30,2,single_task_NAP,all_starts,7.183333333333333,5,5,1,5,True
+efflux,minimum_size,30,3,Cross-fitted single-task NAP,all_starts,2.75,5,5,1,5,True
+efflux,minimum_size,30,3,Original NAP + top-k auxiliary tasks,all_starts,4.466666666666667,5,5,1,5,True
+efflux,minimum_size,30,3,Random,all_starts,8.1,5,5,1,5,True
+efflux,minimum_size,30,3,Revised NAP + top-k auxiliary tasks,all_starts,2.816666666666667,5,5,1,5,True
+efflux,minimum_size,30,3,single_task_Delta greedy,all_starts,2.75,5,5,1,5,True
+efflux,minimum_size,30,3,single_task_GP + EI,all_starts,3.15,5,5,1,5,True
+efflux,minimum_size,30,3,single_task_NAP,all_starts,4.733333333333333,5,5,1,5,True
+efflux,minimum_size,30,4,Cross-fitted single-task NAP,all_starts,2.55,5,5,1,5,True
+efflux,minimum_size,30,4,Original NAP + top-k auxiliary tasks,all_starts,3.2333333333333334,5,5,1,5,True
+efflux,minimum_size,30,4,Random,all_starts,5.816190476190476,5,5,1,5,True
+efflux,minimum_size,30,4,Revised NAP + top-k auxiliary tasks,all_starts,2.416666666666667,5,5,1,5,True
+efflux,minimum_size,30,4,single_task_Delta greedy,all_starts,1.6,5,5,1,5,True
+efflux,minimum_size,30,4,single_task_GP + EI,all_starts,3.15,5,5,1,5,True
+efflux,minimum_size,30,4,single_task_NAP,all_starts,3.1,5,5,1,5,True
+microsomal_clearance,minimum_size,35,1,Cross-fitted single-task NAP,all_starts,7.206521739130435,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,Original NAP + top-k auxiliary tasks,all_starts,9.41123188405797,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,Random,all_starts,15.08648291925466,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,Revised NAP + top-k auxiliary tasks,all_starts,7.260869565217392,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,single_task_Delta greedy,all_starts,8.608695652173912,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,single_task_GP + EI,all_starts,8.423913043478262,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,single_task_NAP,all_starts,8.97463768115942,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,Cross-fitted single-task NAP,all_starts,5.253623188405797,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,Original NAP + top-k auxiliary tasks,all_starts,5.824275362318841,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,Random,all_starts,10.738656832298137,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,Revised NAP + top-k auxiliary tasks,all_starts,5.271739130434782,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,single_task_Delta greedy,all_starts,5.315217391304348,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,single_task_GP + EI,all_starts,6.032608695652174,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,single_task_NAP,all_starts,6.1231884057971016,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,Cross-fitted single-task NAP,all_starts,3.664855072463769,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,Original NAP + top-k auxiliary tasks,all_starts,4.134057971014492,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,Random,all_starts,8.7323327216262,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,Revised NAP + top-k auxiliary tasks,all_starts,3.6884057971014497,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,single_task_Delta greedy,all_starts,3.820652173913043,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,single_task_GP + EI,all_starts,4.407608695652174,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,single_task_NAP,all_starts,4.6231884057971016,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,Cross-fitted single-task NAP,all_starts,3.153985507246377,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,Original NAP + top-k auxiliary tasks,all_starts,3.4239130434782608,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,Random,all_starts,7.577622576698664,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,Revised NAP + top-k auxiliary tasks,all_starts,3.1648550724637685,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,single_task_Delta greedy,all_starts,3.2880434782608696,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,single_task_GP + EI,all_starts,3.820652173913043,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,single_task_NAP,all_starts,3.8224637681159424,46,31,1,31,True
+in_vivo_clearance,minimum_size,35,1,Cross-fitted single-task NAP,all_starts,5.583333333333333,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,1,Original NAP + top-k auxiliary tasks,all_starts,21.833333333333332,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,1,Random,all_starts,20.5,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,1,Revised NAP + top-k auxiliary tasks,all_starts,5.416666666666667,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,1,single_task_Delta greedy,all_starts,23.25,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,1,single_task_GP + EI,all_starts,7.0,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,1,single_task_NAP,all_starts,24.75,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,2,Cross-fitted single-task NAP,all_starts,5.583333333333333,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,2,Original NAP + top-k auxiliary tasks,all_starts,21.833333333333332,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,2,Random,all_starts,13.666666666666666,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,2,Revised NAP + top-k auxiliary tasks,all_starts,5.416666666666667,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,2,single_task_Delta greedy,all_starts,23.25,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,2,single_task_GP + EI,all_starts,7.0,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,2,single_task_NAP,all_starts,23.416666666666668,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,3,Cross-fitted single-task NAP,all_starts,5.583333333333333,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,3,Original NAP + top-k auxiliary tasks,all_starts,14.5,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,3,Random,all_starts,10.25,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,3,Revised NAP + top-k auxiliary tasks,all_starts,5.416666666666667,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,3,single_task_Delta greedy,all_starts,5.75,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,3,single_task_GP + EI,all_starts,7.0,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,3,single_task_NAP,all_starts,16.0,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,4,Cross-fitted single-task NAP,all_starts,5.583333333333333,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,4,Original NAP + top-k auxiliary tasks,all_starts,13.166666666666666,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,4,Random,all_starts,6.833333333333333,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,4,Revised NAP + top-k auxiliary tasks,all_starts,5.416666666666667,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,4,single_task_Delta greedy,all_starts,5.75,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,4,single_task_GP + EI,all_starts,7.0,1,1,1,1,True
+in_vivo_clearance,minimum_size,35,4,single_task_NAP,all_starts,14.083333333333334,1,1,1,1,True
+protein_binding,minimum_size,35,1,Cross-fitted single-task NAP,all_starts,8.083333333333334,6,5,1,5,True
+protein_binding,minimum_size,35,1,Original NAP + top-k auxiliary tasks,all_starts,8.25,6,5,1,5,True
+protein_binding,minimum_size,35,1,Random,all_starts,23.583333333333332,6,5,1,5,True
+protein_binding,minimum_size,35,1,Revised NAP + top-k auxiliary tasks,all_starts,8.13888888888889,6,5,1,5,True
+protein_binding,minimum_size,35,1,single_task_Delta greedy,all_starts,11.375,6,5,1,5,True
+protein_binding,minimum_size,35,1,single_task_GP + EI,all_starts,10.75,6,5,1,5,True
+protein_binding,minimum_size,35,1,single_task_NAP,all_starts,8.805555555555555,6,5,1,5,True
+protein_binding,minimum_size,35,2,Cross-fitted single-task NAP,all_starts,5.763888888888888,6,5,1,5,True
+protein_binding,minimum_size,35,2,Original NAP + top-k auxiliary tasks,all_starts,5.527777777777778,6,5,1,5,True
+protein_binding,minimum_size,35,2,Random,all_starts,15.208333333333334,6,5,1,5,True
+protein_binding,minimum_size,35,2,Revised NAP + top-k auxiliary tasks,all_starts,5.902777777777778,6,5,1,5,True
+protein_binding,minimum_size,35,2,single_task_Delta greedy,all_starts,5.958333333333333,6,5,1,5,True
+protein_binding,minimum_size,35,2,single_task_GP + EI,all_starts,6.791666666666667,6,5,1,5,True
+protein_binding,minimum_size,35,2,single_task_NAP,all_starts,6.083333333333333,6,5,1,5,True
+protein_binding,minimum_size,35,3,Cross-fitted single-task NAP,all_starts,5.236111111111112,6,5,1,5,True
+protein_binding,minimum_size,35,3,Original NAP + top-k auxiliary tasks,all_starts,5.138888888888889,6,5,1,5,True
+protein_binding,minimum_size,35,3,Random,all_starts,11.791666666666666,6,5,1,5,True
+protein_binding,minimum_size,35,3,Revised NAP + top-k auxiliary tasks,all_starts,5.222222222222222,6,5,1,5,True
+protein_binding,minimum_size,35,3,single_task_Delta greedy,all_starts,3.375,6,5,1,5,True
+protein_binding,minimum_size,35,3,single_task_GP + EI,all_starts,6.791666666666667,6,5,1,5,True
+protein_binding,minimum_size,35,3,single_task_NAP,all_starts,5.916666666666667,6,5,1,5,True
+protein_binding,minimum_size,35,4,Cross-fitted single-task NAP,all_starts,4.152777777777778,6,5,1,5,True
+protein_binding,minimum_size,35,4,Original NAP + top-k auxiliary tasks,all_starts,4.638888888888888,6,5,1,5,True
+protein_binding,minimum_size,35,4,Random,all_starts,9.433333333333332,6,5,1,5,True
+protein_binding,minimum_size,35,4,Revised NAP + top-k auxiliary tasks,all_starts,4.138888888888888,6,5,1,5,True
+protein_binding,minimum_size,35,4,single_task_Delta greedy,all_starts,2.875,6,5,1,5,True
+protein_binding,minimum_size,35,4,single_task_GP + EI,all_starts,4.5,6,5,1,5,True
+protein_binding,minimum_size,35,4,single_task_NAP,all_starts,5.472222222222222,6,5,1,5,True
+cellular_clearance,minimum_size,35,1,Cross-fitted single-task NAP,all_starts,7.782051282051281,13,9,1,9,True
+cellular_clearance,minimum_size,35,1,Original NAP + top-k auxiliary tasks,all_starts,10.756410256410255,13,9,1,9,True
+cellular_clearance,minimum_size,35,1,Random,all_starts,14.898351648351648,13,9,1,9,True
+cellular_clearance,minimum_size,35,1,Revised NAP + top-k auxiliary tasks,all_starts,7.673076923076923,13,9,1,9,True
+cellular_clearance,minimum_size,35,1,single_task_Delta greedy,all_starts,8.98076923076923,13,9,1,9,True
+cellular_clearance,minimum_size,35,1,single_task_GP + EI,all_starts,8.288461538461538,13,9,1,9,True
+cellular_clearance,minimum_size,35,1,single_task_NAP,all_starts,9.73076923076923,13,9,1,9,True
+cellular_clearance,minimum_size,35,2,Cross-fitted single-task NAP,all_starts,6.493589743589743,13,9,1,9,True
+cellular_clearance,minimum_size,35,2,Original NAP + top-k auxiliary tasks,all_starts,9.217948717948715,13,9,1,9,True
+cellular_clearance,minimum_size,35,2,Random,all_starts,10.891941391941392,13,9,1,9,True
+cellular_clearance,minimum_size,35,2,Revised NAP + top-k auxiliary tasks,all_starts,6.41025641025641,13,9,1,9,True
+cellular_clearance,minimum_size,35,2,single_task_Delta greedy,all_starts,7.4423076923076925,13,9,1,9,True
+cellular_clearance,minimum_size,35,2,single_task_GP + EI,all_starts,7.75,13,9,1,9,True
+cellular_clearance,minimum_size,35,2,single_task_NAP,all_starts,8.057692307692308,13,9,1,9,True
+cellular_clearance,minimum_size,35,3,Cross-fitted single-task NAP,all_starts,5.762820512820513,13,9,1,9,True
+cellular_clearance,minimum_size,35,3,Original NAP + top-k auxiliary tasks,all_starts,8.743589743589745,13,9,1,9,True
+cellular_clearance,minimum_size,35,3,Random,all_starts,8.473992673992674,13,9,1,9,True
+cellular_clearance,minimum_size,35,3,Revised NAP + top-k auxiliary tasks,all_starts,5.679487179487179,13,9,1,9,True
+cellular_clearance,minimum_size,35,3,single_task_Delta greedy,all_starts,4.519230769230769,13,9,1,9,True
+cellular_clearance,minimum_size,35,3,single_task_GP + EI,all_starts,7.1923076923076925,13,9,1,9,True
+cellular_clearance,minimum_size,35,3,single_task_NAP,all_starts,7.596153846153846,13,9,1,9,True
+cellular_clearance,minimum_size,35,4,Cross-fitted single-task NAP,all_starts,5.0,13,9,1,9,True
+cellular_clearance,minimum_size,35,4,Original NAP + top-k auxiliary tasks,all_starts,6.83974358974359,13,9,1,9,True
+cellular_clearance,minimum_size,35,4,Random,all_starts,7.2214285714285715,13,9,1,9,True
+cellular_clearance,minimum_size,35,4,Revised NAP + top-k auxiliary tasks,all_starts,4.923076923076923,13,9,1,9,True
+cellular_clearance,minimum_size,35,4,single_task_Delta greedy,all_starts,4.519230769230769,13,9,1,9,True
+cellular_clearance,minimum_size,35,4,single_task_GP + EI,all_starts,6.038461538461538,13,9,1,9,True
+cellular_clearance,minimum_size,35,4,single_task_NAP,all_starts,6.833333333333333,13,9,1,9,True
+permeability,minimum_size,35,1,Cross-fitted single-task NAP,all_starts,16.104166666666664,8,7,1,7,True
+permeability,minimum_size,35,1,Original NAP + top-k auxiliary tasks,all_starts,16.677083333333332,8,7,1,7,True
+permeability,minimum_size,35,1,Random,all_starts,25.5625,8,7,1,7,True
+permeability,minimum_size,35,1,Revised NAP + top-k auxiliary tasks,all_starts,16.145833333333332,8,7,1,7,True
+permeability,minimum_size,35,1,single_task_Delta greedy,all_starts,22.71875,8,7,1,7,True
+permeability,minimum_size,35,1,single_task_GP + EI,all_starts,14.0,8,7,1,7,True
+permeability,minimum_size,35,1,single_task_NAP,all_starts,15.947916666666666,8,7,1,7,True
+permeability,minimum_size,35,2,Cross-fitted single-task NAP,all_starts,7.958333333333333,8,7,1,7,True
+permeability,minimum_size,35,2,Original NAP + top-k auxiliary tasks,all_starts,12.729166666666668,8,7,1,7,True
+permeability,minimum_size,35,2,Random,all_starts,17.041666666666668,8,7,1,7,True
+permeability,minimum_size,35,2,Revised NAP + top-k auxiliary tasks,all_starts,8.270833333333334,8,7,1,7,True
+permeability,minimum_size,35,2,single_task_Delta greedy,all_starts,13.21875,8,7,1,7,True
+permeability,minimum_size,35,2,single_task_GP + EI,all_starts,10.5625,8,7,1,7,True
+permeability,minimum_size,35,2,single_task_NAP,all_starts,12.479166666666666,8,7,1,7,True
+permeability,minimum_size,35,3,Cross-fitted single-task NAP,all_starts,7.229166666666667,8,7,1,7,True
+permeability,minimum_size,35,3,Original NAP + top-k auxiliary tasks,all_starts,11.447916666666666,8,7,1,7,True
+permeability,minimum_size,35,3,Random,all_starts,12.78125,8,7,1,7,True
+permeability,minimum_size,35,3,Revised NAP + top-k auxiliary tasks,all_starts,7.40625,8,7,1,7,True
+permeability,minimum_size,35,3,single_task_Delta greedy,all_starts,13.21875,8,7,1,7,True
+permeability,minimum_size,35,3,single_task_GP + EI,all_starts,9.84375,8,7,1,7,True
+permeability,minimum_size,35,3,single_task_NAP,all_starts,10.90625,8,7,1,7,True
+permeability,minimum_size,35,4,Cross-fitted single-task NAP,all_starts,6.4375,8,7,1,7,True
+permeability,minimum_size,35,4,Original NAP + top-k auxiliary tasks,all_starts,11.09375,8,7,1,7,True
+permeability,minimum_size,35,4,Random,all_starts,10.225,8,7,1,7,True
+permeability,minimum_size,35,4,Revised NAP + top-k auxiliary tasks,all_starts,6.604166666666667,8,7,1,7,True
+permeability,minimum_size,35,4,single_task_Delta greedy,all_starts,12.0,8,7,1,7,True
+permeability,minimum_size,35,4,single_task_GP + EI,all_starts,9.34375,8,7,1,7,True
+permeability,minimum_size,35,4,single_task_NAP,all_starts,10.333333333333332,8,7,1,7,True
+efflux,minimum_size,35,1,Cross-fitted single-task NAP,all_starts,11.416666666666666,1,1,1,1,True
+efflux,minimum_size,35,1,Original NAP + top-k auxiliary tasks,all_starts,14.083333333333334,1,1,1,1,True
+efflux,minimum_size,35,1,Random,all_starts,20.0,1,1,1,1,True
+efflux,minimum_size,35,1,Revised NAP + top-k auxiliary tasks,all_starts,11.333333333333334,1,1,1,1,True
+efflux,minimum_size,35,1,single_task_Delta greedy,all_starts,11.5,1,1,1,1,True
+efflux,minimum_size,35,1,single_task_GP + EI,all_starts,12.5,1,1,1,1,True
+efflux,minimum_size,35,1,single_task_NAP,all_starts,11.666666666666666,1,1,1,1,True
+efflux,minimum_size,35,2,Cross-fitted single-task NAP,all_starts,11.416666666666666,1,1,1,1,True
+efflux,minimum_size,35,2,Original NAP + top-k auxiliary tasks,all_starts,12.833333333333334,1,1,1,1,True
+efflux,minimum_size,35,2,Random,all_starts,13.333333333333334,1,1,1,1,True
+efflux,minimum_size,35,2,Revised NAP + top-k auxiliary tasks,all_starts,11.333333333333334,1,1,1,1,True
+efflux,minimum_size,35,2,single_task_Delta greedy,all_starts,11.5,1,1,1,1,True
+efflux,minimum_size,35,2,single_task_GP + EI,all_starts,12.5,1,1,1,1,True
+efflux,minimum_size,35,2,single_task_NAP,all_starts,11.0,1,1,1,1,True
+efflux,minimum_size,35,3,Cross-fitted single-task NAP,all_starts,3.1666666666666665,1,1,1,1,True
+efflux,minimum_size,35,3,Original NAP + top-k auxiliary tasks,all_starts,7.25,1,1,1,1,True
+efflux,minimum_size,35,3,Random,all_starts,10.0,1,1,1,1,True
+efflux,minimum_size,35,3,Revised NAP + top-k auxiliary tasks,all_starts,3.6666666666666665,1,1,1,1,True
+efflux,minimum_size,35,3,single_task_Delta greedy,all_starts,4.0,1,1,1,1,True
+efflux,minimum_size,35,3,single_task_GP + EI,all_starts,2.75,1,1,1,1,True
+efflux,minimum_size,35,3,single_task_NAP,all_starts,5.916666666666667,1,1,1,1,True
+efflux,minimum_size,35,4,Cross-fitted single-task NAP,all_starts,2.6666666666666665,1,1,1,1,True
+efflux,minimum_size,35,4,Original NAP + top-k auxiliary tasks,all_starts,1.75,1,1,1,1,True
+efflux,minimum_size,35,4,Random,all_starts,5.714285714285714,1,1,1,1,True
+efflux,minimum_size,35,4,Revised NAP + top-k auxiliary tasks,all_starts,2.1666666666666665,1,1,1,1,True
+efflux,minimum_size,35,4,single_task_Delta greedy,all_starts,2.0,1,1,1,1,True
+efflux,minimum_size,35,4,single_task_GP + EI,all_starts,2.75,1,1,1,1,True
+efflux,minimum_size,35,4,single_task_NAP,all_starts,1.6666666666666667,1,1,1,1,True
+microsomal_clearance,minimum_size,40,1,Cross-fitted single-task NAP,all_starts,7.419270833333333,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,Original NAP + top-k auxiliary tasks,all_starts,9.408854166666666,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,Random,all_starts,16.057652529761903,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,Revised NAP + top-k auxiliary tasks,all_starts,7.479166666666667,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,single_task_Delta greedy,all_starts,8.703125,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,single_task_GP + EI,all_starts,8.6328125,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,single_task_NAP,all_starts,8.635416666666666,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,Cross-fitted single-task NAP,all_starts,5.065104166666667,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,Original NAP + top-k auxiliary tasks,all_starts,5.619791666666667,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,Random,all_starts,11.135777529761905,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,Revised NAP + top-k auxiliary tasks,all_starts,5.075520833333333,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,single_task_Delta greedy,all_starts,4.9453125,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,single_task_GP + EI,all_starts,6.0625,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,single_task_NAP,all_starts,5.5390625,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,Cross-fitted single-task NAP,all_starts,3.359375,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,Original NAP + top-k auxiliary tasks,all_starts,3.877604166666667,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,Random,all_starts,9.115749120670996,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,Revised NAP + top-k auxiliary tasks,all_starts,3.375,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,single_task_Delta greedy,all_starts,3.3203125,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,single_task_GP + EI,all_starts,4.46875,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,single_task_NAP,all_starts,4.122395833333333,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,Cross-fitted single-task NAP,all_starts,3.049479166666667,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,Original NAP + top-k auxiliary tasks,all_starts,3.6458333333333335,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,Random,all_starts,7.974603287337662,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,Revised NAP + top-k auxiliary tasks,all_starts,3.0651041666666665,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,single_task_Delta greedy,all_starts,2.8203125,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,single_task_GP + EI,all_starts,4.0234375,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,single_task_NAP,all_starts,3.5182291666666665,32,21,1,21,True
+in_vivo_clearance,minimum_size,40,1,Cross-fitted single-task NAP,all_starts,5.583333333333333,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,1,Original NAP + top-k auxiliary tasks,all_starts,21.833333333333332,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,1,Random,all_starts,20.5,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,1,Revised NAP + top-k auxiliary tasks,all_starts,5.416666666666667,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,1,single_task_Delta greedy,all_starts,23.25,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,1,single_task_GP + EI,all_starts,7.0,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,1,single_task_NAP,all_starts,24.75,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,2,Cross-fitted single-task NAP,all_starts,5.583333333333333,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,2,Original NAP + top-k auxiliary tasks,all_starts,21.833333333333332,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,2,Random,all_starts,13.666666666666666,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,2,Revised NAP + top-k auxiliary tasks,all_starts,5.416666666666667,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,2,single_task_Delta greedy,all_starts,23.25,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,2,single_task_GP + EI,all_starts,7.0,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,2,single_task_NAP,all_starts,23.416666666666668,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,3,Cross-fitted single-task NAP,all_starts,5.583333333333333,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,3,Original NAP + top-k auxiliary tasks,all_starts,14.5,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,3,Random,all_starts,10.25,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,3,Revised NAP + top-k auxiliary tasks,all_starts,5.416666666666667,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,3,single_task_Delta greedy,all_starts,5.75,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,3,single_task_GP + EI,all_starts,7.0,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,3,single_task_NAP,all_starts,16.0,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,4,Cross-fitted single-task NAP,all_starts,5.583333333333333,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,4,Original NAP + top-k auxiliary tasks,all_starts,13.166666666666666,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,4,Random,all_starts,6.833333333333333,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,4,Revised NAP + top-k auxiliary tasks,all_starts,5.416666666666667,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,4,single_task_Delta greedy,all_starts,5.75,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,4,single_task_GP + EI,all_starts,7.0,1,1,1,1,True
+in_vivo_clearance,minimum_size,40,4,single_task_NAP,all_starts,14.083333333333334,1,1,1,1,True
+protein_binding,minimum_size,40,1,Cross-fitted single-task NAP,all_starts,8.125,2,2,1,2,True
+protein_binding,minimum_size,40,1,Original NAP + top-k auxiliary tasks,all_starts,6.458333333333334,2,2,1,2,True
+protein_binding,minimum_size,40,1,Random,all_starts,32.75,2,2,1,2,True
+protein_binding,minimum_size,40,1,Revised NAP + top-k auxiliary tasks,all_starts,8.25,2,2,1,2,True
+protein_binding,minimum_size,40,1,single_task_Delta greedy,all_starts,13.25,2,2,1,2,True
+protein_binding,minimum_size,40,1,single_task_GP + EI,all_starts,9.5,2,2,1,2,True
+protein_binding,minimum_size,40,1,single_task_NAP,all_starts,7.041666666666666,2,2,1,2,True
+protein_binding,minimum_size,40,2,Cross-fitted single-task NAP,all_starts,8.125,2,2,1,2,True
+protein_binding,minimum_size,40,2,Original NAP + top-k auxiliary tasks,all_starts,6.458333333333334,2,2,1,2,True
+protein_binding,minimum_size,40,2,Random,all_starts,21.833333333333332,2,2,1,2,True
+protein_binding,minimum_size,40,2,Revised NAP + top-k auxiliary tasks,all_starts,8.25,2,2,1,2,True
+protein_binding,minimum_size,40,2,single_task_Delta greedy,all_starts,13.25,2,2,1,2,True
+protein_binding,minimum_size,40,2,single_task_GP + EI,all_starts,8.875,2,2,1,2,True
+protein_binding,minimum_size,40,2,single_task_NAP,all_starts,7.041666666666666,2,2,1,2,True
+protein_binding,minimum_size,40,3,Cross-fitted single-task NAP,all_starts,6.541666666666667,2,2,1,2,True
+protein_binding,minimum_size,40,3,Original NAP + top-k auxiliary tasks,all_starts,5.791666666666667,2,2,1,2,True
+protein_binding,minimum_size,40,3,Random,all_starts,16.375,2,2,1,2,True
+protein_binding,minimum_size,40,3,Revised NAP + top-k auxiliary tasks,all_starts,6.208333333333334,2,2,1,2,True
+protein_binding,minimum_size,40,3,single_task_Delta greedy,all_starts,5.5,2,2,1,2,True
+protein_binding,minimum_size,40,3,single_task_GP + EI,all_starts,8.875,2,2,1,2,True
+protein_binding,minimum_size,40,3,single_task_NAP,all_starts,7.041666666666666,2,2,1,2,True
+protein_binding,minimum_size,40,4,Cross-fitted single-task NAP,all_starts,4.166666666666667,2,2,1,2,True
+protein_binding,minimum_size,40,4,Original NAP + top-k auxiliary tasks,all_starts,5.625,2,2,1,2,True
+protein_binding,minimum_size,40,4,Random,all_starts,13.1,2,2,1,2,True
+protein_binding,minimum_size,40,4,Revised NAP + top-k auxiliary tasks,all_starts,3.833333333333333,2,2,1,2,True
+protein_binding,minimum_size,40,4,single_task_Delta greedy,all_starts,4.5,2,2,1,2,True
+protein_binding,minimum_size,40,4,single_task_GP + EI,all_starts,3.25,2,2,1,2,True
+protein_binding,minimum_size,40,4,single_task_NAP,all_starts,6.875,2,2,1,2,True
+cellular_clearance,minimum_size,40,1,Cross-fitted single-task NAP,all_starts,6.490740740740741,9,6,1,6,True
+cellular_clearance,minimum_size,40,1,Original NAP + top-k auxiliary tasks,all_starts,10.055555555555555,9,6,1,6,True
+cellular_clearance,minimum_size,40,1,Random,all_starts,14.093915343915343,9,6,1,6,True
+cellular_clearance,minimum_size,40,1,Revised NAP + top-k auxiliary tasks,all_starts,6.314814814814815,9,6,1,6,True
+cellular_clearance,minimum_size,40,1,single_task_Delta greedy,all_starts,7.5,9,6,1,6,True
+cellular_clearance,minimum_size,40,1,single_task_GP + EI,all_starts,6.25,9,6,1,6,True
+cellular_clearance,minimum_size,40,1,single_task_NAP,all_starts,8.75925925925926,9,6,1,6,True
+cellular_clearance,minimum_size,40,2,Cross-fitted single-task NAP,all_starts,4.87962962962963,9,6,1,6,True
+cellular_clearance,minimum_size,40,2,Original NAP + top-k auxiliary tasks,all_starts,9.5,9,6,1,6,True
+cellular_clearance,minimum_size,40,2,Random,all_starts,10.667989417989418,9,6,1,6,True
+cellular_clearance,minimum_size,40,2,Revised NAP + top-k auxiliary tasks,all_starts,4.7407407407407405,9,6,1,6,True
+cellular_clearance,minimum_size,40,2,single_task_Delta greedy,all_starts,5.444444444444445,9,6,1,6,True
+cellular_clearance,minimum_size,40,2,single_task_GP + EI,all_starts,5.527777777777778,9,6,1,6,True
+cellular_clearance,minimum_size,40,2,single_task_NAP,all_starts,8.092592592592592,9,6,1,6,True
+cellular_clearance,minimum_size,40,3,Cross-fitted single-task NAP,all_starts,4.87962962962963,9,6,1,6,True
+cellular_clearance,minimum_size,40,3,Original NAP + top-k auxiliary tasks,all_starts,9.27777777777778,9,6,1,6,True
+cellular_clearance,minimum_size,40,3,Random,all_starts,8.584656084656084,9,6,1,6,True
+cellular_clearance,minimum_size,40,3,Revised NAP + top-k auxiliary tasks,all_starts,4.7407407407407405,9,6,1,6,True
+cellular_clearance,minimum_size,40,3,single_task_Delta greedy,all_starts,4.333333333333333,9,6,1,6,True
+cellular_clearance,minimum_size,40,3,single_task_GP + EI,all_starts,5.527777777777778,9,6,1,6,True
+cellular_clearance,minimum_size,40,3,single_task_NAP,all_starts,7.62037037037037,9,6,1,6,True
+cellular_clearance,minimum_size,40,4,Cross-fitted single-task NAP,all_starts,4.694444444444445,9,6,1,6,True
+cellular_clearance,minimum_size,40,4,Original NAP + top-k auxiliary tasks,all_starts,6.888888888888889,9,6,1,6,True
+cellular_clearance,minimum_size,40,4,Random,all_starts,7.186507936507937,9,6,1,6,True
+cellular_clearance,minimum_size,40,4,Revised NAP + top-k auxiliary tasks,all_starts,4.564814814814815,9,6,1,6,True
+cellular_clearance,minimum_size,40,4,single_task_Delta greedy,all_starts,4.333333333333333,9,6,1,6,True
+cellular_clearance,minimum_size,40,4,single_task_GP + EI,all_starts,4.944444444444445,9,6,1,6,True
+cellular_clearance,minimum_size,40,4,single_task_NAP,all_starts,6.768518518518518,9,6,1,6,True
+permeability,minimum_size,40,1,Cross-fitted single-task NAP,all_starts,13.476190476190476,7,6,1,6,True
+permeability,minimum_size,40,1,Original NAP + top-k auxiliary tasks,all_starts,14.464285714285714,7,6,1,6,True
+permeability,minimum_size,40,1,Random,all_starts,26.642857142857142,7,6,1,6,True
+permeability,minimum_size,40,1,Revised NAP + top-k auxiliary tasks,all_starts,13.547619047619047,7,6,1,6,True
+permeability,minimum_size,40,1,single_task_Delta greedy,all_starts,20.964285714285715,7,6,1,6,True
+permeability,minimum_size,40,1,single_task_GP + EI,all_starts,13.857142857142858,7,6,1,6,True
+permeability,minimum_size,40,1,single_task_NAP,all_starts,13.36904761904762,7,6,1,6,True
+permeability,minimum_size,40,2,Cross-fitted single-task NAP,all_starts,7.666666666666666,7,6,1,6,True
+permeability,minimum_size,40,2,Original NAP + top-k auxiliary tasks,all_starts,12.583333333333334,7,6,1,6,True
+permeability,minimum_size,40,2,Random,all_starts,17.761904761904763,7,6,1,6,True
+permeability,minimum_size,40,2,Revised NAP + top-k auxiliary tasks,all_starts,8.035714285714286,7,6,1,6,True
+permeability,minimum_size,40,2,single_task_Delta greedy,all_starts,13.321428571428571,7,6,1,6,True
+permeability,minimum_size,40,2,single_task_GP + EI,all_starts,10.928571428571429,7,6,1,6,True
+permeability,minimum_size,40,2,single_task_NAP,all_starts,12.059523809523808,7,6,1,6,True
+permeability,minimum_size,40,3,Cross-fitted single-task NAP,all_starts,6.833333333333334,7,6,1,6,True
+permeability,minimum_size,40,3,Original NAP + top-k auxiliary tasks,all_starts,11.11904761904762,7,6,1,6,True
+permeability,minimum_size,40,3,Random,all_starts,13.321428571428571,7,6,1,6,True
+permeability,minimum_size,40,3,Revised NAP + top-k auxiliary tasks,all_starts,7.047619047619048,7,6,1,6,True
+permeability,minimum_size,40,3,single_task_Delta greedy,all_starts,13.321428571428571,7,6,1,6,True
+permeability,minimum_size,40,3,single_task_GP + EI,all_starts,10.107142857142858,7,6,1,6,True
+permeability,minimum_size,40,3,single_task_NAP,all_starts,10.26190476190476,7,6,1,6,True
+permeability,minimum_size,40,4,Cross-fitted single-task NAP,all_starts,5.928571428571429,7,6,1,6,True
+permeability,minimum_size,40,4,Original NAP + top-k auxiliary tasks,all_starts,10.714285714285714,7,6,1,6,True
+permeability,minimum_size,40,4,Random,all_starts,10.657142857142857,7,6,1,6,True
+permeability,minimum_size,40,4,Revised NAP + top-k auxiliary tasks,all_starts,6.1309523809523805,7,6,1,6,True
+permeability,minimum_size,40,4,single_task_Delta greedy,all_starts,11.928571428571429,7,6,1,6,True
+permeability,minimum_size,40,4,single_task_GP + EI,all_starts,9.535714285714286,7,6,1,6,True
+permeability,minimum_size,40,4,single_task_NAP,all_starts,9.607142857142858,7,6,1,6,True
+efflux,minimum_size,40,1,Cross-fitted single-task NAP,all_starts,11.416666666666666,1,1,1,1,True
+efflux,minimum_size,40,1,Original NAP + top-k auxiliary tasks,all_starts,14.083333333333334,1,1,1,1,True
+efflux,minimum_size,40,1,Random,all_starts,20.0,1,1,1,1,True
+efflux,minimum_size,40,1,Revised NAP + top-k auxiliary tasks,all_starts,11.333333333333334,1,1,1,1,True
+efflux,minimum_size,40,1,single_task_Delta greedy,all_starts,11.5,1,1,1,1,True
+efflux,minimum_size,40,1,single_task_GP + EI,all_starts,12.5,1,1,1,1,True
+efflux,minimum_size,40,1,single_task_NAP,all_starts,11.666666666666666,1,1,1,1,True
+efflux,minimum_size,40,2,Cross-fitted single-task NAP,all_starts,11.416666666666666,1,1,1,1,True
+efflux,minimum_size,40,2,Original NAP + top-k auxiliary tasks,all_starts,12.833333333333334,1,1,1,1,True
+efflux,minimum_size,40,2,Random,all_starts,13.333333333333334,1,1,1,1,True
+efflux,minimum_size,40,2,Revised NAP + top-k auxiliary tasks,all_starts,11.333333333333334,1,1,1,1,True
+efflux,minimum_size,40,2,single_task_Delta greedy,all_starts,11.5,1,1,1,1,True
+efflux,minimum_size,40,2,single_task_GP + EI,all_starts,12.5,1,1,1,1,True
+efflux,minimum_size,40,2,single_task_NAP,all_starts,11.0,1,1,1,1,True
+efflux,minimum_size,40,3,Cross-fitted single-task NAP,all_starts,3.1666666666666665,1,1,1,1,True
+efflux,minimum_size,40,3,Original NAP + top-k auxiliary tasks,all_starts,7.25,1,1,1,1,True
+efflux,minimum_size,40,3,Random,all_starts,10.0,1,1,1,1,True
+efflux,minimum_size,40,3,Revised NAP + top-k auxiliary tasks,all_starts,3.6666666666666665,1,1,1,1,True
+efflux,minimum_size,40,3,single_task_Delta greedy,all_starts,4.0,1,1,1,1,True
+efflux,minimum_size,40,3,single_task_GP + EI,all_starts,2.75,1,1,1,1,True
+efflux,minimum_size,40,3,single_task_NAP,all_starts,5.916666666666667,1,1,1,1,True
+efflux,minimum_size,40,4,Cross-fitted single-task NAP,all_starts,2.6666666666666665,1,1,1,1,True
+efflux,minimum_size,40,4,Original NAP + top-k auxiliary tasks,all_starts,1.75,1,1,1,1,True
+efflux,minimum_size,40,4,Random,all_starts,5.714285714285714,1,1,1,1,True
+efflux,minimum_size,40,4,Revised NAP + top-k auxiliary tasks,all_starts,2.1666666666666665,1,1,1,1,True
+efflux,minimum_size,40,4,single_task_Delta greedy,all_starts,2.0,1,1,1,1,True
+efflux,minimum_size,40,4,single_task_GP + EI,all_starts,2.75,1,1,1,1,True
+efflux,minimum_size,40,4,single_task_NAP,all_starts,1.6666666666666667,1,1,1,1,True

@@ -1,0 +1,70 @@
+[
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/common.py",
+    "sha256": "9d13bb1777745c67e17e3e85d0732dde45c2182201ba705576e787136435f646"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/benchmark_models.py",
+    "sha256": "a0a63a53f1a60c4e75ade922279934c9dcc1ad324faa31b2abca689251dfa87c"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/alpaca_offset_ablation/offset_model.py",
+    "sha256": "15cccd1be79d44b98c570792cc967a287532b20be475af17a7d20a788951b716"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/checkpoint_1/snapshot/outputs/neural_uncertainty/uncertainty_core.py",
+    "sha256": "6b8ed5df24c78b2b1076d21d8d425b279d27bceb2ab92fc8dae63a81a01d7b9f"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/checkpoint_1/snapshot/outputs/neural_acquisition_refinement/refinement_core.py",
+    "sha256": "7812fc042be0f5208ae06da0b4d1cdb2bec26386dd4cbe668d02bd96a1d63883"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/centered_kernel_factorial/factorial_model.py",
+    "sha256": "07c9854ac3c7d8ffda4e2595d3093d150e0312abf24c6f14123b2dff8c667247"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/checkpoint_1/snapshot/outputs/kernel_variance_option2/model.py",
+    "sha256": "6e0390fd12c8c8b80fcb47a1fede94f408bbacf26b0ff96ef90df1cd1fc72fe6"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/checkpoint_1/snapshot/outputs/neural_uncertainty_k1/acquisition_core.py",
+    "sha256": "136b3bdaa3ea8cf628c06e45299eb0aeac6bb793781070b20627f2d54636622e"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/training.py",
+    "sha256": "9fcaaec23873a6fda7a8ad2fdbc9a6e1eb5dae6c32f4d02f06c4309e0864fe8c"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/evaluation.py",
+    "sha256": "5d8bc667bee0162b9dee86d85bebb45ee43650708a5e82d4baed955d37cfd80a"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/recovery/run_recovery.py",
+    "sha256": "6ab4e9defd1ebba67e718f332299461ed78433c3192c9fd13339727b9acad997"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/nap_policy_optimization/policy_algorithms.py",
+    "sha256": "4dd9fecc683163c89d15fda5595bfb4ce75bfad9d977e14ae8aafa18629f12bd"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/batch_subset_selection/batch_core.py",
+    "sha256": "a5eab20323b13b7d17fcd1c512da1bc0d275ba459487cc24936a93f97c536a3f"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/batch_subset_selection/batch_models.py",
+    "sha256": "bacba0f309f6c0ce40e626455a51e05e05fecde52c06c6c6ea0462b62417de1a"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/multi_reference_mean/model.py",
+    "sha256": "effe79b3ee1b331973135706c95ecdb85acef5d6f8e9d8ec3489c8f5fd5a131d"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/multi_reference_mean/consistent_model.py",
+    "sha256": "b2638cecc97d7718bd53f28de4967b0165a5a819691bf26ae810b4d77b5ab907"
+  },
+  {
+    "path": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/kernel_weighted_mean/weighted_model.py",
+    "sha256": "c9aef42093bad76a3ec9cce94f1a17a7395872e3b22162e06dc1f7225a79932b"
+  }
+]

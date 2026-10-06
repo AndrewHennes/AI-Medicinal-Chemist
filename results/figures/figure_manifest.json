@@ -1,0 +1,102 @@
+{
+  "report": "performance_report.pdf",
+  "source": "saved summary tables; no training by plotting",
+  "endpoints": [
+    "cellular_clearance",
+    "efflux",
+    "in_vivo_clearance",
+    "microsomal_clearance",
+    "permeability",
+    "protein_binding"
+  ],
+  "aggregate_prediction_methods": [
+    "adkf_ift",
+    "alpaca",
+    "alpaca_no_offset",
+    "anil",
+    "anp",
+    "cnp",
+    "dkt",
+    "finetune",
+    "neural_mean_gp",
+    "reference",
+    "tnp_d",
+    "transfer"
+  ],
+  "aggregate_acquisition_methods": [
+    "adkf_ift",
+    "alpaca",
+    "alpaca_no_offset",
+    "anil",
+    "anp",
+    "cnp",
+    "dkt",
+    "finetune",
+    "neural_mean_gp",
+    "random",
+    "reference",
+    "tnp_d",
+    "transfer"
+  ],
+  "incomplete_conditions": [
+    {
+      "endpoint": "in_vivo_clearance",
+      "method": "maml",
+      "completed_folds": 4,
+      "included": false,
+      "failures": [
+        {
+          "fold": 0,
+          "reason": "No predeclared configuration completed all required fits without numerical failure",
+          "error": null
+        }
+      ]
+    },
+    {
+      "endpoint": "protein_binding",
+      "method": "maml",
+      "completed_folds": 1,
+      "included": false,
+      "failures": [
+        {
+          "fold": 0,
+          "reason": "No predeclared configuration completed all required fits without numerical failure",
+          "error": null
+        },
+        {
+          "fold": 1,
+          "reason": "No predeclared configuration completed all required fits without numerical failure",
+          "error": null
+        },
+        {
+          "fold": 2,
+          "reason": "No predeclared configuration completed all required fits without numerical failure",
+          "error": null
+        },
+        {
+          "fold": 4,
+          "reason": "No predeclared configuration completed all required fits without numerical failure",
+          "error": null
+        }
+      ]
+    },
+    {
+      "endpoint": "cellular_clearance",
+      "method": "maml",
+      "completed_folds": 3,
+      "included": false,
+      "failures": [
+        {
+          "fold": 2,
+          "reason": "Numerical overflow in held-out prediction metrics; no replacement selected",
+          "error": "ValueError('Out of range float values are not JSON compliant: inf')"
+        },
+        {
+          "fold": 3,
+          "reason": "No predeclared configuration completed all required fits without numerical failure",
+          "error": null
+        }
+      ]
+    }
+  ]
+}

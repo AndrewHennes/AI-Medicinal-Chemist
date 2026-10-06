@@ -1,0 +1,139 @@
+{
+  "studies": [
+    {
+      "name": "policy_optimization",
+      "directory": "nap_policy_optimization",
+      "table": "summary.csv",
+      "kind": "acquisition",
+      "title": "Archived PPO, TRPO, DPO and GP auxiliary supervision",
+      "plot_note": "Archived optimizer study with its original report aggregation.",
+      "supporting": [
+        "paired_comparisons.csv",
+        "training_costs.csv"
+      ]
+    },
+    {
+      "name": "latent_features",
+      "directory": "neural_latent_acquisition",
+      "table": "acquisition_summary.csv",
+      "kind": "acquisition",
+      "title": "Archived acquisition latent-feature comparison",
+      "plot_note": "Archived PPO feature ablation; predictor/policy groups disjoint; original endpoint-balanced aggregate.",
+      "supporting": [
+        "paired_comparisons.csv",
+        "training_validation.csv"
+      ]
+    },
+    {
+      "name": "mean_kernel_ablation",
+      "directory": "from_scratch_mean_kernel",
+      "table": "prediction_summary.csv",
+      "kind": "prediction",
+      "title": "Archived mean, kernel and weighting ablations",
+      "plot_note": "Archived scratch-trained models; original calibration and evaluation protocol.",
+      "supporting": [
+        "paired_comparisons.csv",
+        "validation_selections.csv"
+      ]
+    },
+    {
+      "name": "batch_selection",
+      "directory": "batch_subset_selection",
+      "table": "summary.csv",
+      "kind": "batch",
+      "title": "Archived batch subset selection",
+      "plot_note": "Archived delayed-feedback study; original aggregation; every molecule in the final batch counts.",
+      "supporting": []
+    },
+    {
+      "name": "ei_input_ppo",
+      "directory": "nap_phi_ppo_k1",
+      "table": "summary.csv",
+      "kind": "acquisition",
+      "title": "Archived PPO with EI input features",
+      "plot_note": "Archived PPO feature study; original GP, initialization and aggregation protocol.",
+      "supporting": []
+    }
+  ],
+  "files": [
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/nap_policy_optimization/reports/summary.csv",
+      "source_sha256": "8cacd06795b4340f745a98e98600d9a4f113d4838a32e8224a19c2457ca4cea7",
+      "file": "results/historical/policy_optimization/summary.csv",
+      "sha256": "8b26fb5917066768dcb11cb91305738be15a507674c895eb8bf7f03ee0149c2b",
+      "transformation": "CSV serialization; K column renamed batch_size where present; values otherwise unchanged"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/nap_policy_optimization/reports/paired_comparisons.csv",
+      "source_sha256": "a33207cf689099ab207278d50f70c5396054c226dfb8965a02500fe371f93e12",
+      "file": "results/historical/policy_optimization/paired_comparisons.csv",
+      "sha256": "54afadf41e47509fee2538a602449876085ba04bf62a968c7df76603d44824c4",
+      "transformation": "CSV serialization; K column renamed batch_size where present; values otherwise unchanged"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/nap_policy_optimization/reports/training_costs.csv",
+      "source_sha256": "9dfbc38172867d8b8cdef8860fc656910b968c9899c4ad84ddc45cb6a5e6c6ea",
+      "file": "results/historical/policy_optimization/training_costs.csv",
+      "sha256": "52b71369cea4bb1020daabee5fb80e7766ab7c7e57acc43a7602fc35070ae227",
+      "transformation": "CSV serialization; K column renamed batch_size where present; values otherwise unchanged"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/neural_latent_acquisition/reports/acquisition_summary.csv",
+      "source_sha256": "f81253ac04e4327ff32515ff6301530e072933cc4a0223424fb53d8356dc0444",
+      "file": "results/historical/latent_features/acquisition_summary.csv",
+      "sha256": "fdac461785863aa2afe3c519a79ad5cbc9fe0e3a366a01c07d0fbb8a382bf452",
+      "transformation": "CSV serialization; K column renamed batch_size where present; values otherwise unchanged"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/neural_latent_acquisition/reports/paired_comparisons.csv",
+      "source_sha256": "fe28e86ab4dd9dba38f087fe2e6fadffad6c19a6133693b4a7d978fe3380ff29",
+      "file": "results/historical/latent_features/paired_comparisons.csv",
+      "sha256": "2dfc6efd39ba6daa69d885ed904507c5023c4efc3e83735cdedb15c78b3427de",
+      "transformation": "CSV serialization; K column renamed batch_size where present; values otherwise unchanged"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/neural_latent_acquisition/reports/training_validation.csv",
+      "source_sha256": "50ba3d02ac857e37a32c6114e149843d93e355bae85443fce4eea6f98695fbc0",
+      "file": "results/historical/latent_features/training_validation.csv",
+      "sha256": "e6bd4c1da421efee81ef58c34a10837bc83b4fd3f1bfb24b8886687eaf96e917",
+      "transformation": "CSV serialization; K column renamed batch_size where present; values otherwise unchanged"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/from_scratch_mean_kernel/reports/prediction_summary.csv",
+      "source_sha256": "37adbb6967bd6091d515dd5dbf740e7da3ff1be906254d51b4516118ab5c24e3",
+      "file": "results/historical/mean_kernel_ablation/prediction_summary.csv",
+      "sha256": "07da2b8a7fc2b3e701cdfedba8676a265a5c10c5d431cba0c6e2f2809700b956",
+      "transformation": "CSV serialization; K column renamed batch_size where present; values otherwise unchanged"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/from_scratch_mean_kernel/reports/paired_comparisons.csv",
+      "source_sha256": "d53fedba732692af8bbac2a32fad19f33e14913486faee460d7e02df89abb26a",
+      "file": "results/historical/mean_kernel_ablation/paired_comparisons.csv",
+      "sha256": "f53e3e8e7de573957c327e8586491a77745a6f498ad72cb836547433d7d14d4c",
+      "transformation": "CSV serialization; K column renamed batch_size where present; values otherwise unchanged"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/from_scratch_mean_kernel/reports/validation_selections.csv",
+      "source_sha256": "5eefb9d806b72edc1b459e206ca524ecd8103df4f7c34d15ca295625a226324f",
+      "file": "results/historical/mean_kernel_ablation/validation_selections.csv",
+      "sha256": "5bfaaca03c1eec22d9534c5dc6fdb1914576807c0a36f001ac32bf61159c5bd1",
+      "transformation": "CSV serialization; K column renamed batch_size where present; values otherwise unchanged"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/batch_subset_selection/reports/summary.csv",
+      "source_sha256": "363caab2c1b08d30ead40fe2e7f04ecca7eea2d59171dc82a26e5b4d58b0c5ef",
+      "file": "results/historical/batch_selection/summary.csv",
+      "sha256": "9d87f4c03728d5731b4d41901de1189ca88fc454361deb99c100f54fb223911e",
+      "transformation": "CSV serialization; K column renamed batch_size where present; values otherwise unchanged"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/nap_phi_ppo_k1/reports/summary.csv",
+      "source_sha256": "8c6428fd400add04e95972fb98dfeca2014314d78414fec0fbd4f9764243aeb3",
+      "file": "results/historical/ei_input_ppo/summary.csv",
+      "sha256": "4bb25ab4efb96bfad3b34fedc435dab48ebfcf99513c71a09330ef3842dffb60",
+      "transformation": "CSV serialization; K column renamed batch_size where present; values otherwise unchanged"
+    }
+  ],
+  "grpo_status": "Implementation available for new benchmark runs",
+  "interpretation": "Each study uses its recorded protocol, calibration, predictors, and split roles."
+}

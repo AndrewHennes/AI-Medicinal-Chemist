@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "jobs": 240,
+  "job_counts": {
+    "evaluate": 60,
+    "controller": 180
+  },
+  "new_policy_fits": 180,
+  "evaluation_jobs": 60,
+  "cells": [
+    "pooled_ei",
+    "species_ei",
+    "pooled_inputs",
+    "species_inputs"
+  ],
+  "pools_per_cell": 4625,
+  "large_pools_per_cell": 580,
+  "original_and_both_results_reproduced": true,
+  "all_references_matched": true,
+  "all_orders_complete": true,
+  "source_and_checkpoint_hashes_verified": true,
+  "source_groups_resampled_jointly_across_endpoints": true,
+  "bootstrap_draws": 2000,
+  "exact_factorial_decomposition_verified": true,
+  "pdf_pages": 16,
+  "sha256": {
+    "nap_factorial_results.pdf": "bde868e3f3be029b97198d0a218a02bd18e2d473b0cbcce3901f146e96e4d715",
+    "results_summary.pdf": "10788390bf7a530e6a2cff907f984116bc1113e495b88ec376df2962d1db8393",
+    "factorial_effects.csv": "7daf6ecf39bd26b657860a70cd304c54afba5f302e7060a8797a7b87737c340b",
+    "findings.md": "0c67610e9f87ff9345e3b529ec202e612856f631e14e10c1dc90083edf960f2c"
+  }
+}

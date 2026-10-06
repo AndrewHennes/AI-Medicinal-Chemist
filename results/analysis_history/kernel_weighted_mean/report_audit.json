@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "test_pools": 4625,
+  "linked_groups": 2011,
+  "large_pools": 580,
+  "large_groups": 334,
+  "checks": [
+    "Disjoint linked-group folds and identical hidden queries",
+    "Frozen checkpoint and source/input locks unchanged",
+    "Equal-weight predictions and calibration reproduced; GP outputs reused exactly",
+    "Temperature selection uses ensemble validation NLL only",
+    "Uniform-weight limit reproduces current model",
+    "No own outcome in measured raw baselines",
+    "Perfect-delta coordinate recovery",
+    "One-hit equivalence, mask/order invariance, hidden-label isolation and finite gradients"
+  ]
+}

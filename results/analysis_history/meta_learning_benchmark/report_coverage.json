@@ -1,0 +1,544 @@
+[
+  {
+    "endpoint": "microsomal_clearance",
+    "method": "reference",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "microsomal_clearance",
+    "method": "transfer",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "microsomal_clearance",
+    "method": "finetune",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "microsomal_clearance",
+    "method": "neural_mean_gp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "microsomal_clearance",
+    "method": "alpaca",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "microsomal_clearance",
+    "method": "maml",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "microsomal_clearance",
+    "method": "anil",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "microsomal_clearance",
+    "method": "cnp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "microsomal_clearance",
+    "method": "anp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "microsomal_clearance",
+    "method": "tnp_d",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "microsomal_clearance",
+    "method": "dkt",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "microsomal_clearance",
+    "method": "adkf_ift",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "in_vivo_clearance",
+    "method": "reference",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "in_vivo_clearance",
+    "method": "transfer",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "in_vivo_clearance",
+    "method": "finetune",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "in_vivo_clearance",
+    "method": "neural_mean_gp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "in_vivo_clearance",
+    "method": "alpaca",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "in_vivo_clearance",
+    "method": "maml",
+    "completed_folds": 4,
+    "included": false,
+    "failures": [
+      {
+        "fold": 0,
+        "reason": "Numerical failure during configuration fitting",
+        "error": null
+      }
+    ]
+  },
+  {
+    "endpoint": "in_vivo_clearance",
+    "method": "anil",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "in_vivo_clearance",
+    "method": "cnp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "in_vivo_clearance",
+    "method": "anp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "in_vivo_clearance",
+    "method": "tnp_d",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "in_vivo_clearance",
+    "method": "dkt",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "in_vivo_clearance",
+    "method": "adkf_ift",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "protein_binding",
+    "method": "reference",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "protein_binding",
+    "method": "transfer",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "protein_binding",
+    "method": "finetune",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "protein_binding",
+    "method": "neural_mean_gp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "protein_binding",
+    "method": "alpaca",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "protein_binding",
+    "method": "maml",
+    "completed_folds": 1,
+    "included": false,
+    "failures": [
+      {
+        "fold": 0,
+        "reason": "Numerical failure during configuration fitting",
+        "error": null
+      },
+      {
+        "fold": 1,
+        "reason": "Numerical failure during configuration fitting",
+        "error": null
+      },
+      {
+        "fold": 2,
+        "reason": "Numerical failure during configuration fitting",
+        "error": null
+      },
+      {
+        "fold": 4,
+        "reason": "Numerical failure during configuration fitting",
+        "error": null
+      }
+    ]
+  },
+  {
+    "endpoint": "protein_binding",
+    "method": "anil",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "protein_binding",
+    "method": "cnp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "protein_binding",
+    "method": "anp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "protein_binding",
+    "method": "tnp_d",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "protein_binding",
+    "method": "dkt",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "protein_binding",
+    "method": "adkf_ift",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "cellular_clearance",
+    "method": "reference",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "cellular_clearance",
+    "method": "transfer",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "cellular_clearance",
+    "method": "finetune",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "cellular_clearance",
+    "method": "neural_mean_gp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "cellular_clearance",
+    "method": "alpaca",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "cellular_clearance",
+    "method": "maml",
+    "completed_folds": 3,
+    "included": false,
+    "failures": [
+      {
+        "fold": 2,
+        "reason": "Numerical overflow during held-out evaluation",
+        "error": "ValueError('Out of range float values are not JSON compliant: inf')"
+      },
+      {
+        "fold": 3,
+        "reason": "Numerical failure during configuration fitting",
+        "error": null
+      }
+    ]
+  },
+  {
+    "endpoint": "cellular_clearance",
+    "method": "anil",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "cellular_clearance",
+    "method": "cnp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "cellular_clearance",
+    "method": "anp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "cellular_clearance",
+    "method": "tnp_d",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "cellular_clearance",
+    "method": "dkt",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "cellular_clearance",
+    "method": "adkf_ift",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "permeability",
+    "method": "reference",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "permeability",
+    "method": "transfer",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "permeability",
+    "method": "finetune",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "permeability",
+    "method": "neural_mean_gp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "permeability",
+    "method": "alpaca",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "permeability",
+    "method": "maml",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "permeability",
+    "method": "anil",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "permeability",
+    "method": "cnp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "permeability",
+    "method": "anp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "permeability",
+    "method": "tnp_d",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "permeability",
+    "method": "dkt",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "permeability",
+    "method": "adkf_ift",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "efflux",
+    "method": "reference",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "efflux",
+    "method": "transfer",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "efflux",
+    "method": "finetune",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "efflux",
+    "method": "neural_mean_gp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "efflux",
+    "method": "alpaca",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "efflux",
+    "method": "maml",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "efflux",
+    "method": "anil",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "efflux",
+    "method": "cnp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "efflux",
+    "method": "anp",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "efflux",
+    "method": "tnp_d",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "efflux",
+    "method": "dkt",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  },
+  {
+    "endpoint": "efflux",
+    "method": "adkf_ift",
+    "completed_folds": 5,
+    "included": true,
+    "failures": []
+  }
+]

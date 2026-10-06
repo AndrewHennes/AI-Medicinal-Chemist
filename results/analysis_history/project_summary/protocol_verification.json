@@ -1,0 +1,11 @@
+{
+  "pages": 16,
+  "bookmarks": 16,
+  "headings_on_expected_pages": true,
+  "main_table_matches_saved_results": true,
+  "all_control_pool_metrics_match_value_benchmark": true,
+  "source_hashes_unchanged": true,
+  "all_pages_rendered_and_visually_reviewed": true,
+  "viewer_examples_checked": 506,
+  "valid_embedded_molecular_SVGs": 870
+}

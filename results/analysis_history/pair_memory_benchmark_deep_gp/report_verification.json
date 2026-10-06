@@ -1,0 +1,14 @@
+{
+  "final_checkpoints": 360,
+  "selected_configurations": 120,
+  "outer_folds": 5,
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "test_pools": 4625,
+  "large_test_pools": 580,
+  "last_step_fraction": 0.022222222222222223,
+  "last_400_steps_fraction": 0.06666666666666667
+}

@@ -1,0 +1,24 @@
+{
+  "scores": {
+    "multitask": {
+      "initial_selection_score": 0.8843222354870562,
+      "all": 0.876329927117833,
+      "large": 0.6316219585859404,
+      "selection_score": 0.8843222354870562
+    },
+    "single_task": {
+      "initial_selection_score": 0.8170172138493195,
+      "all": 0.7777863235656894,
+      "large": 0.5285905659381269,
+      "selection_score": 0.7730450196895081
+    }
+  },
+  "promotion_checks": {
+    "beats_matched_focused": false,
+    "beats_matched_large": false,
+    "reinforcement_improves_initial": false
+  },
+  "promote": false,
+  "completed_fits": 6,
+  "test_access": false
+}

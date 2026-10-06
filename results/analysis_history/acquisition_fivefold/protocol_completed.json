@@ -1,0 +1,32 @@
+{
+  "folds": 5,
+  "methods": [
+    "Cross-fitted multitask NAP",
+    "Cross-fitted single-task NAP",
+    "Cross-fitted NAP with private adaptation",
+    "Cross-fitted multitask warm start",
+    "single_task_NAP",
+    "multitask_NAP",
+    "single_task_GP + EI",
+    "multitask_GP + EI",
+    "single_task_Delta greedy",
+    "multitask_Delta greedy",
+    "single_task_Delta training-anchor EI",
+    "multitask_Delta training-anchor EI",
+    "Random"
+  ],
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "complete": true,
+  "displayed_ranks": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "training_complete": true,
+  "delta_ei_evaluation_complete": true
+}

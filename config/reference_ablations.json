@@ -1,0 +1,11 @@
+{
+  "output_directory": "reference_ablation_comparison",
+  "methods": [
+    "neural_mean_gp",
+    "reference_unchanged",
+    "reference_mean_only",
+    "reference_kernel_only",
+    "reference",
+    "reference_weighted"
+  ]
+}

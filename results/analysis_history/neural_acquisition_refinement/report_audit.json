@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "folds": 5,
+  "test_pools": 4625,
+  "large_pools": 580,
+  "large_groups": 334,
+  "starts": 18500,
+  "trajectories": 222000,
+  "previous_reproduction": {
+    "maximum_pool_count_difference": 0.5,
+    "changed_pool_target_rows": 10
+  },
+  "checks": [
+    "frozen models, source data and validation decisions",
+    "disjoint train/validation/test groups",
+    "identical historical acquisition starts",
+    "all acquisition counts recomputed from trajectories",
+    "correct first optimum stopping",
+    "no repeated purchases",
+    "nested top-k counts",
+    "same fixed hidden prediction panels across models",
+    "neural masking, permutation and target-isolation tests",
+    "Student-t EI and mixture quantile checks",
+    "predictive calibration preserves point predictions; floating-point ties independently checked"
+  ]
+}

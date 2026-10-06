@@ -1,0 +1,29 @@
+{
+  "complete": true,
+  "endpoints": [
+    "microsomal_clearance",
+    "in_vivo_clearance",
+    "protein_binding",
+    "cellular_clearance",
+    "permeability",
+    "efflux"
+  ],
+  "methods": [
+    "Random",
+    "single_task_Delta greedy",
+    "single_task_GP + EI",
+    "single_task_NAP",
+    "Cross-fitted single-task NAP",
+    "Original NAP + top-removal augmentation",
+    "Revised NAP + top-removal augmentation"
+  ],
+  "pools": 4625,
+  "large_pools": 580,
+  "episodes": 277500,
+  "jobs": 270,
+  "pdf_pages": 20,
+  "matched_original_test_pools": true,
+  "baseline_orders_unchanged": true,
+  "sources_unchanged": true,
+  "sampling_counts_verified": true
+}

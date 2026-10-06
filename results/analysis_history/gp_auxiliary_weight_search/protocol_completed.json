@@ -1,0 +1,7 @@
+{
+  "status": "complete",
+  "gp_runs": 609,
+  "gp_models": 270,
+  "ppo_models": 90,
+  "report": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/gp_auxiliary_weight_search/reports/gp_auxiliary_weight_search.pdf"
+}

@@ -1,0 +1,749 @@
+endpoint,axis,pool_size,k,method,population,purchases,pools,groups,endpoints,min_endpoint_groups,full_endpoint_coverage
+microsomal_clearance,minimum_size,3,1,Cross-fitted single-task NAP,all_starts,2.5980660463419087,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,Q attention,all_starts,2.799489144316731,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,Q deep_sets,all_starts,2.9146597336252507,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,Q selected,all_starts,2.6608739281153078,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,Q statistics,all_starts,2.6081919357781427,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,Random,all_starts,3.525929535252195,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,Value MCTS,all_starts,2.6423097974822114,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,Value lookahead,all_starts,2.6706805327494982,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,single_task_Delta greedy,all_starts,2.7193486590038316,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,single_task_GP + EI,all_starts,2.6981390257252325,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,1,single_task_NAP,all_starts,2.753375296478745,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,Cross-fitted single-task NAP,all_starts,1.8462415617588033,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,Q attention,all_starts,1.9396551724137931,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,Q deep_sets,all_starts,2.064313081554461,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,Q selected,all_starts,1.8961412151067323,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,Q statistics,all_starts,1.8557288815909505,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,Random,all_starts,2.4799707686037737,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,Value MCTS,all_starts,1.8843732895457033,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,Value lookahead,all_starts,1.908091589126072,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,single_task_Delta greedy,all_starts,1.8950465243568693,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,single_task_GP + EI,all_starts,1.920224411603722,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,2,single_task_NAP,all_starts,1.9104634190841085,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,Cross-fitted single-task NAP,all_starts,1.171820835613939,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,Q attention,all_starts,1.2441160372194855,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,Q deep_sets,all_starts,1.3336070060207992,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,Q selected,all_starts,1.2059843094325853,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,Q statistics,all_starts,1.1870552818828681,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,Random,all_starts,1.6440577246447527,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,Value MCTS,all_starts,1.200191570881226,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,Value lookahead,all_starts,1.220899470899471,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,single_task_Delta greedy,all_starts,1.2163382594417078,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,single_task_GP + EI,all_starts,1.234263820470717,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,3,single_task_NAP,all_starts,1.2129173508483853,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,Cross-fitted single-task NAP,all_starts,0.8739281153074256,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,Q attention,all_starts,0.9277504105090312,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,Q deep_sets,all_starts,1.0037401933953658,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,Q selected,all_starts,0.8866538952745849,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,Q statistics,all_starts,0.8707808794015691,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,Random,all_starts,1.2326402271024601,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,Value MCTS,all_starts,0.8827768655354862,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,Value lookahead,all_starts,0.8986954935230798,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,single_task_Delta greedy,all_starts,0.8820470717022442,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,single_task_GP + EI,all_starts,0.921455938697318,1827,897,1,897,True
+microsomal_clearance,minimum_size,3,4,single_task_NAP,all_starts,0.9018427294289364,1827,897,1,897,True
+microsomal_clearance,minimum_size,5,1,Cross-fitted single-task NAP,all_starts,3.58571898650872,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,Q attention,all_starts,3.8954425797959855,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,Q deep_sets,all_starts,4.0918887792036855,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,Q selected,all_starts,3.6765383349786114,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,Q statistics,all_starts,3.597482724580454,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,Random,all_starts,5.088390846567056,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,Value MCTS,all_starts,3.658769332017111,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,Value lookahead,all_starts,3.695952615992103,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,single_task_Delta greedy,all_starts,3.76431391905232,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,single_task_GP + EI,all_starts,3.7485192497532083,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,1,single_task_NAP,all_starts,3.821651859164199,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,Cross-fitted single-task NAP,all_starts,2.4923494570582427,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,Q attention,all_starts,2.6592629154327083,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,Q deep_sets,all_starts,2.8808818690358673,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,Q selected,all_starts,2.5800427772293517,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,Q statistics,all_starts,2.5099539322145445,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,Random,all_starts,3.603148990693413,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,Value MCTS,all_starts,2.5627673576834487,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,Value lookahead,all_starts,2.604886475814413,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,single_task_Delta greedy,all_starts,2.575765054294176,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,single_task_GP + EI,all_starts,2.6243830207305034,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,2,single_task_NAP,all_starts,2.597564988483054,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,Cross-fitted single-task NAP,all_starts,1.9846166502138862,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,Q attention,all_starts,2.115004935834156,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,Q deep_sets,all_starts,2.276406712734452,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,Q selected,all_starts,2.0462323132609415,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,Q statistics,all_starts,2.0120927936821325,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,Random,all_starts,2.8363212862052944,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,Value MCTS,all_starts,2.0357847976307997,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,Value lookahead,all_starts,2.0731326094109908,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,single_task_Delta greedy,all_starts,2.0649062191510366,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,single_task_GP + EI,all_starts,2.0972359328726555,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,3,single_task_NAP,all_starts,2.058736426456071,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,Cross-fitted single-task NAP,all_starts,1.5761763738071735,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,Q attention,all_starts,1.6732477788746298,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,Q deep_sets,all_starts,1.8102994406054622,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,Q selected,all_starts,1.599128002632445,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,Q statistics,all_starts,1.5705001645278052,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,Random,all_starts,2.223132966353598,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,Value MCTS,all_starts,1.592135570911484,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,Value lookahead,all_starts,1.6208456729187233,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,single_task_Delta greedy,all_starts,1.5908193484698914,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,single_task_GP + EI,all_starts,1.6618953603158935,1013,531,1,531,True
+microsomal_clearance,minimum_size,5,4,single_task_NAP,all_starts,1.6265218821980916,1013,531,1,531,True
+microsomal_clearance,minimum_size,10,1,Cross-fitted single-task NAP,all_starts,4.654304029304029,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,Q attention,all_starts,5.13476800976801,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,Q deep_sets,all_starts,5.427197802197802,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,Q selected,all_starts,4.813492063492063,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,Q statistics,all_starts,4.656898656898656,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,Random,all_starts,6.991609517619133,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,Value MCTS,all_starts,4.805402930402931,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,Value lookahead,all_starts,4.857448107448107,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,single_task_Delta greedy,all_starts,4.90934065934066,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,single_task_GP + EI,all_starts,4.943681318681318,546,318,1,318,True
+microsomal_clearance,minimum_size,10,1,single_task_NAP,all_starts,5.097222222222222,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,Cross-fitted single-task NAP,all_starts,3.1686507936507935,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,Q attention,all_starts,3.474511599511599,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,Q deep_sets,all_starts,3.827838827838828,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,Q selected,all_starts,3.3235653235653237,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,Q statistics,all_starts,3.177197802197802,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,Random,all_starts,4.9732334492430645,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,Value MCTS,all_starts,3.293192918192918,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,Value lookahead,all_starts,3.382936507936508,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,single_task_Delta greedy,all_starts,3.3301282051282053,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,single_task_GP + EI,all_starts,3.39514652014652,546,318,1,318,True
+microsomal_clearance,minimum_size,10,2,single_task_NAP,all_starts,3.4091880341880345,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,Cross-fitted single-task NAP,all_starts,2.5595238095238093,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,Q attention,all_starts,2.784035409035409,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,Q deep_sets,all_starts,3.0358669108669107,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,Q selected,all_starts,2.663003663003663,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,Q statistics,all_starts,2.5923382173382175,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,Random,all_starts,3.962769838779454,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,Value MCTS,all_starts,2.6233211233211233,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,Value lookahead,all_starts,2.712759462759463,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,single_task_Delta greedy,all_starts,2.6836080586080584,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,single_task_GP + EI,all_starts,2.7367216117216118,546,318,1,318,True
+microsomal_clearance,minimum_size,10,3,single_task_NAP,all_starts,2.6932234432234434,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,Cross-fitted single-task NAP,all_starts,2.182387057387057,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,Q attention,all_starts,2.350732600732601,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,Q deep_sets,all_starts,2.583638583638584,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,Q selected,all_starts,2.2202380952380953,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,Q statistics,all_starts,2.157814407814408,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,Random,all_starts,3.2963600072597328,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,Value MCTS,all_starts,2.1956654456654454,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,Value lookahead,all_starts,2.2547313797313797,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,single_task_Delta greedy,all_starts,2.20970695970696,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,single_task_GP + EI,all_starts,2.322802197802198,546,318,1,318,True
+microsomal_clearance,minimum_size,10,4,single_task_NAP,all_starts,2.278083028083028,546,318,1,318,True
+microsomal_clearance,minimum_size,15,1,Cross-fitted single-task NAP,all_starts,5.39951768488746,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,Q attention,all_starts,6.158628081457663,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,Q deep_sets,all_starts,6.62245444801715,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,Q selected,all_starts,5.668810289389068,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,Q statistics,all_starts,5.347534833869239,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,Random,all_starts,8.621329033149774,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,Value MCTS,all_starts,5.652733118971061,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,Value lookahead,all_starts,5.695069667738478,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,single_task_Delta greedy,all_starts,5.695337620578778,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,single_task_GP + EI,all_starts,5.835209003215434,311,183,1,183,True
+microsomal_clearance,minimum_size,15,1,single_task_NAP,all_starts,6.110932475884244,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,Cross-fitted single-task NAP,all_starts,3.6095927116827435,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,Q attention,all_starts,4.072347266881029,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,Q deep_sets,all_starts,4.584673097534834,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,Q selected,all_starts,3.8925509110396566,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,Q statistics,all_starts,3.587352625937835,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,Random,all_starts,6.1396723190171745,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,Value MCTS,all_starts,3.8183279742765275,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,Value lookahead,all_starts,3.9222936763129685,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,single_task_Delta greedy,all_starts,3.7612540192926045,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,single_task_GP + EI,all_starts,3.9316720257234725,311,183,1,183,True
+microsomal_clearance,minimum_size,15,2,single_task_NAP,all_starts,3.989281886387996,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,Cross-fitted single-task NAP,all_starts,2.880760986066452,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,Q attention,all_starts,3.2363344051446945,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,Q deep_sets,all_starts,3.6010182207931405,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,Q selected,all_starts,3.0763665594855305,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,Q statistics,all_starts,2.9239013933547695,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,Random,all_starts,4.917604372672701,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,Value MCTS,all_starts,2.985530546623794,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,Value lookahead,all_starts,3.080385852090032,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,single_task_Delta greedy,all_starts,3.030546623794212,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,single_task_GP + EI,all_starts,3.139871382636656,311,183,1,183,True
+microsomal_clearance,minimum_size,15,3,single_task_NAP,all_starts,3.130225080385852,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,Cross-fitted single-task NAP,all_starts,2.5058949624866025,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,Q attention,all_starts,2.7532154340836015,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,Q deep_sets,all_starts,3.065648445873526,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,Q selected,all_starts,2.6117363344051445,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,Q statistics,all_starts,2.4737406216505895,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,Random,all_starts,4.135686576285451,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,Value MCTS,all_starts,2.542604501607717,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,Value lookahead,all_starts,2.621650589496249,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,single_task_Delta greedy,all_starts,2.4590032154340835,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,single_task_GP + EI,all_starts,2.7090032154340835,311,183,1,183,True
+microsomal_clearance,minimum_size,15,4,single_task_NAP,all_starts,2.6256698821007505,311,183,1,183,True
+microsomal_clearance,minimum_size,20,1,Cross-fitted single-task NAP,all_starts,6.280430711610487,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,Q attention,all_starts,7.025749063670411,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,Q deep_sets,all_starts,7.666198501872659,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,Q selected,all_starts,6.684925093632959,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,Q statistics,all_starts,6.267322097378277,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,Random,all_starts,10.327858011994248,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,Value MCTS,all_starts,6.512640449438202,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,Value lookahead,all_starts,6.693820224719101,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,single_task_Delta greedy,all_starts,6.837078651685394,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,single_task_GP + EI,all_starts,6.807584269662922,178,108,1,108,True
+microsomal_clearance,minimum_size,20,1,single_task_NAP,all_starts,7.206928838951311,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,Cross-fitted single-task NAP,all_starts,4.183988764044944,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,Q attention,all_starts,4.5482209737827715,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,Q deep_sets,all_starts,5.219569288389513,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,Q selected,all_starts,4.578651685393258,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,Q statistics,all_starts,4.133426966292135,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,Random,all_starts,7.284131420233949,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,Value MCTS,all_starts,4.433988764044944,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,Value lookahead,all_starts,4.576310861423221,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,single_task_Delta greedy,all_starts,4.394662921348314,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,single_task_GP + EI,all_starts,4.487359550561798,178,108,1,108,True
+microsomal_clearance,minimum_size,20,2,single_task_NAP,all_starts,4.49812734082397,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,Cross-fitted single-task NAP,all_starts,3.2036516853932584,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,Q attention,all_starts,3.6722846441947565,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,Q deep_sets,all_starts,4.046348314606742,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,Q selected,all_starts,3.480337078651685,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,Q statistics,all_starts,3.2720037453183517,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,Random,all_starts,5.837178747438578,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,Value MCTS,all_starts,3.331928838951311,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,Value lookahead,all_starts,3.438670411985019,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,single_task_Delta greedy,all_starts,3.418539325842697,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,single_task_GP + EI,all_starts,3.497191011235955,178,108,1,108,True
+microsomal_clearance,minimum_size,20,3,single_task_NAP,all_starts,3.4377340823970037,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,Cross-fitted single-task NAP,all_starts,2.8057116104868913,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,Q attention,all_starts,3.1465355805243447,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,Q deep_sets,all_starts,3.4166666666666665,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,Q selected,all_starts,2.9906367041198503,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,Q statistics,all_starts,2.789325842696629,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,Random,all_starts,4.939656419579173,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,Value MCTS,all_starts,2.834737827715356,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,Value lookahead,all_starts,2.9489700374531833,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,single_task_Delta greedy,all_starts,2.8019662921348316,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,single_task_GP + EI,all_starts,3.0014044943820224,178,108,1,108,True
+microsomal_clearance,minimum_size,20,4,single_task_NAP,all_starts,2.943820224719101,178,108,1,108,True
+microsomal_clearance,minimum_size,25,1,Cross-fitted single-task NAP,all_starts,6.462053571428571,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,Q attention,all_starts,7.453125,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,Q deep_sets,all_starts,8.703869047619047,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,Q selected,all_starts,7.169642857142857,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,Q statistics,all_starts,6.586309523809524,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,Random,all_starts,11.365781126115948,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,Value MCTS,all_starts,6.988095238095238,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,Value lookahead,all_starts,7.313244047619048,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,single_task_Delta greedy,all_starts,7.497767857142857,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,single_task_GP + EI,all_starts,7.169642857142857,112,71,1,71,True
+microsomal_clearance,minimum_size,25,1,single_task_NAP,all_starts,7.5840773809523805,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,Cross-fitted single-task NAP,all_starts,4.576636904761905,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,Q attention,all_starts,5.030505952380952,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,Q deep_sets,all_starts,5.945684523809524,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,Q selected,all_starts,5.121279761904762,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,Q statistics,all_starts,4.596726190476191,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,Random,all_starts,8.178281126115948,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,Value MCTS,all_starts,4.911458333333334,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,Value lookahead,all_starts,5.208333333333334,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,single_task_Delta greedy,all_starts,5.033482142857143,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,single_task_GP + EI,all_starts,4.962053571428571,112,71,1,71,True
+microsomal_clearance,minimum_size,25,2,single_task_NAP,all_starts,4.905505952380952,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,Cross-fitted single-task NAP,all_starts,3.572172619047619,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,Q attention,all_starts,4.075148809523809,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,Q deep_sets,all_starts,4.511160714285714,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,Q selected,all_starts,3.8876488095238098,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,Q statistics,all_starts,3.703125,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,Random,all_starts,6.632975390185211,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,Value MCTS,all_starts,3.664434523809524,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,Value lookahead,all_starts,3.8705357142857144,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,single_task_Delta greedy,all_starts,3.9151785714285716,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,single_task_GP + EI,all_starts,4.017857142857143,112,71,1,71,True
+microsomal_clearance,minimum_size,25,3,single_task_NAP,all_starts,3.7120535714285716,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,Cross-fitted single-task NAP,all_starts,3.0669642857142856,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,Q attention,all_starts,3.413690476190476,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,Q deep_sets,all_starts,3.837797619047619,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,Q selected,all_starts,3.2566964285714284,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,Q statistics,all_starts,3.0796130952380953,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,Random,all_starts,5.632448833408654,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,Value MCTS,all_starts,3.0513392857142856,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,Value lookahead,all_starts,3.269345238095238,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,single_task_Delta greedy,all_starts,3.109375,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,single_task_GP + EI,all_starts,3.421875,112,71,1,71,True
+microsomal_clearance,minimum_size,25,4,single_task_NAP,all_starts,3.1651785714285716,112,71,1,71,True
+microsomal_clearance,minimum_size,30,1,Cross-fitted single-task NAP,all_starts,6.322769953051643,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,Q attention,all_starts,7.111502347417841,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,Q deep_sets,all_starts,8.834507042253522,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,Q selected,all_starts,7.221830985915493,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,Q statistics,all_starts,6.343896713615024,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,Random,all_starts,12.803907137463476,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,Value MCTS,all_starts,7.268779342723005,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,Value lookahead,all_starts,7.511737089201879,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,single_task_Delta greedy,all_starts,7.429577464788732,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,single_task_GP + EI,all_starts,7.362676056338028,71,45,1,45,True
+microsomal_clearance,minimum_size,30,1,single_task_NAP,all_starts,7.64319248826291,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,Cross-fitted single-task NAP,all_starts,4.673708920187793,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,Q attention,all_starts,5.078638497652582,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,Q deep_sets,all_starts,6.46244131455399,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,Q selected,all_starts,5.338028169014085,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,Q statistics,all_starts,4.577464788732394,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,Random,all_starts,9.313296808824978,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,Value MCTS,all_starts,5.341549295774648,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,Value lookahead,all_starts,5.541079812206573,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,single_task_Delta greedy,all_starts,4.859154929577465,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,single_task_GP + EI,all_starts,5.28169014084507,71,45,1,45,True
+microsomal_clearance,minimum_size,30,2,single_task_NAP,all_starts,5.05868544600939,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,Cross-fitted single-task NAP,all_starts,3.4295774647887325,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,Q attention,all_starts,3.987089201877934,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,Q deep_sets,all_starts,4.651408450704225,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,Q selected,all_starts,3.8075117370892015,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,Q statistics,all_starts,3.5258215962441315,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,Random,all_starts,7.532204192521093,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,Value MCTS,all_starts,3.7007042253521125,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,Value lookahead,all_starts,3.7899061032863846,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,single_task_Delta greedy,all_starts,3.7746478873239435,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,single_task_GP + EI,all_starts,4.035211267605634,71,45,1,45,True
+microsomal_clearance,minimum_size,30,3,single_task_NAP,all_starts,3.7992957746478875,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,Cross-fitted single-task NAP,all_starts,3.022300469483568,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,Q attention,all_starts,3.3568075117370895,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,Q deep_sets,all_starts,3.980046948356807,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,Q selected,all_starts,3.2476525821596245,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,Q statistics,all_starts,2.983568075117371,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,Random,all_starts,6.429260891690469,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,Value MCTS,all_starts,3.147887323943662,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,Value lookahead,all_starts,3.2699530516431925,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,single_task_Delta greedy,all_starts,2.9859154929577465,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,single_task_GP + EI,all_starts,3.5774647887323945,71,45,1,45,True
+microsomal_clearance,minimum_size,30,4,single_task_NAP,all_starts,3.2089201877934275,71,45,1,45,True
+microsomal_clearance,minimum_size,35,1,Cross-fitted single-task NAP,all_starts,7.206521739130435,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,Q attention,all_starts,7.9855072463768115,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,Q deep_sets,all_starts,10.076086956521738,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,Q selected,all_starts,8.684782608695652,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,Q statistics,all_starts,7.43659420289855,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,Random,all_starts,15.08648291925466,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,Value MCTS,all_starts,8.646739130434783,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,Value lookahead,all_starts,9.16304347826087,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,single_task_Delta greedy,all_starts,8.608695652173912,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,single_task_GP + EI,all_starts,8.423913043478262,46,31,1,31,True
+microsomal_clearance,minimum_size,35,1,single_task_NAP,all_starts,8.97463768115942,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,Cross-fitted single-task NAP,all_starts,5.253623188405797,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,Q attention,all_starts,5.496376811594203,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,Q deep_sets,all_starts,7.06340579710145,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,Q selected,all_starts,6.161231884057972,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,Q statistics,all_starts,5.059782608695652,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,Random,all_starts,10.738656832298137,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,Value MCTS,all_starts,6.135869565217392,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,Value lookahead,all_starts,6.565217391304348,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,single_task_Delta greedy,all_starts,5.315217391304348,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,single_task_GP + EI,all_starts,6.032608695652174,46,31,1,31,True
+microsomal_clearance,minimum_size,35,2,single_task_NAP,all_starts,6.1231884057971016,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,Cross-fitted single-task NAP,all_starts,3.6648550724637685,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,Q attention,all_starts,4.2355072463768115,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,Q deep_sets,all_starts,5.117753623188405,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,Q selected,all_starts,4.465579710144928,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,Q statistics,all_starts,3.6340579710144927,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,Random,all_starts,8.7323327216262,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,Value MCTS,all_starts,4.326086956521739,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,Value lookahead,all_starts,4.574275362318841,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,single_task_Delta greedy,all_starts,3.8206521739130435,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,single_task_GP + EI,all_starts,4.407608695652174,46,31,1,31,True
+microsomal_clearance,minimum_size,35,3,single_task_NAP,all_starts,4.6231884057971016,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,Cross-fitted single-task NAP,all_starts,3.153985507246377,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,Q attention,all_starts,3.610507246376812,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,Q deep_sets,all_starts,4.719202898550725,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,Q selected,all_starts,3.864130434782609,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,Q statistics,all_starts,3.0851449275362315,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,Random,all_starts,7.577622576698664,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,Value MCTS,all_starts,3.606884057971014,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,Value lookahead,all_starts,3.907608695652174,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,single_task_Delta greedy,all_starts,3.2880434782608696,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,single_task_GP + EI,all_starts,3.8206521739130435,46,31,1,31,True
+microsomal_clearance,minimum_size,35,4,single_task_NAP,all_starts,3.8224637681159424,46,31,1,31,True
+microsomal_clearance,minimum_size,40,1,Cross-fitted single-task NAP,all_starts,7.419270833333333,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,Q attention,all_starts,8.278645833333334,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,Q deep_sets,all_starts,9.2890625,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,Q selected,all_starts,9.401041666666666,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,Q statistics,all_starts,8.088541666666666,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,Random,all_starts,16.057652529761903,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,Value MCTS,all_starts,9.328125,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,Value lookahead,all_starts,9.692708333333334,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,single_task_Delta greedy,all_starts,8.703125,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,single_task_GP + EI,all_starts,8.6328125,32,21,1,21,True
+microsomal_clearance,minimum_size,40,1,single_task_NAP,all_starts,8.635416666666666,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,Cross-fitted single-task NAP,all_starts,5.065104166666667,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,Q attention,all_starts,5.403645833333333,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,Q deep_sets,all_starts,6.432291666666667,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,Q selected,all_starts,6.21875,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,Q statistics,all_starts,4.984375,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,Random,all_starts,11.135777529761905,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,Value MCTS,all_starts,6.041666666666667,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,Value lookahead,all_starts,6.408854166666666,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,single_task_Delta greedy,all_starts,4.9453125,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,single_task_GP + EI,all_starts,6.0625,32,21,1,21,True
+microsomal_clearance,minimum_size,40,2,single_task_NAP,all_starts,5.5390625,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,Cross-fitted single-task NAP,all_starts,3.359375,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,Q attention,all_starts,3.8072916666666665,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,Q deep_sets,all_starts,4.567708333333333,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,Q selected,all_starts,4.286458333333333,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,Q statistics,all_starts,3.3984375,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,Random,all_starts,9.115749120670996,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,Value MCTS,all_starts,4.145833333333333,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,Value lookahead,all_starts,4.3203125,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,single_task_Delta greedy,all_starts,3.3203125,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,single_task_GP + EI,all_starts,4.46875,32,21,1,21,True
+microsomal_clearance,minimum_size,40,3,single_task_NAP,all_starts,4.122395833333333,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,Cross-fitted single-task NAP,all_starts,3.049479166666667,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,Q attention,all_starts,3.2734375,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,Q deep_sets,all_starts,4.338541666666667,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,Q selected,all_starts,3.5963541666666665,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,Q statistics,all_starts,2.8463541666666665,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,Random,all_starts,7.974603287337662,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,Value MCTS,all_starts,3.4140625,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,Value lookahead,all_starts,3.515625,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,single_task_Delta greedy,all_starts,2.8203125,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,single_task_GP + EI,all_starts,4.0234375,32,21,1,21,True
+microsomal_clearance,minimum_size,40,4,single_task_NAP,all_starts,3.5182291666666665,32,21,1,21,True
+microsomal_clearance,minimum_size,45,1,Cross-fitted single-task NAP,all_starts,5.351851851851851,18,11,1,11,True
+microsomal_clearance,minimum_size,45,1,Q attention,all_starts,7.324074074074074,18,11,1,11,True
+microsomal_clearance,minimum_size,45,1,Q deep_sets,all_starts,9.203703703703702,18,11,1,11,True
+microsomal_clearance,minimum_size,45,1,Q selected,all_starts,10.550925925925926,18,11,1,11,True
+microsomal_clearance,minimum_size,45,1,Q statistics,all_starts,7.791666666666667,18,11,1,11,True
+microsomal_clearance,minimum_size,45,1,Random,all_starts,18.268234126984126,18,11,1,11,True
+microsomal_clearance,minimum_size,45,1,Value MCTS,all_starts,9.912037037037036,18,11,1,11,True
+microsomal_clearance,minimum_size,45,1,Value lookahead,all_starts,10.546296296296298,18,11,1,11,True
+microsomal_clearance,minimum_size,45,1,single_task_Delta greedy,all_starts,8.930555555555555,18,11,1,11,True
+microsomal_clearance,minimum_size,45,1,single_task_GP + EI,all_starts,6.472222222222222,18,11,1,11,True
+microsomal_clearance,minimum_size,45,1,single_task_NAP,all_starts,7.643518518518519,18,11,1,11,True
+microsomal_clearance,minimum_size,45,2,Cross-fitted single-task NAP,all_starts,3.9629629629629637,18,11,1,11,True
+microsomal_clearance,minimum_size,45,2,Q attention,all_starts,5.1342592592592595,18,11,1,11,True
+microsomal_clearance,minimum_size,45,2,Q deep_sets,all_starts,6.847222222222222,18,11,1,11,True
+microsomal_clearance,minimum_size,45,2,Q selected,all_starts,6.4490740740740735,18,11,1,11,True
+microsomal_clearance,minimum_size,45,2,Q statistics,all_starts,4.319444444444445,18,11,1,11,True
+microsomal_clearance,minimum_size,45,2,Random,all_starts,12.499715608465609,18,11,1,11,True
+microsomal_clearance,minimum_size,45,2,Value MCTS,all_starts,5.847222222222222,18,11,1,11,True
+microsomal_clearance,minimum_size,45,2,Value lookahead,all_starts,6.537037037037036,18,11,1,11,True
+microsomal_clearance,minimum_size,45,2,single_task_Delta greedy,all_starts,4.166666666666667,18,11,1,11,True
+microsomal_clearance,minimum_size,45,2,single_task_GP + EI,all_starts,4.791666666666667,18,11,1,11,True
+microsomal_clearance,minimum_size,45,2,single_task_NAP,all_starts,4.37037037037037,18,11,1,11,True
+microsomal_clearance,minimum_size,45,3,Cross-fitted single-task NAP,all_starts,3.6620370370370363,18,11,1,11,True
+microsomal_clearance,minimum_size,45,3,Q attention,all_starts,4.62037037037037,18,11,1,11,True
+microsomal_clearance,minimum_size,45,3,Q deep_sets,all_starts,6.046296296296296,18,11,1,11,True
+microsomal_clearance,minimum_size,45,3,Q selected,all_starts,5.476851851851851,18,11,1,11,True
+microsomal_clearance,minimum_size,45,3,Q statistics,all_starts,3.925925925925926,18,11,1,11,True
+microsomal_clearance,minimum_size,45,3,Random,all_starts,10.64045634920635,18,11,1,11,True
+microsomal_clearance,minimum_size,45,3,Value MCTS,all_starts,4.99537037037037,18,11,1,11,True
+microsomal_clearance,minimum_size,45,3,Value lookahead,all_starts,5.388888888888889,18,11,1,11,True
+microsomal_clearance,minimum_size,45,3,single_task_Delta greedy,all_starts,3.75,18,11,1,11,True
+microsomal_clearance,minimum_size,45,3,single_task_GP + EI,all_starts,4.763888888888889,18,11,1,11,True
+microsomal_clearance,minimum_size,45,3,single_task_NAP,all_starts,4.3009259259259265,18,11,1,11,True
+microsomal_clearance,minimum_size,45,4,Cross-fitted single-task NAP,all_starts,3.1527777777777777,18,11,1,11,True
+microsomal_clearance,minimum_size,45,4,Q attention,all_starts,3.671296296296296,18,11,1,11,True
+microsomal_clearance,minimum_size,45,4,Q deep_sets,all_starts,5.657407407407407,18,11,1,11,True
+microsomal_clearance,minimum_size,45,4,Q selected,all_starts,4.37037037037037,18,11,1,11,True
+microsomal_clearance,minimum_size,45,4,Q statistics,all_starts,3.0694444444444446,18,11,1,11,True
+microsomal_clearance,minimum_size,45,4,Random,all_starts,9.303419312169313,18,11,1,11,True
+microsomal_clearance,minimum_size,45,4,Value MCTS,all_starts,3.8333333333333335,18,11,1,11,True
+microsomal_clearance,minimum_size,45,4,Value lookahead,all_starts,4.1157407407407405,18,11,1,11,True
+microsomal_clearance,minimum_size,45,4,single_task_Delta greedy,all_starts,2.9166666666666665,18,11,1,11,True
+microsomal_clearance,minimum_size,45,4,single_task_GP + EI,all_starts,4.263888888888889,18,11,1,11,True
+microsomal_clearance,minimum_size,45,4,single_task_NAP,all_starts,3.935185185185185,18,11,1,11,True
+microsomal_clearance,minimum_size,50,1,Cross-fitted single-task NAP,all_starts,6.059523809523809,14,8,1,8,True
+microsomal_clearance,minimum_size,50,1,Q attention,all_starts,8.059523809523808,14,8,1,8,True
+microsomal_clearance,minimum_size,50,1,Q deep_sets,all_starts,10.571428571428571,14,8,1,8,True
+microsomal_clearance,minimum_size,50,1,Q selected,all_starts,11.761904761904761,14,8,1,8,True
+microsomal_clearance,minimum_size,50,1,Q statistics,all_starts,9.065476190476192,14,8,1,8,True
+microsomal_clearance,minimum_size,50,1,Random,all_starts,20.043852040816326,14,8,1,8,True
+microsomal_clearance,minimum_size,50,1,Value MCTS,all_starts,11.660714285714286,14,8,1,8,True
+microsomal_clearance,minimum_size,50,1,Value lookahead,all_starts,11.922619047619047,14,8,1,8,True
+microsomal_clearance,minimum_size,50,1,single_task_Delta greedy,all_starts,10.25,14,8,1,8,True
+microsomal_clearance,minimum_size,50,1,single_task_GP + EI,all_starts,7.464285714285714,14,8,1,8,True
+microsomal_clearance,minimum_size,50,1,single_task_NAP,all_starts,8.970238095238095,14,8,1,8,True
+microsomal_clearance,minimum_size,50,2,Cross-fitted single-task NAP,all_starts,4.303571428571429,14,8,1,8,True
+microsomal_clearance,minimum_size,50,2,Q attention,all_starts,5.5059523809523805,14,8,1,8,True
+microsomal_clearance,minimum_size,50,2,Q deep_sets,all_starts,7.589285714285714,14,8,1,8,True
+microsomal_clearance,minimum_size,50,2,Q selected,all_starts,6.845238095238095,14,8,1,8,True
+microsomal_clearance,minimum_size,50,2,Q statistics,all_starts,4.922619047619048,14,8,1,8,True
+microsomal_clearance,minimum_size,50,2,Random,all_starts,13.174804421768709,14,8,1,8,True
+microsomal_clearance,minimum_size,50,2,Value MCTS,all_starts,6.779761904761905,14,8,1,8,True
+microsomal_clearance,minimum_size,50,2,Value lookahead,all_starts,7.202380952380952,14,8,1,8,True
+microsomal_clearance,minimum_size,50,2,single_task_Delta greedy,all_starts,4.392857142857143,14,8,1,8,True
+microsomal_clearance,minimum_size,50,2,single_task_GP + EI,all_starts,5.732142857142857,14,8,1,8,True
+microsomal_clearance,minimum_size,50,2,single_task_NAP,all_starts,5.142857142857143,14,8,1,8,True
+microsomal_clearance,minimum_size,50,3,Cross-fitted single-task NAP,all_starts,4.291666666666666,14,8,1,8,True
+microsomal_clearance,minimum_size,50,3,Q attention,all_starts,4.970238095238095,14,8,1,8,True
+microsomal_clearance,minimum_size,50,3,Q deep_sets,all_starts,6.690476190476191,14,8,1,8,True
+microsomal_clearance,minimum_size,50,3,Q selected,all_starts,5.738095238095238,14,8,1,8,True
+microsomal_clearance,minimum_size,50,3,Q statistics,all_starts,4.577380952380952,14,8,1,8,True
+microsomal_clearance,minimum_size,50,3,Random,all_starts,11.222423469387754,14,8,1,8,True
+microsomal_clearance,minimum_size,50,3,Value MCTS,all_starts,5.761904761904762,14,8,1,8,True
+microsomal_clearance,minimum_size,50,3,Value lookahead,all_starts,5.851190476190476,14,8,1,8,True
+microsomal_clearance,minimum_size,50,3,single_task_Delta greedy,all_starts,4.214285714285714,14,8,1,8,True
+microsomal_clearance,minimum_size,50,3,single_task_GP + EI,all_starts,5.696428571428571,14,8,1,8,True
+microsomal_clearance,minimum_size,50,3,single_task_NAP,all_starts,5.077380952380952,14,8,1,8,True
+microsomal_clearance,minimum_size,50,4,Cross-fitted single-task NAP,all_starts,3.6369047619047623,14,8,1,8,True
+microsomal_clearance,minimum_size,50,4,Q attention,all_starts,3.827380952380952,14,8,1,8,True
+microsomal_clearance,minimum_size,50,4,Q deep_sets,all_starts,6.190476190476191,14,8,1,8,True
+microsomal_clearance,minimum_size,50,4,Q selected,all_starts,4.315476190476191,14,8,1,8,True
+microsomal_clearance,minimum_size,50,4,Q statistics,all_starts,3.476190476190476,14,8,1,8,True
+microsomal_clearance,minimum_size,50,4,Random,all_starts,9.66766156462585,14,8,1,8,True
+microsomal_clearance,minimum_size,50,4,Value MCTS,all_starts,4.279761904761905,14,8,1,8,True
+microsomal_clearance,minimum_size,50,4,Value lookahead,all_starts,4.214285714285714,14,8,1,8,True
+microsomal_clearance,minimum_size,50,4,single_task_Delta greedy,all_starts,3.142857142857143,14,8,1,8,True
+microsomal_clearance,minimum_size,50,4,single_task_GP + EI,all_starts,5.053571428571429,14,8,1,8,True
+microsomal_clearance,minimum_size,50,4,single_task_NAP,all_starts,4.607142857142857,14,8,1,8,True
+microsomal_clearance,minimum_size,55,1,Cross-fitted single-task NAP,all_starts,8.814814814814815,9,6,1,6,True
+microsomal_clearance,minimum_size,55,1,Q attention,all_starts,11.472222222222221,9,6,1,6,True
+microsomal_clearance,minimum_size,55,1,Q deep_sets,all_starts,14.416666666666666,9,6,1,6,True
+microsomal_clearance,minimum_size,55,1,Q selected,all_starts,17.50925925925926,9,6,1,6,True
+microsomal_clearance,minimum_size,55,1,Q statistics,all_starts,13.296296296296298,9,6,1,6,True
+microsomal_clearance,minimum_size,55,1,Random,all_starts,27.40888888888889,9,6,1,6,True
+microsomal_clearance,minimum_size,55,1,Value MCTS,all_starts,17.212962962962965,9,6,1,6,True
+microsomal_clearance,minimum_size,55,1,Value lookahead,all_starts,17.555555555555557,9,6,1,6,True
+microsomal_clearance,minimum_size,55,1,single_task_Delta greedy,all_starts,15.0,9,6,1,6,True
+microsomal_clearance,minimum_size,55,1,single_task_GP + EI,all_starts,10.555555555555555,9,6,1,6,True
+microsomal_clearance,minimum_size,55,1,single_task_NAP,all_starts,12.101851851851851,9,6,1,6,True
+microsomal_clearance,minimum_size,55,2,Cross-fitted single-task NAP,all_starts,6.083333333333333,9,6,1,6,True
+microsomal_clearance,minimum_size,55,2,Q attention,all_starts,7.5,9,6,1,6,True
+microsomal_clearance,minimum_size,55,2,Q deep_sets,all_starts,9.777777777777779,9,6,1,6,True
+microsomal_clearance,minimum_size,55,2,Q selected,all_starts,9.86111111111111,9,6,1,6,True
+microsomal_clearance,minimum_size,55,2,Q statistics,all_starts,6.851851851851851,9,6,1,6,True
+microsomal_clearance,minimum_size,55,2,Random,all_starts,16.723703703703706,9,6,1,6,True
+microsomal_clearance,minimum_size,55,2,Value MCTS,all_starts,9.62037037037037,9,6,1,6,True
+microsomal_clearance,minimum_size,55,2,Value lookahead,all_starts,10.212962962962962,9,6,1,6,True
+microsomal_clearance,minimum_size,55,2,single_task_Delta greedy,all_starts,5.888888888888889,9,6,1,6,True
+microsomal_clearance,minimum_size,55,2,single_task_GP + EI,all_starts,7.861111111111111,9,6,1,6,True
+microsomal_clearance,minimum_size,55,2,single_task_NAP,all_starts,6.148148148148149,9,6,1,6,True
+microsomal_clearance,minimum_size,55,3,Cross-fitted single-task NAP,all_starts,6.064814814814814,9,6,1,6,True
+microsomal_clearance,minimum_size,55,3,Q attention,all_starts,6.666666666666667,9,6,1,6,True
+microsomal_clearance,minimum_size,55,3,Q deep_sets,all_starts,8.37962962962963,9,6,1,6,True
+microsomal_clearance,minimum_size,55,3,Q selected,all_starts,8.13888888888889,9,6,1,6,True
+microsomal_clearance,minimum_size,55,3,Q statistics,all_starts,6.314814814814814,9,6,1,6,True
+microsomal_clearance,minimum_size,55,3,Random,all_starts,13.686666666666667,9,6,1,6,True
+microsomal_clearance,minimum_size,55,3,Value MCTS,all_starts,8.037037037037036,9,6,1,6,True
+microsomal_clearance,minimum_size,55,3,Value lookahead,all_starts,8.11111111111111,9,6,1,6,True
+microsomal_clearance,minimum_size,55,3,single_task_Delta greedy,all_starts,5.611111111111111,9,6,1,6,True
+microsomal_clearance,minimum_size,55,3,single_task_GP + EI,all_starts,7.805555555555555,9,6,1,6,True
+microsomal_clearance,minimum_size,55,3,single_task_NAP,all_starts,6.046296296296296,9,6,1,6,True
+microsomal_clearance,minimum_size,55,4,Cross-fitted single-task NAP,all_starts,5.046296296296297,9,6,1,6,True
+microsomal_clearance,minimum_size,55,4,Q attention,all_starts,4.888888888888889,9,6,1,6,True
+microsomal_clearance,minimum_size,55,4,Q deep_sets,all_starts,7.601851851851852,9,6,1,6,True
+microsomal_clearance,minimum_size,55,4,Q selected,all_starts,5.9259259259259265,9,6,1,6,True
+microsomal_clearance,minimum_size,55,4,Q statistics,all_starts,4.601851851851851,9,6,1,6,True
+microsomal_clearance,minimum_size,55,4,Random,all_starts,11.26814814814815,9,6,1,6,True
+microsomal_clearance,minimum_size,55,4,Value MCTS,all_starts,5.731481481481482,9,6,1,6,True
+microsomal_clearance,minimum_size,55,4,Value lookahead,all_starts,5.564814814814814,9,6,1,6,True
+microsomal_clearance,minimum_size,55,4,single_task_Delta greedy,all_starts,3.9444444444444446,9,6,1,6,True
+microsomal_clearance,minimum_size,55,4,single_task_GP + EI,all_starts,6.805555555555555,9,6,1,6,True
+microsomal_clearance,minimum_size,55,4,single_task_NAP,all_starts,5.314814814814815,9,6,1,6,True
+microsomal_clearance,minimum_size,60,1,Cross-fitted single-task NAP,all_starts,9.375,8,6,1,6,True
+microsomal_clearance,minimum_size,60,1,Q attention,all_starts,10.75,8,6,1,6,True
+microsomal_clearance,minimum_size,60,1,Q deep_sets,all_starts,12.96875,8,6,1,6,True
+microsomal_clearance,minimum_size,60,1,Q selected,all_starts,16.729166666666668,8,6,1,6,True
+microsomal_clearance,minimum_size,60,1,Q statistics,all_starts,14.479166666666668,8,6,1,6,True
+microsomal_clearance,minimum_size,60,1,Random,all_starts,27.335,8,6,1,6,True
+microsomal_clearance,minimum_size,60,1,Value MCTS,all_starts,16.75,8,6,1,6,True
+microsomal_clearance,minimum_size,60,1,Value lookahead,all_starts,16.854166666666664,8,6,1,6,True
+microsomal_clearance,minimum_size,60,1,single_task_Delta greedy,all_starts,15.90625,8,6,1,6,True
+microsomal_clearance,minimum_size,60,1,single_task_GP + EI,all_starts,10.9375,8,6,1,6,True
+microsomal_clearance,minimum_size,60,1,single_task_NAP,all_starts,10.875,8,6,1,6,True
+microsomal_clearance,minimum_size,60,2,Cross-fitted single-task NAP,all_starts,6.302083333333334,8,6,1,6,True
+microsomal_clearance,minimum_size,60,2,Q attention,all_starts,6.864583333333333,8,6,1,6,True
+microsomal_clearance,minimum_size,60,2,Q deep_sets,all_starts,8.395833333333334,8,6,1,6,True
+microsomal_clearance,minimum_size,60,2,Q selected,all_starts,8.635416666666666,8,6,1,6,True
+microsomal_clearance,minimum_size,60,2,Q statistics,all_starts,7.229166666666666,8,6,1,6,True
+microsomal_clearance,minimum_size,60,2,Random,all_starts,16.480833333333333,8,6,1,6,True
+microsomal_clearance,minimum_size,60,2,Value MCTS,all_starts,8.65625,8,6,1,6,True
+microsomal_clearance,minimum_size,60,2,Value lookahead,all_starts,9.104166666666666,8,6,1,6,True
+microsomal_clearance,minimum_size,60,2,single_task_Delta greedy,all_starts,5.65625,8,6,1,6,True
+microsomal_clearance,minimum_size,60,2,single_task_GP + EI,all_starts,7.90625,8,6,1,6,True
+microsomal_clearance,minimum_size,60,2,single_task_NAP,all_starts,4.177083333333333,8,6,1,6,True
+microsomal_clearance,minimum_size,60,3,Cross-fitted single-task NAP,all_starts,6.28125,8,6,1,6,True
+microsomal_clearance,minimum_size,60,3,Q attention,all_starts,6.59375,8,6,1,6,True
+microsomal_clearance,minimum_size,60,3,Q deep_sets,all_starts,7.833333333333334,8,6,1,6,True
+microsomal_clearance,minimum_size,60,3,Q selected,all_starts,7.395833333333333,8,6,1,6,True
+microsomal_clearance,minimum_size,60,3,Q statistics,all_starts,6.625,8,6,1,6,True
+microsomal_clearance,minimum_size,60,3,Random,all_starts,13.6475,8,6,1,6,True
+microsomal_clearance,minimum_size,60,3,Value MCTS,all_starts,7.25,8,6,1,6,True
+microsomal_clearance,minimum_size,60,3,Value lookahead,all_starts,7.416666666666666,8,6,1,6,True
+microsomal_clearance,minimum_size,60,3,single_task_Delta greedy,all_starts,5.59375,8,6,1,6,True
+microsomal_clearance,minimum_size,60,3,single_task_GP + EI,all_starts,7.84375,8,6,1,6,True
+microsomal_clearance,minimum_size,60,3,single_task_NAP,all_starts,4.104166666666666,8,6,1,6,True
+microsomal_clearance,minimum_size,60,4,Cross-fitted single-task NAP,all_starts,5.395833333333334,8,6,1,6,True
+microsomal_clearance,minimum_size,60,4,Q attention,all_starts,4.8125,8,6,1,6,True
+microsomal_clearance,minimum_size,60,4,Q deep_sets,all_starts,7.0625,8,6,1,6,True
+microsomal_clearance,minimum_size,60,4,Q selected,all_starts,5.28125,8,6,1,6,True
+microsomal_clearance,minimum_size,60,4,Q statistics,all_starts,4.697916666666666,8,6,1,6,True
+microsomal_clearance,minimum_size,60,4,Random,all_starts,11.51,8,6,1,6,True
+microsomal_clearance,minimum_size,60,4,Value MCTS,all_starts,5.0625,8,6,1,6,True
+microsomal_clearance,minimum_size,60,4,Value lookahead,all_starts,4.927083333333333,8,6,1,6,True
+microsomal_clearance,minimum_size,60,4,single_task_Delta greedy,all_starts,3.71875,8,6,1,6,True
+microsomal_clearance,minimum_size,60,4,single_task_GP + EI,all_starts,6.96875,8,6,1,6,True
+microsomal_clearance,minimum_size,60,4,single_task_NAP,all_starts,3.927083333333333,8,6,1,6,True
+microsomal_clearance,minimum_size,65,1,Cross-fitted single-task NAP,all_starts,13.1,5,4,1,4,True
+microsomal_clearance,minimum_size,65,1,Q attention,all_starts,14.8,5,4,1,4,True
+microsomal_clearance,minimum_size,65,1,Q deep_sets,all_starts,17.0,5,4,1,4,True
+microsomal_clearance,minimum_size,65,1,Q selected,all_starts,23.51666666666667,5,4,1,4,True
+microsomal_clearance,minimum_size,65,1,Q statistics,all_starts,21.733333333333334,5,4,1,4,True
+microsomal_clearance,minimum_size,65,1,Random,all_starts,30.839999999999996,5,4,1,4,True
+microsomal_clearance,minimum_size,65,1,Value MCTS,all_starts,23.7,5,4,1,4,True
+microsomal_clearance,minimum_size,65,1,Value lookahead,all_starts,23.883333333333333,5,4,1,4,True
+microsomal_clearance,minimum_size,65,1,single_task_Delta greedy,all_starts,24.05,5,4,1,4,True
+microsomal_clearance,minimum_size,65,1,single_task_GP + EI,all_starts,14.7,5,4,1,4,True
+microsomal_clearance,minimum_size,65,1,single_task_NAP,all_starts,15.683333333333332,5,4,1,4,True
+microsomal_clearance,minimum_size,65,2,Cross-fitted single-task NAP,all_starts,9.133333333333333,5,4,1,4,True
+microsomal_clearance,minimum_size,65,2,Q attention,all_starts,9.6,5,4,1,4,True
+microsomal_clearance,minimum_size,65,2,Q deep_sets,all_starts,10.7,5,4,1,4,True
+microsomal_clearance,minimum_size,65,2,Q selected,all_starts,11.416666666666666,5,4,1,4,True
+microsomal_clearance,minimum_size,65,2,Q statistics,all_starts,10.633333333333333,5,4,1,4,True
+microsomal_clearance,minimum_size,65,2,Random,all_starts,17.606666666666666,5,4,1,4,True
+microsomal_clearance,minimum_size,65,2,Value MCTS,all_starts,11.3,5,4,1,4,True
+microsomal_clearance,minimum_size,65,2,Value lookahead,all_starts,12.1,5,4,1,4,True
+microsomal_clearance,minimum_size,65,2,single_task_Delta greedy,all_starts,8.05,5,4,1,4,True
+microsomal_clearance,minimum_size,65,2,single_task_GP + EI,all_starts,10.95,5,4,1,4,True
+microsomal_clearance,minimum_size,65,2,single_task_NAP,all_starts,5.616666666666666,5,4,1,4,True
+microsomal_clearance,minimum_size,65,3,Cross-fitted single-task NAP,all_starts,9.1,5,4,1,4,True
+microsomal_clearance,minimum_size,65,3,Q attention,all_starts,9.383333333333335,5,4,1,4,True
+microsomal_clearance,minimum_size,65,3,Q deep_sets,all_starts,10.5,5,4,1,4,True
+microsomal_clearance,minimum_size,65,3,Q selected,all_starts,10.2,5,4,1,4,True
+microsomal_clearance,minimum_size,65,3,Q statistics,all_starts,9.666666666666666,5,4,1,4,True
+microsomal_clearance,minimum_size,65,3,Random,all_starts,15.14,5,4,1,4,True
+microsomal_clearance,minimum_size,65,3,Value MCTS,all_starts,10.1,5,4,1,4,True
+microsomal_clearance,minimum_size,65,3,Value lookahead,all_starts,10.333333333333332,5,4,1,4,True
+microsomal_clearance,minimum_size,65,3,single_task_Delta greedy,all_starts,7.95,5,4,1,4,True
+microsomal_clearance,minimum_size,65,3,single_task_GP + EI,all_starts,10.85,5,4,1,4,True
+microsomal_clearance,minimum_size,65,3,single_task_NAP,all_starts,5.5,5,4,1,4,True
+microsomal_clearance,minimum_size,65,4,Cross-fitted single-task NAP,all_starts,7.683333333333333,5,4,1,4,True
+microsomal_clearance,minimum_size,65,4,Q attention,all_starts,6.533333333333333,5,4,1,4,True
+microsomal_clearance,minimum_size,65,4,Q deep_sets,all_starts,9.266666666666667,5,4,1,4,True
+microsomal_clearance,minimum_size,65,4,Q selected,all_starts,6.816666666666667,5,4,1,4,True
+microsomal_clearance,minimum_size,65,4,Q statistics,all_starts,6.583333333333333,5,4,1,4,True
+microsomal_clearance,minimum_size,65,4,Random,all_starts,12.959999999999999,5,4,1,4,True
+microsomal_clearance,minimum_size,65,4,Value MCTS,all_starts,6.6,5,4,1,4,True
+microsomal_clearance,minimum_size,65,4,Value lookahead,all_starts,6.35,5,4,1,4,True
+microsomal_clearance,minimum_size,65,4,single_task_Delta greedy,all_starts,4.95,5,4,1,4,True
+microsomal_clearance,minimum_size,65,4,single_task_GP + EI,all_starts,9.45,5,4,1,4,True
+microsomal_clearance,minimum_size,65,4,single_task_NAP,all_starts,5.216666666666667,5,4,1,4,True
+microsomal_clearance,minimum_size,70,1,Cross-fitted single-task NAP,all_starts,13.1,5,4,1,4,True
+microsomal_clearance,minimum_size,70,1,Q attention,all_starts,14.8,5,4,1,4,True
+microsomal_clearance,minimum_size,70,1,Q deep_sets,all_starts,17.0,5,4,1,4,True
+microsomal_clearance,minimum_size,70,1,Q selected,all_starts,23.51666666666667,5,4,1,4,True
+microsomal_clearance,minimum_size,70,1,Q statistics,all_starts,21.733333333333334,5,4,1,4,True
+microsomal_clearance,minimum_size,70,1,Random,all_starts,30.839999999999996,5,4,1,4,True
+microsomal_clearance,minimum_size,70,1,Value MCTS,all_starts,23.7,5,4,1,4,True
+microsomal_clearance,minimum_size,70,1,Value lookahead,all_starts,23.883333333333333,5,4,1,4,True
+microsomal_clearance,minimum_size,70,1,single_task_Delta greedy,all_starts,24.05,5,4,1,4,True
+microsomal_clearance,minimum_size,70,1,single_task_GP + EI,all_starts,14.7,5,4,1,4,True
+microsomal_clearance,minimum_size,70,1,single_task_NAP,all_starts,15.683333333333332,5,4,1,4,True
+microsomal_clearance,minimum_size,70,2,Cross-fitted single-task NAP,all_starts,9.133333333333333,5,4,1,4,True
+microsomal_clearance,minimum_size,70,2,Q attention,all_starts,9.6,5,4,1,4,True
+microsomal_clearance,minimum_size,70,2,Q deep_sets,all_starts,10.7,5,4,1,4,True
+microsomal_clearance,minimum_size,70,2,Q selected,all_starts,11.416666666666666,5,4,1,4,True
+microsomal_clearance,minimum_size,70,2,Q statistics,all_starts,10.633333333333333,5,4,1,4,True
+microsomal_clearance,minimum_size,70,2,Random,all_starts,17.606666666666666,5,4,1,4,True
+microsomal_clearance,minimum_size,70,2,Value MCTS,all_starts,11.3,5,4,1,4,True
+microsomal_clearance,minimum_size,70,2,Value lookahead,all_starts,12.1,5,4,1,4,True
+microsomal_clearance,minimum_size,70,2,single_task_Delta greedy,all_starts,8.05,5,4,1,4,True
+microsomal_clearance,minimum_size,70,2,single_task_GP + EI,all_starts,10.95,5,4,1,4,True
+microsomal_clearance,minimum_size,70,2,single_task_NAP,all_starts,5.616666666666666,5,4,1,4,True
+microsomal_clearance,minimum_size,70,3,Cross-fitted single-task NAP,all_starts,9.1,5,4,1,4,True
+microsomal_clearance,minimum_size,70,3,Q attention,all_starts,9.383333333333335,5,4,1,4,True
+microsomal_clearance,minimum_size,70,3,Q deep_sets,all_starts,10.5,5,4,1,4,True
+microsomal_clearance,minimum_size,70,3,Q selected,all_starts,10.2,5,4,1,4,True
+microsomal_clearance,minimum_size,70,3,Q statistics,all_starts,9.666666666666666,5,4,1,4,True
+microsomal_clearance,minimum_size,70,3,Random,all_starts,15.14,5,4,1,4,True
+microsomal_clearance,minimum_size,70,3,Value MCTS,all_starts,10.1,5,4,1,4,True
+microsomal_clearance,minimum_size,70,3,Value lookahead,all_starts,10.333333333333332,5,4,1,4,True
+microsomal_clearance,minimum_size,70,3,single_task_Delta greedy,all_starts,7.95,5,4,1,4,True
+microsomal_clearance,minimum_size,70,3,single_task_GP + EI,all_starts,10.85,5,4,1,4,True
+microsomal_clearance,minimum_size,70,3,single_task_NAP,all_starts,5.5,5,4,1,4,True
+microsomal_clearance,minimum_size,70,4,Cross-fitted single-task NAP,all_starts,7.683333333333333,5,4,1,4,True
+microsomal_clearance,minimum_size,70,4,Q attention,all_starts,6.533333333333333,5,4,1,4,True
+microsomal_clearance,minimum_size,70,4,Q deep_sets,all_starts,9.266666666666667,5,4,1,4,True
+microsomal_clearance,minimum_size,70,4,Q selected,all_starts,6.816666666666667,5,4,1,4,True
+microsomal_clearance,minimum_size,70,4,Q statistics,all_starts,6.583333333333333,5,4,1,4,True
+microsomal_clearance,minimum_size,70,4,Random,all_starts,12.959999999999999,5,4,1,4,True
+microsomal_clearance,minimum_size,70,4,Value MCTS,all_starts,6.6,5,4,1,4,True
+microsomal_clearance,minimum_size,70,4,Value lookahead,all_starts,6.35,5,4,1,4,True
+microsomal_clearance,minimum_size,70,4,single_task_Delta greedy,all_starts,4.95,5,4,1,4,True
+microsomal_clearance,minimum_size,70,4,single_task_GP + EI,all_starts,9.45,5,4,1,4,True
+microsomal_clearance,minimum_size,70,4,single_task_NAP,all_starts,5.216666666666667,5,4,1,4,True
+microsomal_clearance,minimum_size,75,1,Cross-fitted single-task NAP,all_starts,12.916666666666666,2,2,1,2,True
+microsomal_clearance,minimum_size,75,1,Q attention,all_starts,16.75,2,2,1,2,True
+microsomal_clearance,minimum_size,75,1,Q deep_sets,all_starts,18.791666666666668,2,2,1,2,True
+microsomal_clearance,minimum_size,75,1,Q selected,all_starts,19.958333333333332,2,2,1,2,True
+microsomal_clearance,minimum_size,75,1,Q statistics,all_starts,19.791666666666668,2,2,1,2,True
+microsomal_clearance,minimum_size,75,1,Random,all_starts,22.6,2,2,1,2,True
+microsomal_clearance,minimum_size,75,1,Value MCTS,all_starts,19.5,2,2,1,2,True
+microsomal_clearance,minimum_size,75,1,Value lookahead,all_starts,19.458333333333332,2,2,1,2,True
+microsomal_clearance,minimum_size,75,1,single_task_Delta greedy,all_starts,27.125,2,2,1,2,True
+microsomal_clearance,minimum_size,75,1,single_task_GP + EI,all_starts,16.125,2,2,1,2,True
+microsomal_clearance,minimum_size,75,1,single_task_NAP,all_starts,29.375,2,2,1,2,True
+microsomal_clearance,minimum_size,75,2,Cross-fitted single-task NAP,all_starts,11.666666666666666,2,2,1,2,True
+microsomal_clearance,minimum_size,75,2,Q attention,all_starts,5.416666666666667,2,2,1,2,True
+microsomal_clearance,minimum_size,75,2,Q deep_sets,all_starts,9.75,2,2,1,2,True
+microsomal_clearance,minimum_size,75,2,Q selected,all_starts,4.958333333333333,2,2,1,2,True
+microsomal_clearance,minimum_size,75,2,Q statistics,all_starts,4.791666666666667,2,2,1,2,True
+microsomal_clearance,minimum_size,75,2,Random,all_starts,10.6,2,2,1,2,True
+microsomal_clearance,minimum_size,75,2,Value MCTS,all_starts,5.916666666666666,2,2,1,2,True
+microsomal_clearance,minimum_size,75,2,Value lookahead,all_starts,5.083333333333333,2,2,1,2,True
+microsomal_clearance,minimum_size,75,2,single_task_Delta greedy,all_starts,2.0,2,2,1,2,True
+microsomal_clearance,minimum_size,75,2,single_task_GP + EI,all_starts,15.125,2,2,1,2,True
+microsomal_clearance,minimum_size,75,2,single_task_NAP,all_starts,8.291666666666666,2,2,1,2,True
+microsomal_clearance,minimum_size,75,3,Cross-fitted single-task NAP,all_starts,11.666666666666666,2,2,1,2,True
+microsomal_clearance,minimum_size,75,3,Q attention,all_starts,5.416666666666667,2,2,1,2,True
+microsomal_clearance,minimum_size,75,3,Q deep_sets,all_starts,9.75,2,2,1,2,True
+microsomal_clearance,minimum_size,75,3,Q selected,all_starts,4.958333333333333,2,2,1,2,True
+microsomal_clearance,minimum_size,75,3,Q statistics,all_starts,4.791666666666667,2,2,1,2,True
+microsomal_clearance,minimum_size,75,3,Random,all_starts,10.6,2,2,1,2,True
+microsomal_clearance,minimum_size,75,3,Value MCTS,all_starts,5.916666666666666,2,2,1,2,True
+microsomal_clearance,minimum_size,75,3,Value lookahead,all_starts,5.083333333333333,2,2,1,2,True
+microsomal_clearance,minimum_size,75,3,single_task_Delta greedy,all_starts,2.0,2,2,1,2,True
+microsomal_clearance,minimum_size,75,3,single_task_GP + EI,all_starts,15.125,2,2,1,2,True
+microsomal_clearance,minimum_size,75,3,single_task_NAP,all_starts,8.291666666666666,2,2,1,2,True
+microsomal_clearance,minimum_size,75,4,Cross-fitted single-task NAP,all_starts,11.666666666666666,2,2,1,2,True
+microsomal_clearance,minimum_size,75,4,Q attention,all_starts,5.416666666666667,2,2,1,2,True
+microsomal_clearance,minimum_size,75,4,Q deep_sets,all_starts,9.75,2,2,1,2,True
+microsomal_clearance,minimum_size,75,4,Q selected,all_starts,4.958333333333333,2,2,1,2,True
+microsomal_clearance,minimum_size,75,4,Q statistics,all_starts,4.791666666666667,2,2,1,2,True
+microsomal_clearance,minimum_size,75,4,Random,all_starts,10.6,2,2,1,2,True
+microsomal_clearance,minimum_size,75,4,Value MCTS,all_starts,5.916666666666666,2,2,1,2,True
+microsomal_clearance,minimum_size,75,4,Value lookahead,all_starts,5.083333333333333,2,2,1,2,True
+microsomal_clearance,minimum_size,75,4,single_task_Delta greedy,all_starts,2.0,2,2,1,2,True
+microsomal_clearance,minimum_size,75,4,single_task_GP + EI,all_starts,15.125,2,2,1,2,True
+microsomal_clearance,minimum_size,75,4,single_task_NAP,all_starts,8.291666666666666,2,2,1,2,True
+microsomal_clearance,minimum_size,80,1,Cross-fitted single-task NAP,all_starts,24.0,1,1,1,1,True
+microsomal_clearance,minimum_size,80,1,Q attention,all_starts,32.166666666666664,1,1,1,1,True
+microsomal_clearance,minimum_size,80,1,Q deep_sets,all_starts,36.0,1,1,1,1,True
+microsomal_clearance,minimum_size,80,1,Q selected,all_starts,37.75,1,1,1,1,True
+microsomal_clearance,minimum_size,80,1,Q statistics,all_starts,37.75,1,1,1,1,True
+microsomal_clearance,minimum_size,80,1,Random,all_starts,40.0,1,1,1,1,True
+microsomal_clearance,minimum_size,80,1,Value MCTS,all_starts,35.833333333333336,1,1,1,1,True
+microsomal_clearance,minimum_size,80,1,Value lookahead,all_starts,37.0,1,1,1,1,True
+microsomal_clearance,minimum_size,80,1,single_task_Delta greedy,all_starts,51.25,1,1,1,1,True
+microsomal_clearance,minimum_size,80,1,single_task_GP + EI,all_starts,27.5,1,1,1,1,True
+microsomal_clearance,minimum_size,80,1,single_task_NAP,all_starts,56.416666666666664,1,1,1,1,True
+microsomal_clearance,minimum_size,80,2,Cross-fitted single-task NAP,all_starts,21.5,1,1,1,1,True
+microsomal_clearance,minimum_size,80,2,Q attention,all_starts,9.5,1,1,1,1,True
+microsomal_clearance,minimum_size,80,2,Q deep_sets,all_starts,17.916666666666668,1,1,1,1,True
+microsomal_clearance,minimum_size,80,2,Q selected,all_starts,7.75,1,1,1,1,True
+microsomal_clearance,minimum_size,80,2,Q statistics,all_starts,7.75,1,1,1,1,True
+microsomal_clearance,minimum_size,80,2,Random,all_starts,16.0,1,1,1,1,True
+microsomal_clearance,minimum_size,80,2,Value MCTS,all_starts,8.666666666666666,1,1,1,1,True
+microsomal_clearance,minimum_size,80,2,Value lookahead,all_starts,8.25,1,1,1,1,True
+microsomal_clearance,minimum_size,80,2,single_task_Delta greedy,all_starts,1.0,1,1,1,1,True
+microsomal_clearance,minimum_size,80,2,single_task_GP + EI,all_starts,25.5,1,1,1,1,True
+microsomal_clearance,minimum_size,80,2,single_task_NAP,all_starts,14.25,1,1,1,1,True
+microsomal_clearance,minimum_size,80,3,Cross-fitted single-task NAP,all_starts,21.5,1,1,1,1,True
+microsomal_clearance,minimum_size,80,3,Q attention,all_starts,9.5,1,1,1,1,True
+microsomal_clearance,minimum_size,80,3,Q deep_sets,all_starts,17.916666666666668,1,1,1,1,True
+microsomal_clearance,minimum_size,80,3,Q selected,all_starts,7.75,1,1,1,1,True
+microsomal_clearance,minimum_size,80,3,Q statistics,all_starts,7.75,1,1,1,1,True
+microsomal_clearance,minimum_size,80,3,Random,all_starts,16.0,1,1,1,1,True
+microsomal_clearance,minimum_size,80,3,Value MCTS,all_starts,8.666666666666666,1,1,1,1,True
+microsomal_clearance,minimum_size,80,3,Value lookahead,all_starts,8.25,1,1,1,1,True
+microsomal_clearance,minimum_size,80,3,single_task_Delta greedy,all_starts,1.0,1,1,1,1,True
+microsomal_clearance,minimum_size,80,3,single_task_GP + EI,all_starts,25.5,1,1,1,1,True
+microsomal_clearance,minimum_size,80,3,single_task_NAP,all_starts,14.25,1,1,1,1,True
+microsomal_clearance,minimum_size,80,4,Cross-fitted single-task NAP,all_starts,21.5,1,1,1,1,True
+microsomal_clearance,minimum_size,80,4,Q attention,all_starts,9.5,1,1,1,1,True
+microsomal_clearance,minimum_size,80,4,Q deep_sets,all_starts,17.916666666666668,1,1,1,1,True
+microsomal_clearance,minimum_size,80,4,Q selected,all_starts,7.75,1,1,1,1,True
+microsomal_clearance,minimum_size,80,4,Q statistics,all_starts,7.75,1,1,1,1,True
+microsomal_clearance,minimum_size,80,4,Random,all_starts,16.0,1,1,1,1,True
+microsomal_clearance,minimum_size,80,4,Value MCTS,all_starts,8.666666666666666,1,1,1,1,True
+microsomal_clearance,minimum_size,80,4,Value lookahead,all_starts,8.25,1,1,1,1,True
+microsomal_clearance,minimum_size,80,4,single_task_Delta greedy,all_starts,1.0,1,1,1,1,True
+microsomal_clearance,minimum_size,80,4,single_task_GP + EI,all_starts,25.5,1,1,1,1,True
+microsomal_clearance,minimum_size,80,4,single_task_NAP,all_starts,14.25,1,1,1,1,True

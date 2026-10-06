@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "test_pools": 4625,
+  "linked_groups": 2011,
+  "large_pools": 580,
+  "large_groups": 334,
+  "checks": [
+    "Five linked-group folds remain disjoint",
+    "Fixed hidden queries exactly match preceding evaluation",
+    "Frozen checkpoint predictions reproduce original saved arrays",
+    "Single-hit means exactly preserved by frozen averaging",
+    "Checkpoint snapshot, input data, model weights, source and validation decisions match SHA256 locks",
+    "Equal-weight formula, order and padding invariance, hidden-target isolation, gradients and oracle alignment tested"
+  ]
+}

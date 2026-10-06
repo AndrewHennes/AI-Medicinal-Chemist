@@ -1,0 +1,60 @@
+{
+  "outer_folds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "neural_final_fits": 450,
+  "test_pools": 4625,
+  "large_pools": 580,
+  "linked_groups": 2011,
+  "large_linked_groups": 334,
+  "last_checkpoint_fraction": 0.0022222222222222222,
+  "source": "Existing GP fixed-hidden-query panel with explicit identity/target/mask assertions",
+  "tests": {
+    "gaussian_nn": "permutation, target isolation, padding, finite gradients, density and quantile checks passed",
+    "bayesian_nn": "permutation, target isolation, padding, finite gradients, density and quantile checks passed",
+    "evidential_nig": "permutation, target isolation, padding, finite gradients, density and quantile checks passed",
+    "attentive_np": "permutation, target isolation, padding, finite gradients, density and quantile checks passed",
+    "metric_np": "permutation, target isolation, padding, finite gradients, density and quantile checks passed",
+    "split_and_panel_audit": {
+      "0/microsomal_clearance": 368,
+      "0/in_vivo_clearance": 122,
+      "0/protein_binding": 286,
+      "0/cellular_clearance": 155,
+      "0/permeability": 117,
+      "0/efflux": 77,
+      "1/microsomal_clearance": 364,
+      "1/in_vivo_clearance": 104,
+      "1/protein_binding": 148,
+      "1/cellular_clearance": 92,
+      "1/permeability": 99,
+      "1/efflux": 66,
+      "2/microsomal_clearance": 364,
+      "2/in_vivo_clearance": 104,
+      "2/protein_binding": 149,
+      "2/cellular_clearance": 92,
+      "2/permeability": 100,
+      "2/efflux": 66,
+      "3/microsomal_clearance": 365,
+      "3/in_vivo_clearance": 104,
+      "3/protein_binding": 149,
+      "3/cellular_clearance": 92,
+      "3/permeability": 100,
+      "3/efflux": 66,
+      "4/microsomal_clearance": 366,
+      "4/in_vivo_clearance": 103,
+      "4/protein_binding": 148,
+      "4/cellular_clearance": 93,
+      "4/permeability": 100,
+      "4/efflux": 66
+    }
+  }
+}

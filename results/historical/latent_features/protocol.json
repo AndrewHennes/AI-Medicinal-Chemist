@@ -1,0 +1,50 @@
+{
+  "dimensions": [
+    0,
+    2,
+    4,
+    8,
+    16
+  ],
+  "folds": 5,
+  "predictor_seeds": [
+    11,
+    29,
+    47
+  ],
+  "policy_seeds": [
+    11,
+    29,
+    47
+  ],
+  "endpoints": [
+    "microsomal_clearance",
+    "in_vivo_clearance",
+    "protein_binding",
+    "cellular_clearance",
+    "permeability",
+    "efflux"
+  ],
+  "ppo": {
+    "steps": 400,
+    "rollouts": 8,
+    "epochs": 3,
+    "lr": 0.0003,
+    "clip": 0.2,
+    "entropy": 0.01,
+    "critic_weight": 0.25,
+    "minibatch": 64
+  },
+  "predictor": "Average mean + average-reference kernel, PCA32/width64/24 iterations. Three fresh members, each 4000 updates. Frozen during PPO.",
+  "split": "Existing global linked-series/document/molecule outer folds. Outer training groups split approximately half predictor / half PPO. All outer validation groups used for model checkpoint selection; test never used for selection.",
+  "mean_sd": "Mean and total mixture SD in endpoint-standardized initial-hit-relative coordinates. Raw predictive variance, no post-hoc temperature.",
+  "latent": "Mean of pair encoder hidden features over all acquired references for each of three predictor members; concatenate 3x64 coordinates; LayerNorm192 -> learned linear projection to d -> tanh.",
+  "actor": "Pointwise FFN: (2+d) ->64 tanh ->64 tanh ->1. No pooling, attention, EI, incumbent, progress, or raw molecular features in actor.",
+  "critic": "Separate common critic sees pooled mean/SD and remaining count; no latent features. Critic is discarded at deployment.",
+  "objective": "Undiscounted -1 reward for each purchase until any tied global optimum is acquired. PPO clipped surrogate; full episode Monte Carlo returns.",
+  "initialization": "Fresh random actor and projection, no imitation/pretraining. Predictor also refitted from scratch on its disjoint subset.",
+  "selection": "Minimum validation top1 purchases / exact random expectation: half all validation pools, half >=15. Checks100/200/300/400; no step0 candidate.",
+  "evaluation": "K=1; four fixed worst-half starting hits; deterministic highest score; purchases to any top1/top2/top3/top4, initial hit free and ties included.",
+  "primary": ">=15 pools; endpoint-balanced pooled metrics and linked-group paired bootstrap. All eligible >=3 pools also reported.",
+  "scope": "Controlled feature ablation with fixed PPO hyperparameters. Species pooled within each endpoint."
+}

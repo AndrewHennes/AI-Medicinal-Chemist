@@ -1,0 +1,6 @@
+{
+  "artifacts_root": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/repository_benchmark",
+  "prepared_data_source": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/multitask_mean_kernel_search/data",
+  "published_benchmark_root": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark",
+  "published_offset_root": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/alpaca_offset_ablation"
+}

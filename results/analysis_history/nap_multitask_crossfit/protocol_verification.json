@@ -1,0 +1,10 @@
+{
+  "source_hashes_verified": 19,
+  "checkpoint_hashes_verified": 66,
+  "completed_followup_policy_fits": 68,
+  "trajectories_verified": 86484,
+  "crossfit_teacher_manifests_verified": 18,
+  "group_splits_disjoint": true,
+  "all_selected_parameters_finite": true,
+  "evaluation_scope": "Reused cohorts; controller-seed uncertainty is conditional on fixed forecasters."
+}

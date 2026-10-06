@@ -1,0 +1,69 @@
+{
+  "folds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "endpoints": [
+    "microsomal_clearance",
+    "in_vivo_clearance",
+    "protein_binding",
+    "cellular_clearance",
+    "permeability",
+    "efflux"
+  ],
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "predictor_seeds": [
+    11,
+    29,
+    47
+  ],
+  "predictor_updates": 4000,
+  "predictor_batch_size": 8,
+  "predictor_validate_every": 200,
+  "updates": 400,
+  "validate_every": 25,
+  "validation_draws": 2,
+  "validation_pool_limit": 40,
+  "test_draws": 4,
+  "width": 64,
+  "groups": 2,
+  "group_size": 4,
+  "preference_groups": 128,
+  "preference_batch": 8,
+  "title": "Batch-selection comparison",
+  "output_directory": "batch_selection_comparison",
+  "predictor_method": "neural_mean_gp",
+  "batch_sizes": [
+    1,
+    2,
+    5
+  ],
+  "dimension": 32,
+  "depth": 2,
+  "heads": 4,
+  "temperature": 0.5,
+  "learning_rate": 0.0003,
+  "training_states": 12,
+  "rollouts": 6,
+  "families": [
+    "deep_sets",
+    "pair_transformer",
+    "gumbel",
+    "batch_ppo"
+  ],
+  "controls": [
+    "gp_topk",
+    "ei_topk",
+    "fantasy_ei",
+    "qei",
+    "prob_best",
+    "random"
+  ]
+}

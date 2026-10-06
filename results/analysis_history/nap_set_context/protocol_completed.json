@@ -1,0 +1,8 @@
+{
+  "status": "complete",
+  "models": 1080,
+  "training_runs": 3030,
+  "core_complete": true,
+  "summary_controls_complete": true,
+  "compact_followup_complete": true
+}

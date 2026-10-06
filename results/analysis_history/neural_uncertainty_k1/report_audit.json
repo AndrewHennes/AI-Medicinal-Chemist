@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "folds": 5,
+  "test_pools": 4625,
+  "large_pools": 580,
+  "linked_groups": 2011,
+  "large_linked_groups": 334,
+  "starts": 18500,
+  "trajectories": 148000,
+  "methods": [
+    "neural_ei",
+    "neural_greedy",
+    "neural_ei_raw",
+    "neural_single_ei",
+    "gp_ei",
+    "gp_greedy",
+    "original_gp_ei",
+    "delta_greedy",
+    "random"
+  ],
+  "checks": [
+    "locked weights/data/calibrations unchanged",
+    "same historical acquisition starts",
+    "exact historical GP+EI reproduction",
+    "no repeated purchases",
+    "all trajectories stop on first tied optimum",
+    "all acquisition metrics independently recomputed from trajectories",
+    "nested top-k counts",
+    "group-separated folds and predictor train/validation/test",
+    "complete matched method coverage",
+    "cached neural predictions numerically match original forward pass"
+  ]
+}

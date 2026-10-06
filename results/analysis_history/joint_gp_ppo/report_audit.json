@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "pools": 4625,
+  "large_pools": 580,
+  "large_groups": 334,
+  "starts": 18500,
+  "folds": 5,
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "K": 1,
+  "models": 450,
+  "total_final_fit_episodes": 2160000,
+  "total_final_fit_transitions": 5087824,
+  "checks": [
+    "all 450 joint fits completed",
+    "all selected means, kernels and actors changed",
+    "no initial checkpoint selected",
+    "matched four hits and all outer test pools",
+    "three seeds for every joint weight",
+    "nested top-k counts",
+    "checkpoint/source/reference hashes",
+    "off-policy quotas proportional to molecule count",
+    "zero off-policy examples at weight zero"
+  ]
+}

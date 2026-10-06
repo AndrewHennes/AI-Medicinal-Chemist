@@ -1,0 +1,29 @@
+{
+  "output_directory": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/repository_benchmark/local_adaptation",
+  "folds": [0, 1, 2, 3, 4],
+  "endpoints": ["microsomal_clearance", "in_vivo_clearance", "protein_binding", "cellular_clearance", "permeability", "efflux"],
+  "seeds": [11, 29, 47],
+  "context_sizes": [1, 2, 3, 5, 10],
+  "query_count": 5,
+  "minimum_pool_size": 3,
+  "draws": 3,
+  "expected_outcome_control": true,
+  "experiment_context_size": 2,
+  "experiment_draws": 2,
+  "maximum_candidates": 12,
+  "seed": 2026,
+  "models": [
+    {
+      "method": "reference",
+      "checkpoint_template": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_{fold}/{endpoint}/reference/final/seed_{seed}/best.pt"
+    },
+    {
+      "method": "neural_mean_gp",
+      "checkpoint_template": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_{fold}/{endpoint}/neural_mean_gp/final/seed_{seed}/best.pt"
+    },
+    {
+      "method": "transfer",
+      "checkpoint_template": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/meta_learning_benchmark/runs/fold_{fold}/{endpoint}/transfer/final/seed_{seed}/best.pt"
+    }
+  ]
+}

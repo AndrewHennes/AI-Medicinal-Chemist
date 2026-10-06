@@ -1,0 +1,9 @@
+{
+  "status": "complete with explicit coverage accounting",
+  "complete_endpoint_method_comparisons": 69,
+  "total_endpoint_method_comparisons": 72,
+  "prediction_cases": 496980,
+  "acquisition_cases": 232736,
+  "selection_changes": "Unstable configurations rejected using training/validation only; architectures unchanged.",
+  "warning": "Development-fold evaluation. Prediction intervals quantify model uncertainty; benchmark-metric intervals are reported separately."
+}

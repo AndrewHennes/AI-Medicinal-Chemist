@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "top1_matches_existing_purchase_counts": true,
+  "nested_targets_checked": true,
+  "cases": 11192,
+  "policy_and_random_rows": 279800,
+  "methods": 13,
+  "outer_test_pools": 2798,
+  "each_pool_tested_once": true,
+  "source_groups": 1114,
+  "topk_pdf_pages": 13,
+  "endpoint_pdf_pages": 3,
+  "ranks": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "displayed_metrics": [
+    "top1_purchases",
+    "top2_purchases",
+    "top3_purchases",
+    "top4_purchases"
+  ],
+  "training_modified": false,
+  "training_anchor_manifests_checked": 30,
+  "ties": "All compounds tied at the kth order statistic qualify.",
+  "small_pools": "Use min(k,n); the initial hit qualifies automatically when k>=n.",
+  "initial_hit": "Free, counted as zero purchases when already acceptable.",
+  "x_axes": [
+    "Exact number of molecules",
+    "Minimum pool-size cutoff"
+  ],
+  "primary_population": "All matched starts; supporting nontrivial-case scores exported separately."
+}

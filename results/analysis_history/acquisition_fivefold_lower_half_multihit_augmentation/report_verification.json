@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "pools": 4625,
+  "methods": [
+    "Random",
+    "single_task_Delta greedy",
+    "single_task_GP + EI",
+    "single_task_NAP",
+    "Cross-fitted single-task NAP",
+    "Single-task NAP with multi-hit augmentation",
+    "Cross-fitted single-task NAP with multi-hit augmentation"
+  ],
+  "matched_single_hit_starts": true,
+  "unchanged_baseline_trajectories": true,
+  "pages": 8
+}

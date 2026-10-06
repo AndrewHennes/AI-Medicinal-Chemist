@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "source_files_unchanged": 990,
+  "full_saved_choices_verified": 1157280,
+  "analyzed_preoptimum_choices": 148476,
+  "matched_episodes": 55500,
+  "baseline_purchase_metrics_identical": true,
+  "counterfactual_baseline_checks": 90,
+  "pdf_pages": 5,
+  "interactive_cases": 506
+}

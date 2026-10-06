@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "folds": 5,
+  "endpoints": 6,
+  "new_policies": 90,
+  "reused_baseline_policies": 90,
+  "frozen_predictor_members": 90,
+  "test_pools": 4625,
+  "large_test_pools": 580,
+  "linked_groups": 1724,
+  "large_linked_groups": 283,
+  "trajectories_checked": 129500,
+  "metric_rows_checked": 518000,
+  "baseline_reproduction_exact": true,
+  "checks": [
+    "All frozen sources, predictor and policy checkpoint hashes",
+    "Exact reproduction of every previous mean/SD acquisition count",
+    "Identical starts across methods",
+    "Only acquired outcomes in EI incumbent",
+    "Gaussian EI formula and stable-tail calculation tests",
+    "Every top-k count independently reconstructed from trajectories",
+    "No repeated purchases; correct first-optimum stopping",
+    "Fresh PPO actor updates; unchanged training budget and critic"
+  ]
+}

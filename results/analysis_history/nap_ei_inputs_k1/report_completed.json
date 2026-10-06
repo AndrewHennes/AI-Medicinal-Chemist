@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "report": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/nap_ei_inputs_k1/reports/ei_ingredients_K1_report.pdf",
+  "K": 1,
+  "primary_means": {
+    "analytic_ei": 5.524568965517242,
+    "imitate_ei": 5.497557471264368,
+    "ingredients": 5.709051724137931,
+    "moments": 5.69037356321839,
+    "random": 9.588193416178328
+  },
+  "audit": {
+    "status": "passed",
+    "pools": 4625,
+    "large_pools": 580,
+    "large_groups": 334,
+    "starts": 18500,
+    "folds": 5,
+    "seeds": [
+      11,
+      29,
+      47
+    ],
+    "K": 1,
+    "checks": [
+      "complete matched test pools",
+      "same four hits",
+      "three learned seeds",
+      "nested top-k counts",
+      "no duplicate outer test pools",
+      "source/checkpoint hashes unchanged"
+    ]
+  }
+}

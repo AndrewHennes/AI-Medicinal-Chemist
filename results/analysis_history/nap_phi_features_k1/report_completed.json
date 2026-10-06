@@ -1,0 +1,36 @@
+{
+  "status": "complete",
+  "report": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/nap_phi_features_k1/reports/normal_cdf_density_features_K1_report.pdf",
+  "K": 1,
+  "primary_means": {
+    "analytic_ei": 5.524568965517242,
+    "imitate_ei": 5.497557471264368,
+    "ingredients": 5.709051724137931,
+    "phi_features": 5.730172413793103,
+    "random": 9.588193416178328,
+    "three_inputs": 5.732902298850575
+  },
+  "significant_primary_comparisons": 0,
+  "audit": {
+    "status": "passed",
+    "pools": 4625,
+    "large_pools": 580,
+    "large_groups": 334,
+    "starts": 18500,
+    "folds": 5,
+    "seeds": [
+      11,
+      29,
+      47
+    ],
+    "K": 1,
+    "checks": [
+      "complete matched pool coverage",
+      "matched starting hits",
+      "three new model seeds",
+      "no duplicate outer test pools",
+      "nested target counts",
+      "frozen source/checkpoint/reference hashes"
+    ]
+  }
+}

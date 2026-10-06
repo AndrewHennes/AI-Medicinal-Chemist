@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "pools": 4625,
+  "large_pools": 580,
+  "large_groups": 334,
+  "starts": 18500,
+  "folds": 5,
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "K": 1,
+  "checks": [
+    "complete matched test pools",
+    "same four hits",
+    "three learned seeds",
+    "nested top-k counts",
+    "no duplicate outer test pools",
+    "source/checkpoint hashes unchanged"
+  ]
+}

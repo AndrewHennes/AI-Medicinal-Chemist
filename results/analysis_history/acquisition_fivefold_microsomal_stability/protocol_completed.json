@@ -1,0 +1,17 @@
+{
+  "complete": true,
+  "folds": 5,
+  "methods": [
+    "Random",
+    "single_task_Delta greedy",
+    "single_task_GP + EI",
+    "single_task_NAP",
+    "Cross-fitted single-task NAP"
+  ],
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "report": "/Users/asselism/Documents/Codex/2026-09-23/i-h/outputs/acquisition_fivefold/reports/single_task_minimum_pool_cutoff.pdf"
+}

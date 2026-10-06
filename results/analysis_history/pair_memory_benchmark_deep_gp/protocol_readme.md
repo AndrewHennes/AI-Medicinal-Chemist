@@ -1,0 +1,13 @@
+# Deep covariance and pairwise mean extension
+
+The extension retains outer folds, predictor-role development data, principal components, contexts, and hidden queries. Four GP families cross linear or pairwise-neural means with ordinary or deep kernels. Historical GP and delta models retain their original feature scaling; the newly trained GP provides the matched control.
+
+For a fixed reference r, the mean is either a linear difference or an unrestricted network on the concatenated query/reference representations. The latter is a valid mean for a reference-conditioned relative-outcome GP but is not forced to equal the difference of a single global scalar mean function. No sign-consistency or cycle constraints are added.
+
+The point kernel is Matérn-5/2, RBF, or Matérn plus a linear kernel. Deep variants first pass each molecule through the same learned network and apply the kernel to those features. This guarantees a positive semidefinite covariance, unlike an arbitrary scalar network on concatenated pairs. Differences have covariance K(i,j)-K(i,r)-K(r,j)+K(r,r). An independent molecule-level nugget is included before differencing, so all differences share the reference's noise term. The model predicts the stored measured outcomes, not noise-free latent biological effects or independent assay replicates.
+
+Training starts with 250 mean-only squared-error updates and then optimizes joint conditional Gaussian likelihood of hidden queries given observed local differences. Five ordinary-kernel configurations and eight configurations for each neural family vary input principal components, network widths and depth, latent kernel dimension, base kernel and learning rate. Screening uses 400 likelihood updates, followed by 2,400 updates for two promoted candidates per family, endpoint and fold. Validation marginal predictive likelihood, balancing context budgets and large pools, selects configurations and checkpoints. The selected configuration is repeated with two more seeds. A single variance multiplier is fitted on validation residuals and reported separately from raw GP uncertainty.
+
+Calibration evaluation includes Gaussian negative log predictive density, central interval coverage and width, standardized squared error, and nominal-versus-observed coverage curves. Measured-outcome and model-expected-outcome controls use the same revealed identities. Test outcomes are never used for tuning or recalibration.
+
+References: Wilson et al., Deep Kernel Learning (https://proceedings.mlr.press/v51/wilson16.html); Rasmussen and Williams, Gaussian Processes for Machine Learning, Chapter 2 (https://gaussianprocess.org/gpml/chapters/RW2.pdf).
